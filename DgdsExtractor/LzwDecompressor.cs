@@ -5,7 +5,7 @@ using System.Text;
 
 namespace DgdsExtractor
 {
-    /*
+	/*
      * This code is taken and modified from https://github.com/pevillarreal/LzwCompressor
      * 
      * Used with permission by the following MIT License
@@ -33,115 +33,115 @@ namespace DgdsExtractor
 
 	class LzwDecompressor
 	{
-        private const int MAX_BITS = 14; //maimxum bits allowed to read
-        private const int HASH_BIT = MAX_BITS - 8; //hash bit to use with the hasing algorithm to find correct index
-        private const int MAX_VALUE = (1 << MAX_BITS) - 1; //max value allowed based on max bits
-        private const int MAX_CODE = MAX_VALUE - 1; //max code possible
-        private const int TABLE_SIZE = 18041; //must be bigger than the maximum allowed by maxbits and prime
+		private const int MAX_BITS = 14; //maimxum bits allowed to read
+		private const int HASH_BIT = MAX_BITS - 8; //hash bit to use with the hasing algorithm to find correct index
+		private const int MAX_VALUE = (1 << MAX_BITS) - 1; //max value allowed based on max bits
+		private const int MAX_CODE = MAX_VALUE - 1; //max code possible
+		private const int TABLE_SIZE = 18041; //must be bigger than the maximum allowed by maxbits and prime
 
-        private int[] _iaCodeTable = new int[TABLE_SIZE]; //code table
-        private int[] _iaPrefixTable = new int[TABLE_SIZE]; //prefix table
-        private int[] _iaCharTable = new int[TABLE_SIZE]; //character table
+		private int[] _iaCodeTable = new int[TABLE_SIZE]; //code table
+		private int[] _iaPrefixTable = new int[TABLE_SIZE]; //prefix table
+		private int[] _iaCharTable = new int[TABLE_SIZE]; //character table
 
-        private ulong _iBitBuffer; //bit buffer to temporarily store bytes read from the files
-        private int _iBitCounter; //counter for knowing how many bits are in the bit buffer
+		private ulong _iBitBuffer; //bit buffer to temporarily store bytes read from the files
+		private int _iBitCounter; //counter for knowing how many bits are in the bit buffer
 
-        private void Initialize() //used to blank  out bit buffer incase this class is called to comprss and decompress from the same instance
-        {
-            _iBitBuffer = 0;
-            _iBitCounter = 0;
-        }
+		private void Initialize() //used to blank  out bit buffer incase this class is called to comprss and decompress from the same instance
+		{
+			_iBitBuffer = 0;
+			_iBitCounter = 0;
+		}
 
-        public byte[] Decompress(byte[] data)
-        {
-            MemoryStream input = new MemoryStream(data);
-            MemoryStream outData = new MemoryStream();
-            BinaryWriter output = new BinaryWriter(outData);
+		public byte[] Decompress(byte[] data)
+		{
+			MemoryStream input = new MemoryStream(data);
+			MemoryStream outData = new MemoryStream();
+			BinaryWriter output = new BinaryWriter(outData);
 
-            Initialize();
+			Initialize();
 
-            int iNextCode = 256;
-            int iNewCode, iOldCode;
-            byte bChar;
-            int iCurrentCode, iCounter;
-            byte[] baDecodeStack = new byte[TABLE_SIZE];
+			int iNextCode = 256;
+			int iNewCode, iOldCode;
+			byte bChar;
+			int iCurrentCode, iCounter;
+			byte[] baDecodeStack = new byte[TABLE_SIZE];
 
-            iOldCode = ReadCode(input);
-            bChar = (byte)iOldCode;
-            output.Write((byte)iOldCode); //write first byte since it is plain ascii
+			iOldCode = ReadCode(input);
+			bChar = (byte)iOldCode;
+			output.Write((byte)iOldCode); //write first byte since it is plain ascii
 
-            iNewCode = ReadCode(input);
+			iNewCode = ReadCode(input);
 
-            while (iNewCode != MAX_VALUE) //read file all file
-            {
-                if (iNewCode >= iNextCode)
-                { //fix for prefix+chr+prefix+char+prefx special case
-                    baDecodeStack[0] = bChar;
-                    iCounter = 1;
-                    iCurrentCode = iOldCode;
-                }
-                else
-                {
-                    iCounter = 0;
-                    iCurrentCode = iNewCode;
-                }
+			while (iNewCode != MAX_VALUE) //read file all file
+			{
+				if (iNewCode >= iNextCode)
+				{ //fix for prefix+chr+prefix+char+prefx special case
+					baDecodeStack[0] = bChar;
+					iCounter = 1;
+					iCurrentCode = iOldCode;
+				}
+				else
+				{
+					iCounter = 0;
+					iCurrentCode = iNewCode;
+				}
 
-                while (iCurrentCode > 255) //decode string by cycling back through the prefixes
-                {
-                    //lstDecodeStack.Add((byte)_iaCharTable[iCurrentCode]);
-                    //iCurrentCode = _iaPrefixTable[iCurrentCode];
-                    baDecodeStack[iCounter] = (byte)_iaCharTable[iCurrentCode];
-                    ++iCounter;
-                    if (iCounter >= MAX_CODE)
+				while (iCurrentCode > 255) //decode string by cycling back through the prefixes
+				{
+					//lstDecodeStack.Add((byte)_iaCharTable[iCurrentCode]);
+					//iCurrentCode = _iaPrefixTable[iCurrentCode];
+					baDecodeStack[iCounter] = (byte)_iaCharTable[iCurrentCode];
+					++iCounter;
+					if (iCounter >= MAX_CODE)
 					{
-                        Console.WriteLine("***DECOMPRESSION ERROR***");
-                        return data;
-                    }
-                        
-                    iCurrentCode = _iaPrefixTable[iCurrentCode];
-                }
+						Console.WriteLine("***DECOMPRESSION ERROR***");
+						return data;
+					}
 
-                baDecodeStack[iCounter] = (byte)iCurrentCode;
-                bChar = baDecodeStack[iCounter]; //set last char used
+					iCurrentCode = _iaPrefixTable[iCurrentCode];
+				}
 
-                while (iCounter >= 0) //write out decodestack
-                {
-                    output.Write(baDecodeStack[iCounter]);
-                    --iCounter;
-                }
+				baDecodeStack[iCounter] = (byte)iCurrentCode;
+				bChar = baDecodeStack[iCounter]; //set last char used
 
-                if (iNextCode <= MAX_CODE) //insert into tables
-                {
-                    _iaPrefixTable[iNextCode] = iOldCode;
-                    _iaCharTable[iNextCode] = bChar;
-                    ++iNextCode;
-                }
+				while (iCounter >= 0) //write out decodestack
+				{
+					output.Write(baDecodeStack[iCounter]);
+					--iCounter;
+				}
 
-                iOldCode = iNewCode;
+				if (iNextCode <= MAX_CODE) //insert into tables
+				{
+					_iaPrefixTable[iNextCode] = iOldCode;
+					_iaCharTable[iNextCode] = bChar;
+					++iNextCode;
+				}
 
-                iNewCode = ReadCode(input);
-            }
+				iOldCode = iNewCode;
 
-            output.Flush();
-            return outData.ToArray();
-        }
+				iNewCode = ReadCode(input);
+			}
 
-        private int ReadCode(Stream pReader)
-        {
-            uint iReturnVal;
+			output.Flush();
+			return outData.ToArray();
+		}
 
-            while (_iBitCounter <= 24) //fill up buffer
-            {
-                _iBitBuffer |= (ulong)pReader.ReadByte() << (24 - _iBitCounter); //insert byte into buffer
-                _iBitCounter += 8; //increment counter
-            }
+		private int ReadCode(Stream pReader)
+		{
+			uint iReturnVal;
 
-            iReturnVal = (uint)_iBitBuffer >> (32 - MAX_BITS); //get last byte from buffer so we can return it
-            _iBitBuffer <<= MAX_BITS; //remove it from buffer
-            _iBitCounter -= MAX_BITS; //decrement bit counter
+			while (_iBitCounter <= 24) //fill up buffer
+			{
+				_iBitBuffer |= (ulong)pReader.ReadByte() << (24 - _iBitCounter); //insert byte into buffer
+				_iBitCounter += 8; //increment counter
+			}
 
-            int temp = (int)iReturnVal;
-            return temp;
-        }
-    }
+			iReturnVal = (uint)_iBitBuffer >> (32 - MAX_BITS); //get last byte from buffer so we can return it
+			_iBitBuffer <<= MAX_BITS; //remove it from buffer
+			_iBitCounter -= MAX_BITS; //decrement bit counter
+
+			int temp = (int)iReturnVal;
+			return temp;
+		}
+	}
 }
