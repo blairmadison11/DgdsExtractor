@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using System.IO;
+using System.Linq;
 
 namespace DgdsExtractor
 {
@@ -65,14 +66,7 @@ namespace DgdsExtractor
 
 					byte[] compressedData = data.ReadBytes(Convert.ToInt32(size));
 
-					try
-					{
-						this.chunkData = DgdsUtilities.Decompress(compressionType, compressedData);
-					}
-					catch
-					{
-						Console.WriteLine("***DECOMPRESSION ERROR***");
-					}
+					this.chunkData = DgdsUtilities.Decompress(compressionType, compressedData);
 				}
 				else
 				{
@@ -83,15 +77,6 @@ namespace DgdsExtractor
 
 		public void Write(BinaryWriter writer)
 		{
-			if (type == AssetType.EX_BMP)
-			{
-				if (section == AssetSection.ID_BIN || section == AssetSection.ID_VQT)
-				{
-					writer.Write(chunkData);
-				}
-				return;
-			}
-
 			if (chunkData != null)
 			{
 				writer.Write(chunkData);
