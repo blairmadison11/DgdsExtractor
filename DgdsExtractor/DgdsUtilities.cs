@@ -9,11 +9,13 @@ namespace DgdsExtractor
 {
 	public static class DgdsUtilities
 	{
-		public static string ReadString(BinaryReader file)
+		private static DgdsLzw lzw = new DgdsLzw();
+
+		public static string ReadString(BinaryReader file, int size)
 		{
 			bool end = false;
 			StringBuilder sb = new StringBuilder();
-			for (int i = 0; i < 13; ++i)
+			for (int i = 0; i < size; ++i)
 			{
 				byte c = file.ReadByte();
 
@@ -44,7 +46,6 @@ namespace DgdsExtractor
 					}
 				case 0x02:
 					{
-						LzwDecompressor lzw = new LzwDecompressor();
 						output = lzw.Decompress(data);
 						break;
 					}

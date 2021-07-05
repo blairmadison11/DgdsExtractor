@@ -28,16 +28,16 @@ namespace DgdsExtractor
 		public void ReadAsset(BinaryReader file)
 		{
 			file.BaseStream.Seek(offset, SeekOrigin.Begin);
-			this.filename = DgdsUtilities.ReadString(file);
+			this.filename = DgdsUtilities.ReadString(file, 13);
 			this.isFlatFile = DgdsMetadata.IsFlatFile(DgdsMetadata.GetAssetType(filename.Substring(filename.LastIndexOf('.') + 1)));
 
 			uint size = file.ReadUInt32();
 			this.data = file.ReadBytes(Convert.ToInt32(size));
-			BinaryReader dataReader = new BinaryReader(new MemoryStream(this.data));
 
 			if (!isFlatFile)
 			{
 				chunks = new List<DgdsChunk>();
+				using BinaryReader dataReader = new BinaryReader(new MemoryStream(this.data));
 				ReadChunks(dataReader, AssetType.NONE);
 			}
 		}

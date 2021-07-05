@@ -32,14 +32,11 @@ namespace DgdsExtractor
 
 			if (ext[2] == 0)
 			{
-				extension = string.Join("", Convert.ToChar(ext[0]), Convert.ToChar(ext[1]));
+				extension = string.Concat(Convert.ToChar(ext[0]), Convert.ToChar(ext[1]));
 			}
 			else
 			{
-				extension = string.Join("",
-					Convert.ToChar(ext[0]),
-					Convert.ToChar(ext[1]),
-					Convert.ToChar(ext[2]));
+				extension = string.Concat(Convert.ToChar(ext[0]), Convert.ToChar(ext[1]), Convert.ToChar(ext[2]));
 			}
 
 			if (type == AssetType.NONE)
@@ -54,23 +51,26 @@ namespace DgdsExtractor
 
 			uint sizeData = data.ReadUInt32();
 			this.isContainer = (sizeData >> 31) == 1;
-			uint size = (sizeData & 0x7FFFFFFF);
+			int size = Convert.ToInt32(sizeData & 0x7FFFFFFF);
 			
 			if (!isContainer)
 			{
 				if (isPacked)
 				{
-					size -= 5;
 					byte compressionType = data.ReadByte();
-					data.ReadUInt32();
+					uint unpackSize = data.ReadUInt32();
 
-					byte[] compressedData = data.ReadBytes(Convert.ToInt32(size));
+					byte[] compressedData = data.ReadBytes(size - 5);
 
 					this.chunkData = DgdsUtilities.Decompress(compressionType, compressedData);
+					if (this.chunkData.Length != unpackSize)
+					{
+						Console.WriteLine("Unpack size mismatch!");
+					}
 				}
 				else
 				{
-					this.chunkData = data.ReadBytes(Convert.ToInt32(size));
+					this.chunkData = data.ReadBytes(size);
 				}
 			}
 		}

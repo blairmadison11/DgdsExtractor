@@ -27,7 +27,7 @@ namespace DgdsExtractor
 
 				for (int i = 0; i < numVolumes; ++i)
 				{
-					string volName = DgdsUtilities.ReadString(file);
+					string volName = DgdsUtilities.ReadString(file, 13);
 					uint numFiles = file.ReadUInt16();
 					volumes[i] = new DgdsVolume(directory, volName, Convert.ToInt32(numFiles));
 

@@ -4,58 +4,9 @@ using System.Text;
 
 namespace DgdsExtractor
 {
-	public enum AssetSection
-	{
-		ID_BIN,
-		ID_DAT,
-		ID_FNM,
-		ID_FNT,
-		ID_GAD,
-		ID_INF,
-		ID_MTX,
-		ID_PAG,
-		ID_REQ,
-		ID_RES,
-		ID_SCR,
-		ID_SDS,
-		ID_SNG,
-		ID_TAG,
-		ID_TT3,
-		ID_TTI,
-		ID_VER,
-		ID_VGA,
-		ID_VQT,
-		ID_MA8,
-		ID_DDS,
-		ID_THD,
-		NONE
-	}
+	public enum AssetSection { ID_BIN, ID_DAT, ID_FNM, ID_FNT, ID_GAD, ID_INF, ID_MTX, ID_PAG, ID_REQ, ID_RES, ID_SCR, ID_SDS, ID_SNG, ID_TAG, ID_TT3, ID_TTI, ID_VER, ID_VGA, ID_VQT, ID_MA8, ID_DDS, ID_THD, NONE }
 
-	public enum AssetType
-	{
-		EX_ADH,
-		EX_ADL,
-		EX_ADS,
-		EX_AMG,
-		EX_BMP,
-		EX_GDS,
-		EX_INS,
-		EX_PAL,
-		EX_FNT,
-		EX_REQ,
-		EX_RST,
-		EX_SCR,
-		EX_SDS,
-		EX_SNG,
-		EX_SX,
-		EX_TTM,
-		EX_VIN,
-		EX_DAT,
-		EX_DDS,
-		EX_TDS,
-		EX_OVL,
-		NONE
-	}
+	public enum AssetType { EX_ADH, EX_ADL, EX_ADS, EX_AMG, EX_BMP, EX_GDS, EX_INS, EX_PAL, EX_FNT, EX_REQ, EX_RST, EX_SCR, EX_SDS, EX_SNG, EX_SX, EX_TTM, EX_VIN, EX_DAT, EX_DDS, EX_TDS, EX_OVL, NONE }
 
 	public static class DgdsMetadata
 	{
