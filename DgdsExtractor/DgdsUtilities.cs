@@ -10,25 +10,18 @@ namespace DgdsExtractor
 	public static class DgdsUtilities
 	{
 		private static DgdsLzw lzw = new DgdsLzw();
+		private const int FILENAME_SIZE = 13;
 
-		public static string ReadString(BinaryReader file, int size)
+		// Reads a filename from the parameter file
+		// DGDS always allocates 13 characters for filenames
+		// This method reads 13 characters but returns the variable-length string (indicated by null-termination)
+		public static string ReadFilename(BinaryReader file)
 		{
-			bool end = false;
-			StringBuilder sb = new StringBuilder();
-			for (int i = 0; i < size; ++i)
-			{
-				byte c = file.ReadByte();
-
-				end = end || (c == 0);
-
-				if (!end)
-				{
-					sb.Append((char)c);
-				}
-			}
-			return sb.ToString();
+			byte[] chars = file.ReadBytes(FILENAME_SIZE);
+			return Encoding.ASCII.GetString(chars, 0, Array.IndexOf(chars, (byte)0));
 		}
 
+		// Decompress the given data according to the type of compression specified
 		public static byte[] Decompress(byte compressionType, byte[] data)
 		{
 			byte[] output = data;
@@ -56,6 +49,7 @@ namespace DgdsExtractor
 			return output;
 		}
 
+		// Perform Run Length Encoding decompression on the input data
 		private static byte[] RleDecompress(byte[] input)
 		{
 			byte marker, symbol;

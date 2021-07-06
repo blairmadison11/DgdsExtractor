@@ -4,13 +4,17 @@ using System.Text;
 
 namespace DgdsExtractor
 {
-	public enum AssetSection { ID_BIN, ID_DAT, ID_FNM, ID_FNT, ID_GAD, ID_INF, ID_MTX, ID_PAG, ID_REQ, ID_RES, ID_SCR, ID_SDS, ID_SNG, ID_TAG, ID_TT3, ID_TTI, ID_VER, ID_VGA, ID_VQT, ID_MA8, ID_DDS, ID_THD, NONE }
+	public enum AssetSection { ID_BIN, ID_DAT, ID_FNM, ID_FNT, ID_GAD, ID_INF,
+		ID_MTX, ID_PAG, ID_REQ, ID_RES, ID_SCR, ID_SDS, ID_SNG, ID_TAG, ID_TT3,
+		ID_TTI, ID_VER, ID_VGA, ID_VQT, ID_MA8, ID_DDS, ID_THD, NONE }
 
-	public enum AssetType { EX_ADH, EX_ADL, EX_ADS, EX_AMG, EX_BMP, EX_GDS, EX_INS, EX_PAL, EX_FNT, EX_REQ, EX_RST, EX_SCR, EX_SDS, EX_SNG, EX_SX, EX_TTM, EX_VIN, EX_DAT, EX_DDS, EX_TDS, EX_OVL, NONE }
+	public enum AssetType { EX_ADH, EX_ADL, EX_ADS, EX_AMG, EX_BMP, EX_GDS,
+		EX_INS, EX_PAL, EX_FNT, EX_REQ, EX_RST, EX_SCR, EX_SDS, EX_SNG,
+		EX_SX, EX_TTM, EX_VIN, EX_DAT, EX_DDS, EX_TDS, EX_OVL, NONE }
 
 	public static class DgdsMetadata
 	{
-		private static Dictionary<string, AssetSection> stringToId = new Dictionary<string, AssetSection>()
+		private static readonly Dictionary<string, AssetSection> SectionStringMap = new Dictionary<string, AssetSection>()
 		{
 			{ "BIN", AssetSection.ID_BIN },
 			{ "DAT", AssetSection.ID_DAT },
@@ -36,7 +40,7 @@ namespace DgdsExtractor
 			{ "THD", AssetSection.ID_THD }
 		};
 
-		private static Dictionary<string, AssetType> stringToType = new Dictionary<string, AssetType>()
+		private static readonly Dictionary<string, AssetType> TypeStringMap = new Dictionary<string, AssetType>()
 		{
 			{ "ADH", AssetType.EX_ADH },
 			{ "ADL", AssetType.EX_ADL },
@@ -61,28 +65,31 @@ namespace DgdsExtractor
 			{ "OVL", AssetType.EX_OVL }
 		};
 
-		public static AssetType GetAssetType(string extension)
+		// converts identifier string to corresponding AssetType enum
+		public static AssetType GetAssetType(string identifier)
 		{
-			extension = extension.ToUpper();
+			identifier = identifier.ToUpper();
 			AssetType type = AssetType.NONE;
-			if (stringToType.ContainsKey(extension))
+			if (TypeStringMap.ContainsKey(identifier))
 			{
-				type = stringToType[extension];
+				type = TypeStringMap[identifier];
 			}
 			return type;
 		}
 
-		public static AssetSection GetAssetSection(string extension)
+		// converts identifier string to corresponding AssetSection enum
+		public static AssetSection GetAssetSection(string identifier)
 		{
-			extension = extension.ToUpper();
-			AssetSection id = AssetSection.NONE;
-			if (stringToId.ContainsKey(extension))
+			identifier = identifier.ToUpper();
+			AssetSection section = AssetSection.NONE;
+			if (SectionStringMap.ContainsKey(identifier))
 			{
-				id = stringToId[extension];
+				section = SectionStringMap[identifier];
 			}
-			return id;
+			return section;
 		}
 
+		// determines whether specified AssetType is a flat file or not
 		public static bool IsFlatFile(AssetType type)
 		{
 			return (type == AssetType.EX_RST) ||
@@ -90,7 +97,8 @@ namespace DgdsExtractor
 				(type == AssetType.EX_DAT);
 		}
 
-		public static bool IsPacked(AssetType type, AssetSection section)
+		// determines whether the specified asset section within the specified asset type is compressed or not
+		public static bool IsCompressed(AssetType type, AssetSection section)
 		{
 			bool packed = false;
 

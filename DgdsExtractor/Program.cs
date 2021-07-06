@@ -15,7 +15,7 @@ namespace DgdsExtractor
 			DgdsVolumeIndex index = new DgdsVolumeIndex(GAME_PATH, VOLUME_INDEX_FILENAME);
 			index.ReadVolumes();
 			index.PrintVolumes();
-			index.WriteExtractedAssets(GAME_PATH + EXTRACT_FOLDER);
+			index.WriteExtractedVolumes(GAME_PATH + EXTRACT_FOLDER);
 		}	
 	}
 }

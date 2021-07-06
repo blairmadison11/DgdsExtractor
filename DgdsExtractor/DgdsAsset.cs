@@ -14,21 +14,17 @@ namespace DgdsExtractor
 		private byte[] data;
 		private List<DgdsChunk> chunks;
 
-		public string Filename { get => filename; set => filename = value; }
-		public uint Offset { get => offset; }
-		public byte[] Data { get => data; set => data = value; }
-		public int Size { get => (data == null) ? 0 : data.Length; }
-
 		public DgdsAsset(int nameHash, uint offset)
 		{
 			this.nameHash = nameHash;
 			this.offset = offset;
 		}
 
+		// Seek to asset location in volume file and extract asset data
 		public void ReadAsset(BinaryReader file)
 		{
 			file.BaseStream.Seek(offset, SeekOrigin.Begin);
-			this.filename = DgdsUtilities.ReadString(file, 13);
+			this.filename = DgdsUtilities.ReadFilename(file);
 			this.isFlatFile = DgdsMetadata.IsFlatFile(DgdsMetadata.GetAssetType(filename.Substring(filename.LastIndexOf('.') + 1)));
 
 			uint size = file.ReadUInt32();
@@ -42,6 +38,7 @@ namespace DgdsExtractor
 			}
 		}
 
+		// Recursively read all chunks contained in this asset's data
 		private void ReadChunks(BinaryReader data, AssetType type)
 		{
 			while (data.BaseStream.Position + 1 < data.BaseStream.Length)
@@ -50,7 +47,7 @@ namespace DgdsExtractor
 				chunk.ReadChunk(data);
 				if (chunk.IsContainer)
 				{
-					ReadChunks(data, DgdsMetadata.GetAssetType(chunk.Extension));
+					ReadChunks(data, DgdsMetadata.GetAssetType(chunk.Identifier));
 				}
 				else
 				{
@@ -59,27 +56,27 @@ namespace DgdsExtractor
 			}
 		}
 
+		// Write the asset's data to disk
 		public void Write(string path)
 		{
-			using (BinaryWriter writer = new BinaryWriter(File.Create(path + filename)))
+			using BinaryWriter writer = new BinaryWriter(File.Create(path + filename));
+			if (isFlatFile)
 			{
-				if (isFlatFile)
+				writer.Write(data);
+			}
+			else
+			{
+				foreach (DgdsChunk chunk in chunks)
 				{
-					writer.Write(data);
-				}
-				else
-				{
-					for (int i = 0; i < chunks.Count; ++i)
-					{
-						chunks[i].Write(writer);
-					}
+					chunk.Write(writer);
 				}
 			}
 		}
 
+		// Print info about this asset to console
 		public void PrintAsset()
 		{
-			Console.WriteLine("{0} ({1} bytes)", filename, Size);
+			Console.WriteLine("{0} ({1} bytes)", filename, data.Length);
 			if (!isFlatFile)
 			{
 				foreach (DgdsChunk chunk in chunks)

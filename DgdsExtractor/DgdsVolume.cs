@@ -17,14 +17,14 @@ namespace DgdsExtractor
 			assets = new DgdsAsset[numAssets];
 		}
 
-		public string Filename { get => filename; set => filename = value; }
-		public int NumAssets { get => assets.Length; }
-
+		// Allocate memory for the asset at specified index
+		// Intialize data with specified filename hash and file size
 		public void InitializeAsset(int index, int fileHash, uint size)
 		{
 			assets[index] = new DgdsAsset(fileHash, size);
 		}
 
+		// Read all asset data from the volume file
 		public void ReadAssets()
 		{
 			using (BinaryReader file = new BinaryReader(File.OpenRead(directory + filename)))
@@ -36,6 +36,7 @@ namespace DgdsExtractor
 			}
 		}
 
+		// Write all extracted asset data to disk
 		public void WriteAssets(string path)
 		{
 			for (int i = 0; i < assets.Length; ++i)
@@ -44,8 +45,10 @@ namespace DgdsExtractor
 			}
 		}
 
+		// Print a summary of asset information to the console
 		public void PrintAssets()
 		{
+			Console.WriteLine("\n{0} contains {1} assets\n", filename, assets.Length);
 			for (int i = 0; i < assets.Length; ++i)
 			{
 				assets[i].PrintAsset();

@@ -17,6 +17,7 @@ namespace DgdsExtractor
 			ReadIndex();
 		}
 
+		// Read information about volumes from the volume index file
 		private void ReadIndex()
 		{
 			using (BinaryReader file = new BinaryReader(File.OpenRead(directory + filename)))
@@ -27,7 +28,7 @@ namespace DgdsExtractor
 
 				for (int i = 0; i < numVolumes; ++i)
 				{
-					string volName = DgdsUtilities.ReadString(file, 13);
+					string volName = DgdsUtilities.ReadFilename(file);
 					uint numFiles = file.ReadUInt16();
 					volumes[i] = new DgdsVolume(directory, volName, Convert.ToInt32(numFiles));
 
@@ -41,6 +42,7 @@ namespace DgdsExtractor
 			}
 		}
 
+		// Read in the volume data
 		public void ReadVolumes()
 		{
 			for (int i = 0; i < volumes.Length; ++i)
@@ -49,7 +51,8 @@ namespace DgdsExtractor
 			}
 		}
 
-		public void WriteExtractedAssets(string path)
+		// Write all extracted volume data to disk at the specified path
+		public void WriteExtractedVolumes(string path)
 		{
 			if (!Directory.Exists(path))
 			{
@@ -62,11 +65,11 @@ namespace DgdsExtractor
 			}
 		}
 
+		// Print some information about volumes to console
 		public void PrintVolumes()
 		{
 			for (int i = 0; i < volumes.Length; ++i)
 			{
-				Console.WriteLine("{0} contains {1} assets", volumes[i].Filename, volumes[i].NumAssets);
 				volumes[i].PrintAssets();
 			}
 		}
