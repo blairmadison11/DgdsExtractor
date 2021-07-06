@@ -26,20 +26,14 @@ namespace DgdsExtractor
 			switch (compressionType)
 			{
 				case 0x00:
-					{
 						// do nothing
 						break;
-					}
 				case 0x01:
-					{
 						output = RleDecompress(data);
 						break;
-					}
 				case 0x02:
-					{
 						output = lzw.Decompress(data);
 						break;
-					}
 				default:
 					Console.WriteLine("Unknown chunk compression: 0x{0:x}", compressionType);
 					break;
@@ -48,6 +42,7 @@ namespace DgdsExtractor
 		}
 
 		// Perform Run Length Encoding decompression on the input data
+		// Adapted from https://github.com/vcosta/scummvm/blob/master/engines/dgds/decompress.cpp
 		private static byte[] RleDecompress(byte[] input)
 		{
 			byte marker, symbol;
