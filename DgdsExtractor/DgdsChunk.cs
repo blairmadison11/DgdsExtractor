@@ -83,7 +83,7 @@ namespace DgdsExtractor
 			}
 		}
 
-		// Print some information about this chunk to disk
+		// Print some information about this chunk to console
 		public void PrintChunk()
 		{
 			if (chunkData != null)
