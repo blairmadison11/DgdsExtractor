@@ -8,7 +8,7 @@ namespace DgdsExtractor
 		/**
 		 * 
 		 * Adapted from https://github.com/vcosta/scummvm/tree/master/engines/dgds
-		 * Used in accordance with GNU Public License version 2
+		 * Used in accordance with GNU General Public License v3
 		 *
 		 */
 

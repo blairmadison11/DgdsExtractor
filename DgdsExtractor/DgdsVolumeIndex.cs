@@ -24,24 +24,22 @@ namespace DgdsExtractor
 		// Read information about volumes from the volume index file
 		private void ReadIndex()
 		{
-			using (BinaryReader file = new BinaryReader(File.OpenRead(directory + filename)))
+			using BinaryReader file = new BinaryReader(File.OpenRead(directory + filename));
+			byte[] salt = file.ReadBytes(4);
+			int numVolumes = file.ReadUInt16();
+			volumes = new DgdsVolume[numVolumes];
+
+			for (int i = 0; i < numVolumes; ++i)
 			{
-				byte[] salt = file.ReadBytes(4);
-				int numVolumes = file.ReadUInt16();
-				volumes = new DgdsVolume[numVolumes];
+				string volName = DgdsUtilities.ReadFilename(file);
+				uint numFiles = file.ReadUInt16();
+				volumes[i] = new DgdsVolume(directory, volName, Convert.ToInt32(numFiles));
 
-				for (int i = 0; i < numVolumes; ++i)
+				for (int j = 0; j < numFiles; ++j)
 				{
-					string volName = DgdsUtilities.ReadFilename(file);
-					uint numFiles = file.ReadUInt16();
-					volumes[i] = new DgdsVolume(directory, volName, Convert.ToInt32(numFiles));
-
-					for (int j = 0; j < numFiles; ++j)
-					{
-						int hash = file.ReadInt32();
-						uint offset = file.ReadUInt32();
-						volumes[i].InitializeAsset(j, hash, offset);
-					}
+					int hash = file.ReadInt32();
+					uint offset = file.ReadUInt32();
+					volumes[i].InitializeAsset(j, hash, offset);
 				}
 			}
 		}
