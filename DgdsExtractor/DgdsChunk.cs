@@ -30,7 +30,7 @@ namespace DgdsExtractor
 				throw new Exception("Invalid header!");
 			}
 
-			if (id[2] == 0)
+			if (id[2] == (byte)0)
 			{
 				identifier = string.Concat(Convert.ToChar(id[0]), Convert.ToChar(id[1]));
 			}

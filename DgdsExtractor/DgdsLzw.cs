@@ -7,7 +7,7 @@ namespace DgdsExtractor
 	{
 		/**
 		 * 
-		 * Adapted from https://github.com/vcosta/scummvm/tree/master/engines/dgds
+		 * Adapted from https://github.com/vcosta/scummvm/blob/master/engines/dgds/decompress.cpp
 		 * Used in accordance with GNU General Public License v3
 		 *
 		 */
@@ -146,7 +146,7 @@ namespace DgdsExtractor
 						codeLen = codeTable[code].len;
 					}
 				}
-			} while (input.BaseStream.Position <= input.BaseStream.Length);
+			} while (input.BaseStream.Position < input.BaseStream.Length);
 
 			return ((MemoryStream)output.BaseStream).ToArray();
 		}
