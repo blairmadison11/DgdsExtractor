@@ -1,12 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using System.IO;
 
 namespace DgdsExtractor
 {
 	class DgdsVolumeIndex
 	{
+		/*
+		 * NOTE: This class is the base container for all DGDS data
+		 * The data structure hierarchy is as follows:
+		 * VolumeIndex -> Volume -> Asset -> Chunk
+		 */
+
 		private string directory, filename;
 		private DgdsVolume[] volumes;
 

@@ -1,13 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using System.IO;
-using System.Linq;
 
 namespace DgdsExtractor
 {
 	class DgdsChunk
 	{
+		const int ID_LENGTH = 4;
+
 		private string identifier;
 		private AssetType type = AssetType.NONE;
 		private AssetSection section = AssetSection.NONE;
@@ -25,19 +24,19 @@ namespace DgdsExtractor
 		// Parses the chunk data from the specified asset data
 		public void ReadChunk(BinaryReader data)
 		{
-			byte[] ext = data.ReadBytes(4);
-			if (ext[3] != ':')
+			byte[] id = data.ReadBytes(ID_LENGTH);
+			if (id[3] != ':')
 			{
 				throw new Exception("Invalid header!");
 			}
 
-			if (ext[2] == 0)
+			if (id[2] == 0)
 			{
-				identifier = string.Concat(Convert.ToChar(ext[0]), Convert.ToChar(ext[1]));
+				identifier = string.Concat(Convert.ToChar(id[0]), Convert.ToChar(id[1]));
 			}
 			else
 			{
-				identifier = string.Concat(Convert.ToChar(ext[0]), Convert.ToChar(ext[1]), Convert.ToChar(ext[2]));
+				identifier = string.Concat(Convert.ToChar(id[0]), Convert.ToChar(id[1]), Convert.ToChar(id[2]));
 			}
 
 			if (type == AssetType.NONE)
@@ -50,7 +49,7 @@ namespace DgdsExtractor
 			}
 
 			uint sizeData = data.ReadUInt32();
-			this.isContainer = (sizeData >> 31) == 1;
+			this.isContainer = Convert.ToBoolean(sizeData >> 31);
 			int size = Convert.ToInt32(sizeData & 0x7FFFFFFF);
 			
 			if (!isContainer)

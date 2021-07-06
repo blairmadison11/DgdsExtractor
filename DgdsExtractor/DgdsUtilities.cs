@@ -1,9 +1,7 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.IO;
+using System.Text;
 
 namespace DgdsExtractor
 {
@@ -12,7 +10,7 @@ namespace DgdsExtractor
 		private static DgdsLzw lzw = new DgdsLzw();
 		private const int FILENAME_SIZE = 13;
 
-		// Reads a filename from the parameter file
+		// Reads a filename from the specified file
 		// DGDS always allocates 13 characters for filenames
 		// This method reads 13 characters but returns the variable-length string (indicated by null-termination)
 		public static string ReadFilename(BinaryReader file)
