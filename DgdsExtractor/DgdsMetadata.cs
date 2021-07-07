@@ -14,7 +14,7 @@ namespace DgdsExtractor
 	{
 		private static readonly Dictionary<string, AssetSection> SectionStringMap = new Dictionary<string, AssetSection>()
 		{
-			{ "BIN", AssetSection.ID_BIN } { "DAT", AssetSection.ID_DAT }, { "FNM", AssetSection.ID_FNM },
+			{ "BIN", AssetSection.ID_BIN }, { "DAT", AssetSection.ID_DAT }, { "FNM", AssetSection.ID_FNM },
 			{ "FNT", AssetSection.ID_FNT }, { "GAD", AssetSection.ID_GAD }, { "INF", AssetSection.ID_INF },
 			{ "MTX", AssetSection.ID_MTX }, { "PAG", AssetSection.ID_PAG }, { "REQ", AssetSection.ID_REQ },
 			{ "RES", AssetSection.ID_RES }, { "SCR", AssetSection.ID_SCR }, { "SDS", AssetSection.ID_SDS },
