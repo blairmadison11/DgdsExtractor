@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
@@ -12,6 +13,7 @@ namespace DgdsExtractor
 		private AssetSection section = AssetSection.NONE;
 		private byte[] chunkData;
 		private bool isContainer;
+		private List<string> textLines;
 
 		public bool IsContainer { get => isContainer; }
 		public AssetType ChunkType { get => chunkType; }
@@ -76,12 +78,13 @@ namespace DgdsExtractor
 
 			if (chunkType == AssetType.SDS && section == AssetSection.SDS)
 			{
-				ExtractDialogue();
+				ExtractText();
 			}
 		}
 
-		public void ExtractDialogue()
+		private void ExtractText()
 		{
+			textLines = new List<string>();
 			int index = 13;
 			while (index + 6 < chunkData.Length)
 			{
@@ -91,17 +94,31 @@ namespace DgdsExtractor
 					ushort op1 = BitConverter.ToUInt16(chunkData, index + 1);
 					ushort op2 = BitConverter.ToUInt16(chunkData, index + 3);
 
-					if (op0 == 0x04 && op1 == 0x02 && op2 == 0x0)
+					if (op0 == 0x04 && op2 == 0x0 && (op1 == 0x02 || op1 == 0x03))
 					{
 						index += 11;
 						ushort count = BitConverter.ToUInt16(chunkData, index);
 						index += 2;
-						string str = Encoding.ASCII.GetString(chunkData, index, Array.IndexOf(chunkData, (byte)0, index, count) - index);
+						string line = Encoding.ASCII.GetString(chunkData, index, Array.IndexOf(chunkData, (byte)0, index, count) - index).Trim().Replace('\r', '\n');
+						if (line != "")
+						{
+							textLines.Add(line);
+						}
 						index += count;
-						DgdsUtilities.AddDialogue(str);
 					}
 				}
+			}
+		}
 
+		// Write all text lines (dialogue, descriptions, etc.) contained in this chunk to disk
+		public void WriteText(StreamWriter writer)
+		{
+			if (textLines != null)
+			{
+				foreach (string line in textLines)
+				{
+					writer.Write("{0}\n\n", line);
+				}
 			}
 		}
 

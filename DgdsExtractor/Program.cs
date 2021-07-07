@@ -15,7 +15,7 @@ namespace DgdsExtractor
 			index.ReadVolumes();
 			index.PrintVolumes();
 			index.WriteExtractedVolumes(GAME_PATH + EXTRACT_FOLDER);
-			DgdsUtilities.WriteDialogue(GAME_PATH + EXTRACT_FOLDER);
+			index.WriteText(GAME_PATH + EXTRACT_FOLDER);
 		}	
 	}
 }

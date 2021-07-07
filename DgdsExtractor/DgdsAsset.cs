@@ -74,6 +74,19 @@ namespace DgdsExtractor
 			}
 		}
 
+		// Write all text lines (dialogue, descriptions, etc.) contained in this asset to disk
+		public void WriteText(StreamWriter writer)
+		{
+			if (!isFlatFile && assetType == AssetType.SDS)
+			{
+				writer.Write("******************** {0} ********************\n\n", this.filename);
+				foreach (DgdsChunk chunk in chunks)
+				{
+					chunk.WriteText(writer);
+				}
+			}
+		}
+
 		// Print info about this asset to console
 		public void PrintAsset()
 		{

@@ -41,6 +41,15 @@ namespace DgdsExtractor
 			}
 		}
 
+		// Write all text lines (dialogue, descriptions, etc.) contained in this volume to disk
+		public void WriteText(StreamWriter writer)
+		{
+			foreach (DgdsAsset asset in assets)
+			{
+				asset.WriteText(writer);
+			}
+		}
+
 		// Print a summary of asset information to the console
 		public void PrintAssets()
 		{

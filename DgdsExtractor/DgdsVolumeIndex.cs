@@ -67,6 +67,16 @@ namespace DgdsExtractor
 			}
 		}
 
+		// Write all text lines (dialogue, descriptions, etc.) to disk
+		public void WriteText(string path)
+		{
+			using StreamWriter writer = new StreamWriter(File.Create(path + "dialogue.txt"));
+			foreach (DgdsVolume volume in volumes)
+			{
+				volume.WriteText(writer);
+			}
+		}
+
 		// Print some information about volumes to console
 		public void PrintVolumes()
 		{
