@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace DgdsExtractor
 {
@@ -10,12 +11,31 @@ namespace DgdsExtractor
 
 		static void Main(string[] args)
 		{
-			Console.WriteLine("DGDS Extractor 1.0\nBy Blair Durkee");
-			DgdsVolumeIndex index = new DgdsVolumeIndex(GAME_PATH, VOLUME_INDEX_FILENAME);
+			string gamePath = GAME_PATH;
+			if (args.Length > 0)
+			{
+				if (Directory.Exists(args[0]))
+				{
+					gamePath = args[0];
+				}
+			}
+
+			Console.WriteLine("DGDS Extractor 1.0\nBy Blair Durkee\n");
+			DgdsVolumeIndex index = new DgdsVolumeIndex(gamePath, VOLUME_INDEX_FILENAME);
+
+			Console.Write("Extracting data...");
 			index.ReadVolumes();
-			index.PrintVolumes();
-			index.WriteExtractedVolumes(GAME_PATH + EXTRACT_FOLDER);
+			Console.WriteLine("DONE!");
+
+			//index.PrintVolumes();
+
+			Console.Write("Writing assets to disk...");
+			index.WriteExtractedVolumes(gamePath + EXTRACT_FOLDER);
+			Console.WriteLine("DONE!");
+
+			Console.Write("Writing text to disk...");
 			index.WriteText(GAME_PATH + EXTRACT_FOLDER);
+			Console.WriteLine("DONE!");
 		}	
 	}
 }

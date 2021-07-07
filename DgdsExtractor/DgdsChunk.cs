@@ -65,10 +65,6 @@ namespace DgdsExtractor
 					byte[] compressedData = data.ReadBytes(size - 5);
 
 					this.chunkData = DgdsUtilities.Decompress(compressionType, compressedData);
-					if (this.chunkData.Length != unpackSize)
-					{
-						Console.WriteLine("[Unpack size mismatch]");
-					}
 				}
 				else
 				{
@@ -94,7 +90,7 @@ namespace DgdsExtractor
 					ushort op1 = BitConverter.ToUInt16(chunkData, index + 1);
 					ushort op2 = BitConverter.ToUInt16(chunkData, index + 3);
 
-					if (op0 == 0x04 && op2 == 0x0 && (op1 == 0x02 || op1 == 0x03))
+					if (op0 == 0x04 && (op1 == 0x02 || op1 == 0x03) && (op2 == 0x00 || op2 == 0x80))
 					{
 						index += 11;
 						ushort count = BitConverter.ToUInt16(chunkData, index);
