@@ -14,77 +14,39 @@ namespace DgdsExtractor
 	{
 		private static readonly Dictionary<string, AssetSection> SectionStringMap = new Dictionary<string, AssetSection>()
 		{
-			{ "BIN", AssetSection.ID_BIN },
-			{ "DAT", AssetSection.ID_DAT },
-			{ "FNM", AssetSection.ID_FNM },
-			{ "FNT", AssetSection.ID_FNT },
-			{ "GAD", AssetSection.ID_GAD },
-			{ "INF", AssetSection.ID_INF },
-			{ "MTX", AssetSection.ID_MTX },
-			{ "PAG", AssetSection.ID_PAG },
-			{ "REQ", AssetSection.ID_REQ },
-			{ "RES", AssetSection.ID_RES },
-			{ "SCR", AssetSection.ID_SCR },
-			{ "SDS", AssetSection.ID_SDS },
-			{ "SNG", AssetSection.ID_SNG },
-			{ "TAG", AssetSection.ID_TAG },
-			{ "TT3", AssetSection.ID_TT3 },
-			{ "TTI", AssetSection.ID_TTI },
-			{ "VER", AssetSection.ID_VER },
-			{ "VGA", AssetSection.ID_VGA },
-			{ "VQT", AssetSection.ID_VQT },
-			{ "MA8", AssetSection.ID_MA8 },
-			{ "DDS", AssetSection.ID_DDS },
+			{ "BIN", AssetSection.ID_BIN } { "DAT", AssetSection.ID_DAT }, { "FNM", AssetSection.ID_FNM },
+			{ "FNT", AssetSection.ID_FNT }, { "GAD", AssetSection.ID_GAD }, { "INF", AssetSection.ID_INF },
+			{ "MTX", AssetSection.ID_MTX }, { "PAG", AssetSection.ID_PAG }, { "REQ", AssetSection.ID_REQ },
+			{ "RES", AssetSection.ID_RES }, { "SCR", AssetSection.ID_SCR }, { "SDS", AssetSection.ID_SDS },
+			{ "SNG", AssetSection.ID_SNG }, { "TAG", AssetSection.ID_TAG }, { "TT3", AssetSection.ID_TT3 },
+			{ "TTI", AssetSection.ID_TTI }, { "VER", AssetSection.ID_VER }, { "VGA", AssetSection.ID_VGA },
+			{ "VQT", AssetSection.ID_VQT }, { "MA8", AssetSection.ID_MA8 }, { "DDS", AssetSection.ID_DDS },
 			{ "THD", AssetSection.ID_THD }
 		};
 
 		private static readonly Dictionary<string, AssetType> TypeStringMap = new Dictionary<string, AssetType>()
 		{
-			{ "ADH", AssetType.EX_ADH },
-			{ "ADL", AssetType.EX_ADL },
-			{ "ADS", AssetType.EX_ADS },
-			{ "AMG", AssetType.EX_AMG },
-			{ "BMP", AssetType.EX_BMP },
-			{ "GDS", AssetType.EX_GDS },
-			{ "INS", AssetType.EX_INS },
-			{ "PAL", AssetType.EX_PAL },
-			{ "FNT", AssetType.EX_FNT },
-			{ "REQ", AssetType.EX_REQ },
-			{ "RST", AssetType.EX_RST },
-			{ "SCR", AssetType.EX_SCR },
-			{ "SDS", AssetType.EX_SDS },
-			{ "SNG", AssetType.EX_SNG },
-			{ "SX", AssetType.EX_SX },
-			{ "TTM", AssetType.EX_TTM },
-			{ "VIN", AssetType.EX_VIN },
-			{ "DAT", AssetType.EX_DAT },
-			{ "DDS", AssetType.EX_DDS },
-			{ "TDS", AssetType.EX_TDS },
-			{ "OVL", AssetType.EX_OVL }
+			{ "ADH", AssetType.EX_ADH }, { "ADL", AssetType.EX_ADL }, { "ADS", AssetType.EX_ADS },
+			{ "AMG", AssetType.EX_AMG }, { "BMP", AssetType.EX_BMP }, { "GDS", AssetType.EX_GDS },
+			{ "INS", AssetType.EX_INS }, { "PAL", AssetType.EX_PAL }, { "FNT", AssetType.EX_FNT },
+			{ "REQ", AssetType.EX_REQ }, { "RST", AssetType.EX_RST }, { "SCR", AssetType.EX_SCR },
+			{ "SDS", AssetType.EX_SDS }, { "SNG", AssetType.EX_SNG }, { "SX", AssetType.EX_SX },
+			{ "TTM", AssetType.EX_TTM }, { "VIN", AssetType.EX_VIN }, { "DAT", AssetType.EX_DAT },
+			{ "DDS", AssetType.EX_DDS }, { "TDS", AssetType.EX_TDS }, { "OVL", AssetType.EX_OVL }
 		};
 
 		// converts identifier string to corresponding AssetType enum
 		public static AssetType GetAssetType(string identifier)
 		{
 			identifier = identifier.ToUpper();
-			AssetType type = AssetType.NONE;
-			if (TypeStringMap.ContainsKey(identifier))
-			{
-				type = TypeStringMap[identifier];
-			}
-			return type;
+			return TypeStringMap.ContainsKey(identifier) ? TypeStringMap[identifier] : AssetType.NONE;
 		}
 
 		// converts identifier string to corresponding AssetSection enum
 		public static AssetSection GetAssetSection(string identifier)
 		{
 			identifier = identifier.ToUpper();
-			AssetSection section = AssetSection.NONE;
-			if (SectionStringMap.ContainsKey(identifier))
-			{
-				section = SectionStringMap[identifier];
-			}
-			return section;
+			return SectionStringMap.ContainsKey(identifier) ? SectionStringMap[identifier] : AssetSection.NONE;
 		}
 
 		// determines whether specified AssetType is a flat file or not
@@ -98,44 +60,44 @@ namespace DgdsExtractor
 		// determines whether the specified asset section within the specified asset type is compressed or not
 		public static bool IsCompressed(AssetType type, AssetSection section)
 		{
-			bool packed = false;
+			bool compressed = false;
 
 			switch (type)
 			{
 				case AssetType.EX_ADS:
 				case AssetType.EX_ADL:
 				case AssetType.EX_ADH:
-					packed = (section == AssetSection.ID_SCR);
+					compressed = (section == AssetSection.ID_SCR);
 					break;
 				case AssetType.EX_BMP:
-					packed = (section == AssetSection.ID_BIN) || (section == AssetSection.ID_VGA);
+					compressed = (section == AssetSection.ID_BIN) || (section == AssetSection.ID_VGA);
 					break;
 				case AssetType.EX_GDS:
-					packed = (section == AssetSection.ID_SDS);
+					compressed = (section == AssetSection.ID_SDS);
 					break;
 				case AssetType.EX_SCR:
-					packed = (section == AssetSection.ID_BIN) || (section == AssetSection.ID_VGA) || (section == AssetSection.ID_MA8);
+					compressed = (section == AssetSection.ID_BIN) || (section == AssetSection.ID_VGA) || (section == AssetSection.ID_MA8);
 					break;
 				case AssetType.EX_SDS:
-					packed = (section == AssetSection.ID_SDS);
+					compressed = (section == AssetSection.ID_SDS);
 					break;
 				case AssetType.EX_SNG:
-					packed = (section == AssetSection.ID_SNG);
+					compressed = (section == AssetSection.ID_SNG);
 					break;
 				case AssetType.EX_TTM:
-					packed = (section == AssetSection.ID_TT3);
+					compressed = (section == AssetSection.ID_TT3);
 					break;
 				case AssetType.EX_TDS:
-					packed = (section == AssetSection.ID_THD);
+					compressed = (section == AssetSection.ID_THD);
 					break;
 				case AssetType.EX_DDS:
-					packed = (section == AssetSection.ID_DDS);
+					compressed = (section == AssetSection.ID_DDS);
 					break;
 				default:
 					break;
 			}
 
-			return packed;
+			return compressed;
 		}
 	}
 }
