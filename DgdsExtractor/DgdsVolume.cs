@@ -25,21 +25,19 @@ namespace DgdsExtractor
 		// Read all asset data from the volume file
 		public void ReadAssets()
 		{
-			using (BinaryReader file = new BinaryReader(File.OpenRead(directory + filename)))
+			using BinaryReader file = new BinaryReader(File.OpenRead(directory + filename));
+			foreach (DgdsAsset asset in assets)
 			{
-				for (int i = 0; i < assets.Length; ++i)
-				{
-					assets[i].ReadAsset(file);
-				}
+				asset.ReadAsset(file);
 			}
 		}
 
 		// Write all extracted asset data to disk
 		public void WriteAssets(string path)
 		{
-			for (int i = 0; i < assets.Length; ++i)
+			foreach (DgdsAsset asset in assets)
 			{
-				assets[i].Write(path);
+				asset.Write(path);
 			}
 		}
 
@@ -47,9 +45,9 @@ namespace DgdsExtractor
 		public void PrintAssets()
 		{
 			Console.WriteLine("\n{0} contains {1} assets\n", filename, assets.Length);
-			for (int i = 0; i < assets.Length; ++i)
+			foreach (DgdsAsset asset in assets)
 			{
-				assets[i].PrintAsset();
+				asset.PrintAsset();
 			}
 		}
 	}

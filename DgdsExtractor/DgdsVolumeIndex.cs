@@ -47,9 +47,9 @@ namespace DgdsExtractor
 		// Read in the volume data
 		public void ReadVolumes()
 		{
-			for (int i = 0; i < volumes.Length; ++i)
+			foreach (DgdsVolume volume in volumes)
 			{
-				volumes[i].ReadAssets();
+				volume.ReadAssets();
 			}
 		}
 
@@ -61,18 +61,18 @@ namespace DgdsExtractor
 				Directory.CreateDirectory(path);
 			}
 
-			for (int i = 0; i < volumes.Length; ++i)
+			foreach (DgdsVolume volume in volumes)
 			{
-				volumes[i].WriteAssets(path);
+				volume.WriteAssets(path);
 			}
 		}
 
 		// Print some information about volumes to console
 		public void PrintVolumes()
 		{
-			for (int i = 0; i < volumes.Length; ++i)
+			foreach (DgdsVolume volume in volumes)
 			{
-				volumes[i].PrintAssets();
+				volume.PrintAssets();
 			}
 		}
 	}

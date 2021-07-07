@@ -26,14 +26,14 @@ namespace DgdsExtractor
 			switch (compressionType)
 			{
 				case 0x00:
-						// do nothing
-						break;
+					// do nothing
+					break;
 				case 0x01:
-						output = RleDecompress(data);
-						break;
+					output = RleDecompress(data);
+					break;
 				case 0x02:
-						output = lzw.Decompress(data);
-						break;
+					output = lzw.Decompress(data);
+					break;
 				default:
 					Console.WriteLine("Unknown chunk compression: 0x{0:x}", compressionType);
 					break;
