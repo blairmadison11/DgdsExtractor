@@ -7,6 +7,7 @@ namespace DgdsExtractor
 	class DgdsAsset
 	{
 		private string filename;
+		private AssetType assetType;
 		private bool isFlatFile;
 		private int nameHash;
 		private uint offset;
@@ -24,7 +25,8 @@ namespace DgdsExtractor
 		{
 			file.BaseStream.Seek(offset, SeekOrigin.Begin);
 			this.filename = DgdsUtilities.ReadFilename(file);
-			this.isFlatFile = DgdsMetadata.IsFlatFile(DgdsMetadata.GetAssetType(filename.Substring(filename.LastIndexOf('.') + 1)));
+			this.assetType = DgdsMetadata.GetAssetType(filename.Substring(filename.LastIndexOf('.') + 1));
+			this.isFlatFile = DgdsMetadata.IsFlatFile(this.assetType);
 
 			uint size = file.ReadUInt32();
 			this.data = file.ReadBytes(Convert.ToInt32(size));
@@ -33,7 +35,7 @@ namespace DgdsExtractor
 			{
 				chunks = new List<DgdsChunk>();
 				using BinaryReader dataReader = new BinaryReader(new MemoryStream(this.data));
-				ReadChunks(dataReader, AssetType.NONE);
+				ReadChunks(dataReader, this.assetType);
 			}
 		}
 
@@ -46,7 +48,7 @@ namespace DgdsExtractor
 				chunk.ReadChunk(data);
 				if (chunk.IsContainer)
 				{
-					ReadChunks(data, DgdsMetadata.GetAssetType(chunk.Identifier));
+					ReadChunks(data, chunk.ChunkType);
 				}
 				else
 				{

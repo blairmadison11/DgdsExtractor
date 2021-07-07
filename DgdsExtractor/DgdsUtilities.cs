@@ -9,6 +9,7 @@ namespace DgdsExtractor
 	{
 		private static DgdsLzw lzw = new DgdsLzw();
 		private const int FILENAME_SIZE = 13;
+		private static List<string> dialogue = new List<string>();
 
 		// Reads a filename from the specified file
 		// DGDS always allocates 13 characters for filenames
@@ -17,6 +18,20 @@ namespace DgdsExtractor
 		{
 			byte[] chars = file.ReadBytes(FILENAME_SIZE);
 			return Encoding.ASCII.GetString(chars, 0, Array.IndexOf(chars, (byte)0));
+		}
+
+		public static void AddDialogue(string line)
+		{
+			dialogue.Add(line);
+		}
+
+		public static void WriteDialogue(string path)
+		{
+			using StreamWriter writer = new StreamWriter(File.Create(path + "dialogue.txt"));
+			foreach(string line in dialogue)
+			{
+				writer.WriteLine("{0}\n", line);
+			}
 		}
 
 		// Decompress the given data according to the type of compression specified

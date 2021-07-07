@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Text;
 
 namespace DgdsExtractor
 {
@@ -7,18 +8,17 @@ namespace DgdsExtractor
 	{
 		const int ID_LENGTH = 4;
 
-		private string identifier;
-		private AssetType type = AssetType.NONE;
+		private AssetType chunkType = AssetType.NONE;
 		private AssetSection section = AssetSection.NONE;
 		private byte[] chunkData;
 		private bool isContainer;
 
 		public bool IsContainer { get => isContainer; }
-		public string Identifier { get => identifier; }
+		public AssetType ChunkType { get => chunkType; }
 
 		public DgdsChunk(AssetType type)
 		{
-			this.type = type;
+			this.chunkType = type;
 		}
 
 		// Parses the chunk data from the specified asset data
@@ -30,22 +30,23 @@ namespace DgdsExtractor
 				throw new Exception("Invalid header!");
 			}
 
+			string idStr = "";
 			if (id[2] == (byte)0)
 			{
-				identifier = string.Concat(Convert.ToChar(id[0]), Convert.ToChar(id[1]));
+				idStr = string.Concat(Convert.ToChar(id[0]), Convert.ToChar(id[1]));
 			}
 			else
 			{
-				identifier = string.Concat(Convert.ToChar(id[0]), Convert.ToChar(id[1]), Convert.ToChar(id[2]));
+				idStr = string.Concat(Convert.ToChar(id[0]), Convert.ToChar(id[1]), Convert.ToChar(id[2]));
 			}
 
-			if (type == AssetType.NONE)
+			if (chunkType == AssetType.NONE)
 			{
-				type = DgdsMetadata.GetAssetType(identifier);
+				chunkType = DgdsMetadata.GetAssetType(idStr);
 			}
 			else
 			{
-				section = DgdsMetadata.GetAssetSection(identifier);
+				section = DgdsMetadata.GetAssetSection(idStr);
 			}
 
 			uint sizeData = data.ReadUInt32();
@@ -54,7 +55,7 @@ namespace DgdsExtractor
 			
 			if (!isContainer)
 			{
-				if (DgdsMetadata.IsCompressed(type, section))
+				if (DgdsMetadata.IsCompressed(ChunkType, section))
 				{
 					byte compressionType = data.ReadByte();
 					uint unpackSize = data.ReadUInt32();
@@ -64,13 +65,43 @@ namespace DgdsExtractor
 					this.chunkData = DgdsUtilities.Decompress(compressionType, compressedData);
 					if (this.chunkData.Length != unpackSize)
 					{
-						Console.WriteLine("Unpack size mismatch!");
+						Console.WriteLine("[Unpack size mismatch]");
 					}
 				}
 				else
 				{
 					this.chunkData = data.ReadBytes(size);
 				}
+			}
+
+			if (chunkType == AssetType.SDS && section == AssetSection.SDS)
+			{
+				ExtractDialogue();
+			}
+		}
+
+		public void ExtractDialogue()
+		{
+			int index = 13;
+			while (index + 6 < chunkData.Length)
+			{
+				if (chunkData[index++] == 0x04)
+				{
+					ushort op0 = BitConverter.ToUInt16(chunkData, index - 1);
+					ushort op1 = BitConverter.ToUInt16(chunkData, index + 1);
+					ushort op2 = BitConverter.ToUInt16(chunkData, index + 3);
+
+					if (op0 == 0x04 && op1 == 0x02 && op2 == 0x0)
+					{
+						index += 11;
+						ushort count = BitConverter.ToUInt16(chunkData, index);
+						index += 2;
+						string str = Encoding.ASCII.GetString(chunkData, index, Array.IndexOf(chunkData, (byte)0, index, count) - index);
+						index += count;
+						DgdsUtilities.AddDialogue(str);
+					}
+				}
+
 			}
 		}
 
@@ -88,12 +119,17 @@ namespace DgdsExtractor
 		{
 			if (chunkData != null)
 			{
-				Console.WriteLine("\tChunk: {0} ({1} bytes)", identifier, chunkData.Length);
+				Console.WriteLine("\tChunk: {0} ({1} bytes)", this, chunkData.Length);
 			}
 			else
 			{
-				Console.WriteLine("\tChunk: {0}", identifier);
+				Console.WriteLine("\tChunk: {0}", this);
 			}
+		}
+
+		public override string ToString()
+		{
+			return section == AssetSection.NONE ? chunkType.ToString() : section.ToString();
 		}
 	}
 }
