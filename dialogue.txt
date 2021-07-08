@@ -1,0 +1,6668 @@
+******************** S99.SDS ********************
+
+******************** S2.SDS ********************
+
+BLADE:
+I never go anywhere without my BVD's
+
+BLADE'S COAT:
+This once fashionable garment is nearing the end of its useful life, having endured years of use and abuse by its owner.  It is fabricated from a combination of synthetic materials which vaguely resembles Peruvian goat leather.
+
+BLADE'S PISTOL:
+With & Smesson Police Special pulse particle beam handgun.
+
+A meticulousy maintained relic from Blade's past career as a peace officer.  This gun is extremely reliable but it lacks the firepower of many modern sidearms.
+
+BLADE'S ID CARD:
+This multi-purpose device serves its owner as a credit chip, ID card, medical information database, and door key.
+
+CHEN LU'S ID CARD:
+This multi-purpose device serves its owner as a credit chip, ID card, medical information database, and door key.
+
+SNAKE'S ID CARD:
+This multi-purpose device serves its owner as a credit chip, ID card, medical information database, and door key.
+
+L.A.P.D. ARMORY PASSCARD:
+This pass gains the bearer access to the police armory at City Hall.
+
+BLADE'S CLOTHES:
+Bought off the sale-rack at Sears.  Slightly fragrant, but not quite bad enough to warrant washing.
+
+SUPER AMMO CLIP:
+Power pack for Blade's gun.  Each charge is good for a year of normal use.
+
+FIRST AID KIT:
+This is an old familiar friend.
+
+ASSAULT RIFLE:
+M1000X .457 Caliber military spec assault rifle.  This weapon fires proximity fused explosive projectiles at a nominal rate of 1,000 rounds/min.
+
+ONE DOZEN ROSES:
+Organically grown roses.  Just the thing to get a guy out of hot water with his girlfriend.
+
+DRUG PATCH:
+Once used exclusively by the professional health care establishment for administering prescribed medications, these devices have found their way into the hands of big-time drug dealers.  Often placed on the neck over the carotid artery, they are typically used to administer drugs transdermally in a measured dosage.
+
+PLEASURE DOME CLAIM TICKET:
+This enables the bearer to claim his or her weapons upon exiting the pleasuredome.
+
+MTZ VCR TAPE:
+This tape contains the lab work-up for the MTZ sample.
+
+PERSONAL EXPLOSIVE DEVICE:
+These small but powerful explosive devices contain flaked TNT suspended in a polymer base.  If placed strategically, a single bomb can do a great deal of damage.
+
+WIRE TESTER:
+ACME little giant wire testing kit.  Contains three leads:  red-positive, blue-negative, and yellow-ground.
+
+CABINET KEYS:
+Archaic devices once widely used for security purposes, they are now mainly obsolete.
+
+BULLET PROOF VEST:
+DuPont LeadStopper Mark III personal flak vest.  Guaranteed for the lifetime of the user.
+
+TOME OF ANCIENT WISDOM:
+"Don't worry,  Be happy."
+
+ROCK OF LIFE:
+Unusually shaped stone.  Looks like an agate.
+
+FISTO CANDY BAR:
+Highly prized black market trade-item due to the extreme scarcity of sugar.
+
+PARCHMENT:
+This has several unintelligible lines of an oriental script written upon it.
+
+CHANDRA'S PHOTO:
+?Picture of the Mayor's daughter.
+
+APPD:
+NaPent Aerosol Personal Protection Device.
+
+This product was developed with the idea of providing "A safe and humane way of disabling an assailant."  Theoretically, it is supposed to induce a state of extreme euphoria which renders the target incapable of any hostile actions.  
+
+SCREW DRIVER:
+Sears CraftsPerson phillips-head screwdriver.
+
+WIRES FROM CLOSET:
+These wires look like they could hold a lot of voltage.  They might be usefull if I need to disable some electrical device.
+
+FORTUNE COOKIE:
+This stale fortune cookie has an unusual fortune... It says:
+
+"RYP YWP YRPWRY PBW".
+
+I probably shouldn't use this medical kit until I have some injuries.
+
+Ahhh, that's better.
+
+******************** S3.SDS ********************
+
+******************** S6.SDS ********************
+
+Leaky shower head.
+
+Medicine cabinet.
+
+Privy.
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm in here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+To bedroom.
+
+Flush handle.
+
+First aid kit.
+
+NaPent.
+
+******************** S7.SDS ********************
+
+Cabinet door handles.
+
+A phase 4 water alert and my sink's drippin' away half the Pacific!
+
+Fisto Powdered H20.
+
+Commonly referred to as "dry wash", powdered H20 is a chemical cleaning agent capable of eating through even the toughest stains (and skin, if left on for prolonged periods of time).
+
+Fisto Inc. is a multinational organization which produces products as varied as field flux generators and breakfast pellets.
+
+Fisto Oatmeal.
+
+Multigrain "oat" meal, long suspected as the cause of numerous cases of spontaneous combustion. Ruled safe by the FDA-World Sector amid storms of protest.
+
+Salt and pepper shakers.
+
+The salt has taken on a stiff, concrete-like texture, and the pepper has the odor of wet cat.
+
+Tepid water. 
+
+Lukewarm water.
+
+Fisto bar.
+
+A black market item, Fisto bars are made of chocolate and melted banana peels. Chocolate is a very rare and sought-after item.
+
+This just might come in handy for my friends at the Pleasure Dome.
+
+It's locked.
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+Glass jar containing 2 year old peanut brittle crumbs.
+
+Coffee mug.
+
+Broken egg timer.
+
+Empty powdered egg box.
+
+Cabinet lock.
+
+Mini-Bombs.
+
+ACME "Little Giant" wire tester kit.
+
+To Blade's Apartment.
+
+To Blade's Apartment.
+
+******************** S10.SDS ********************
+
+More buildings... just what this effin' city needs...
+
+Doesn't look like I'd better do any sleepwalking for awhile...
+
+One wrong step to the bathroom and I'd REALLY have something to piss about!
+
+Wow!
+
+One wrong step could bring a fall!  Maybe I shouldn't go this way!
+
+Hey!!!
+
+These boards are loose!
+
+Whoops!
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm up here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+To hallway.
+
+******************** S49.SDS ********************
+
+To hallway.
+
+It's probably not a good idea for me to be waving a gun around up here!
+
+I could get in serious trouble if I pull my gun out up here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm up here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good up here!
+
+Steel water pipe.
+
+Air purification machinery.
+
+The roof of Blade's building is dimly illuminated by a few flickering lamps on its far edge.
+
+A JPX-1000 hovercar is parked on the roof.
+
+Sodium vapor lamp.
+
+Sodium vapor lamp.
+
+Nakatome building.
+
+Rickety deathtrap elevator.
+
+You exit the hovercar.
+
+You enter the hovercar.
+
+******************** S55.SDS ********************
+
+In three days my destiny will be realized.  Just as the prophecy foretells.
+
+We shall destroy those who stand against us and bring this city to its knees!  The name Bahumat shall once again strike terror into the hearts of man!
+
+I charge thee brother...  do not fail in your task.  It would be most unwise to disappoint me.
+
+There ya go, baby.
+
+Have a nice trip!
+
+Thanks, Lu.
+
+Hey, little friend...
+
+you got a good time for me?
+
+Mmmm...
+
+URK !*
+
+What was that!?
+
+Oh my GOD! ...
+
+******************** S56.SDS ********************
+
+******************** S89.SDS ********************
+
+******************** S99.SDS ********************
+
+******************** S2.SDS ********************
+
+BLADE:
+I never go anywhere without my BVD's
+
+BLADE'S COAT:
+This once fashionable garment is nearing the end of its useful life, having endured years of use and abuse by its owner.  It is fabricated from a combination of synthetic materials which vaguely resembles Peruvian goat leather.
+
+BLADE'S PISTOL:
+With & Smesson Police Special pulse particle beam handgun.
+
+A meticulousy maintained relic from Blade's past career as a peace officer.  This gun is extremely reliable but it lacks the firepower of many modern sidearms.
+
+BLADE'S ID CARD:
+This multi-purpose device serves its owner as a credit chip, ID card, medical information database, and door key.
+
+CHEN LU'S ID CARD:
+This multi-purpose device serves its owner as a credit chip, ID card, medical information database, and door key.
+
+SNAKE'S ID CARD:
+This multi-purpose device serves its owner as a credit chip, ID card, medical information database, and door key.
+
+L.A.P.D. ARMORY PASSCARD:
+This pass gains the bearer access to the police armory at City Hall.
+
+BLADE'S CLOTHES:
+Bought off the sale-rack at Sears.  Slightly fragrant, but not quite bad enough to warrant washing.
+
+SUPER AMMO CLIP:
+Power pack for Blade's gun.  Each charge is good for a year of normal use.
+
+FIRST AID KIT:
+This is an old familiar friend.
+
+ASSAULT RIFLE:
+M1000X .457 Caliber military spec assault rifle.  This weapon fires proximity fused explosive projectiles at a nominal rate of 1,000 rounds/min.
+
+ONE DOZEN ROSES:
+Organically grown roses.  Just the thing to get a guy out of hot water with his girlfriend.
+
+DRUG PATCH:
+Once used exclusively by the professional health care establishment for administering prescribed medications, these devices have found their way into the hands of big-time drug dealers.  Often placed on the neck over the carotid artery, they are typically used to administer drugs transdermally in a measured dosage.
+
+PLEASURE DOME CLAIM TICKET:
+This enables the bearer to claim his or her weapons upon exiting the pleasuredome.
+
+MTZ VCR TAPE:
+This tape contains the lab work-up for the MTZ sample.
+
+PERSONAL EXPLOSIVE DEVICE:
+These small but powerful explosive devices contain flaked TNT suspended in a polymer base.  If placed strategically, a single bomb can do a great deal of damage.
+
+WIRE TESTER:
+ACME little giant wire testing kit.  Contains three leads:  red-positive, blue-negative, and yellow-ground.
+
+CABINET KEYS:
+Archaic devices once widely used for security purposes, they are now mainly obsolete.
+
+BULLET PROOF VEST:
+DuPont LeadStopper Mark III personal flak vest.  Guaranteed for the lifetime of the user.
+
+TOME OF ANCIENT WISDOM:
+"Don't worry,  Be happy."
+
+ROCK OF LIFE:
+Unusually shaped stone.  Looks like an agate.
+
+FISTO CANDY BAR:
+Highly prized black market trade-item due to the extreme scarcity of sugar.
+
+PARCHMENT:
+This has several unintelligible lines of an oriental script written upon it.
+
+CHANDRA'S PHOTO:
+?Picture of the Mayor's daughter.
+
+APPD:
+NaPent Aerosol Personal Protection Device.
+
+This product was developed with the idea of providing "A safe and humane way of disabling an assailant."  Theoretically, it is supposed to induce a state of extreme euphoria which renders the target incapable of any hostile actions.  
+
+SCREW DRIVER:
+Sears CraftsPerson phillips-head screwdriver.
+
+WIRES FROM CLOSET:
+These wires look like they could hold a lot of voltage.  They might be usefull if I need to disable some electrical device.
+
+FORTUNE COOKIE:
+This stale fortune cookie has an unusual fortune... It says:
+
+"RYP YWP YRPWRY PBW".
+
+I probably shouldn't use this medical kit until I have some injuries.
+
+Ahhh, that's better.
+
+******************** S5.SDS ********************
+
+Maybe I should put some clothes on...
+
+VidPhone Terminal.
+
+Two-way audio visual communications device.
+
+Overcoat. 
+
+Formed of synthesized animal hide, blackened by age and exposure to pollution.
+
+Jeez, I'm a friggin' slob! Clothes everywhere, empty beer cans... Mom would roll in her grave...
+
+if she'd had a grave... effin' punks!
+
+You'd think in a stage 4 water alert that they'd be a little more worried about fixin' these friggin' leaky faucets!
+
+Really need to get these sheets washed...not that they'd smell any better!
+
+20 billion people... we've really screwed up this planet. Half of 'em could use a blaster shoved down their throat... Drugged-out punks!
+
+Cupboards and supplies.
+
+To bathroom.
+
+Dirty, scuzzy place...I hate Los Angeles!
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!?
+
+To hallway.
+
+A lumpy pillow.
+
+Refrigerator.
+Filled with half-empty beer cans  and decaying leftovers.
+
+Maybe I should grab my coat, too!
+
+I should probably get my coat in case it rains.
+
+Let's see, have I forgotten anythng?  
+
+Your pistol.
+
+******************** S8.SDS ********************
+
+MAYOR VINCENZI:
+Hunter,
+We've had more reports come in of kids dying...
+
+MOMAR'S USED CARS:
+Need a good, used hovercar?
+
+Momar's cars has the answer for you! Come down and check out our fine selection of new and used hovercars! 
+
+MAYOR VINCENZI:
+...all were horribly disfigured like my... (gulp) ...my poor daughter.
+
+MAYOR VINCENZI:
+This infection is spreading, whatever it is...
+
+MAYOR VINCENZI:
+Good luck!
+
+Books, books, books...
+why the hell do I have so many of these musty relics? 
+
+...not like I'm gonna read any of this stuff...
+
+VidPhone viewscreen.
+
+Carries very rough black and white images of the other party. Image quality is poor due to severe atmospheric radiation and pollution.
+
+VidPhone camera.
+
+Picks up and transmits black and white digital signal at approximately 8 frames per second to other viewing party. 
+
+Keyboard input.
+
+Voice command input is reserved for the wealthy. Most commoners have to get by with obsolete manual input.
+
+I.D. card entry slot.
+
+Activation of unit is dependent upon insertion of authorized I.D. card.
+
+VidPhone remote control.
+
+Laziness is a way of life, even in the 21st century...
+
+Empty can of Bio-Beer.
+
+A red wire.
+
+A green wire.
+
+Another friggin' wire! This place looks like a Radio-tech construction kit!
+
+VidPhone power switch.
+
+Rumor has it that it turns the box of wires ON and OFF...
+
+Message Waiting indicator.
+
+Facsimile output.
+
+Two-way image hardcopy delivery system.
+
+Never know when I'm gonna need my ammo...
+
+Personal I.D. cards are a person's past, present and future. They contain all elements of an individual's life, including National G2 Code, monetary status, credit rating, residency status, IQ:Rovescan scores and security status.
+
+MAYOR VINCENZI:
+It's where my daughter was last seen. Look for someone called "The Jake". He was one of Chandra's friends.
+
+MAYOR VINCENZI:
+Not that I'd call any of the slime that hangs out there a "friend"!
+
+MAYOR VINCENZI:
+I'm sending you a vid-transmission hardcopy of my daughter...
+
+MAYOR VINCENZI:
+after she was found.
+
+MAYOR VINCENZI:
+It's not pretty, but you might need it. 
+
+MAYOR VINCENZI:
+I don't need to remind you that this investigation is strictly unofficial. I don't want a word of this to leak to the press. 
+
+MAYOR VINCENZI:
+You've got to find out what's causing this! I suggest that you start at the Pleasure Dome.
+
+KARYN:
+Blade, where the hell were you last night?
+
+KARYN:
+We did have a date!
+
+KARYN:
+Or did that happen to slip your mind?
+
+KARYN:
+You bag of toxic waste!
+
+KARYN:
+And don't forget that you left your keys at my place.
+
+KARYN:
+I should just flush 'em!
+
+KARYN:
+I'll be at the Bureau of Records early...
+
+KARYN:
+in case you happen to roll outta bed before noon!
+
+DENG HWANG:
+Greetings, Brother Qwong.  It is I, Deng Hwang.
+
+DENG HWANG:
+I have received some unsettling news concerning a possible disruption in our production schedule.
+
+DENG HWANG:
+There must be no further delays, Brother Qwong!
+
+DENG HWANG:
+You will resolve this situation quickly.  Good day.
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm in here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+It might help if I turned the power on first!
+
+THE JAKE:
+Hunter!  we gotta talk, but not at the dome!
+
+THE JAKE:
+Unless you want to end up very dead, meet me at the warehouse at 8:30 tonight.
+
+MASTER CONTROL:
+1.  CANCEL
+2.  JQ's phone tapped
+3.  Message from Jake
+4.  JQ to Blade mssg
+5.  Gimme all ID cards
+6.  Karyn is kidnapped
+
+DENG HWANG:
+William Hunter, this is your adversary.
+
+DENG HWANG:
+I have a friend of yours with me... I believe that she may, in fact, be somewhat more than a friend.  In any case, Karyn Sommers is in my custody.
+
+DENG HWANG:
+She is in good health for the moment and, provided you cooperate, there is every reason to expect that she will stay that way.
+
+DENG HWANG:
+You have caused us a slight inconvenience, nothing more.  However, you must cease meddling in affairs that are no concern of yours.
+
+DENG HWANG:
+Further resistance on your part is futile, Mr. Hunter.  You cannot win, and you will only bring destruction on yourself and those you care about.
+
+DENG HWANG:
+Consider my words carefully.  You will not receive another warning.  Good day.
+
+THE JAKE:
+Word on the street is that some very lethal dudes are stalkin' a P.I. who's been nosin' around too much!
+
+DENG HWANG:
+Hello again, Brother.
+
+DENG HWANG:
+I have just learned that our downtown warehouse was destroyed by the former police officer William Hunter.
+
+DENG HWANG:
+Your security precautions were clearly inadequate, Brother.
+
+DENG HWANG:
+Please come to our factory headquarters on the northern outskirts of the city to discuss this matter immediately.
+
+DENG HWANG:
+Good day.
+
+DENG HWANG:
+I want you to personally continue checking on progress down at our warehouse.
+
+To bedroom.
+
+A hardcopy image of Chadra Vincenzi is in the fax slot of the VidPhone.
+
+******************** S9.SDS ********************
+
+To roof.
+
+To Em-Way.
+
+To hallway.
+
+Rickety deathtrap elevator.
+
+Blade's front door.
+
+Security lock.
+
+Requires proper I.D. card.
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm in here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+It's locked.
+
+Insert I.D. card.
+
+The drab hallway is feebly illuminated by a single bulb in a battered ceiling fixture.
+
+Scene Resized!!!
+
+Rats!  I locked myself out again!
+
+Good thing I keep a spare in the vent!
+
+******************** S11.SDS ********************
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm down here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+******************** S12.SDS ********************
+
+SELECT SCENARIO:
+1.  Chen Lu address available
+2.  Jonny Qwong address available
+3.  Deng Hwang address available
+4.  Reservoir address available
+5.  CANCEL
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+ESTIMATED TIME OF TRAVEL:
+5 MINUTES
+
+ESTIMATED TIME OF TRAVEL:
+10 MINUTES
+
+ESTIMATED TIME OF TRAVEL:
+15 MINUTES
+
+ESTIMATED TIME OF TRAVEL:
+20 MINUTES
+
+ESTIMATED TIME OF TRAVEL:
+25 MINUTES
+
+ESTIMATED TIME OF TRAVEL:
+30 MINUTES
+
+ESTIMATED TIME OF TRAVEL:
+35 MINUTES
+
+ESTIMATED TIME OF TRAVEL:
+40 MINUTES
+
+ESTIMATED TIME OF TRAVEL:
+45 MINUTES
+
+ESTIMATED TIME OF TRAVEL:
+50 MINUTES
+
+TO BLADE'S APARTMENT
+
+TO CITY HALL
+
+TO THE PLEASURE DOME
+
+TO KARYN'S APARTMENT
+
+TO JONNY QWONG'S HOUSE
+
+TO CHEN LU'S APARTMENT
+
+TO THE RESERVOIR
+
+TO DENG HWANG'S HOUSE
+
+ESTIMATED TIME OF TRAVEL:
+1 MINUTE
+
+ESTIMATED TIME OF TRAVEL:
+2 MINUTES
+
+ESTIMATED TIME OF TRAVEL:
+3 MINUTES
+
+ESTIMATED TIME OF TRAVEL:
+4 MINUTES
+
+ESTIMATED TIME OF TRAVEL:
+6 MINUTES
+
+ESTIMATED TIME OF TRAVEL:
+7 MINUTES
+
+ESTIMATED TIME OF TRAVEL:
+8 MINUTES
+
+ESTIMATED TIME OF TRAVEL:
+9 MINUTES
+
+I probably should get my gun before I go to Deng's!
+
+******************** S21.SDS ********************
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm in here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+******************** S22.SDS ********************
+
+POLICE DISPATCHER:
+Unit 41... Unit 41...   
+
+UNIT 41:
+Unit 41, roger.
+
+
+POLICE DISPATCHER:
+We have a silent alarm at 544 Wallaby Street, #798.  Go check it out!
+
+UNIT 41:
+Unit 41, understood!
+
+Alright men, lets move it!  Set pulse lasers to maximum dispersion!  This is a tough area, and it might be another one of those mutants!
+
+POLICE DISPATCHER:
+Sensors indicate an explosion has just occured in Chinatown near Wallaby Street!
+
+UNIT 41:
+We just came from Wallaby Street!  The homicide boys rushed us outta there.  Said they were under special orders from the mayor!
+
+POLICE DISPATCHER:
+Well, go check it out!  
+
+To bathroom.
+
+To bedroom.
+
+VidPhone terminal.
+
+The remains of an expensive couch...
+
+It reeks of stale beer and cigarettes.
+
+Chen has an impressive amount of expensive audio-video equipment. 
+
+Where does this guy get the money for all this stuff!
+
+To hallway.
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm in here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+The twisted remains of Chen Lu's horribly disfigured body offer mute testimony to the savage power of the substance which killed him.
+
+******************** S23.SDS ********************
+
+What a dump!
+
+What the hell is this?
+
+Yuck!
+
+It's nailed shut and probably hasn't been opened in decades.
+
+Filthy, dirty, scuzzy, and generally icky bathtub.
+
+To living room.
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm in here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+******************** S24.SDS ********************
+
+Whirladaire Servo-Ventilator.
+
+An urban necessity due to consistently dangerous levels of industrial air pollution here in the City of Angels.
+
+A most unusual statue.
+
+Something evil about the eyes makes it seem almost as if it were alive.
+
+It's a safe!
+
+Reruns.
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm in here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+Air-conditioning vent.
+
+Bed.
+
+Sound-insulated wall panels.
+
+Banister.
+
+To Living Room.
+
+******************** S57.SDS ********************
+
+A four-digit combination... maybe Lu hid the number somewhere....
+
+one... I hate that number...
+
+dammit! I should'a finished grade school... 
+
+It's such "the loneliest number".
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm in here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+******************** S58.SDS ********************
+
+On/Off switch.
+
+It's probably not a good idea for me to be waving a gun around in here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm in here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+THE VOICE OF BAHUMAT:
+You have failed us, Brother Lu!
+
+THE VOICE OF BAHUMAT:
+Your irresponsible actions have brought unwarranted attention to our production operation.
+
+THE VOICE OF BAHUMAT:
+The girl you killed was the daughter of a powerful man.
+
+THE VOICE OF BAHUMAT:
+He will seek to avenge himself upon us!
+
+THE VOICE OF BAHUMAT:
+I am sending my personal representative to discuss the matter with you.
+
+THE VOICE OF BAHUMAT:
+Goodbye, Brother Lu!
+
+I should probably turn the power on first.
+
+Exit to Living Room
+
+******************** S59.SDS ********************
+
+OFFICER 1:
+Freeze, turkey!!!
+One move and you're vaporized!
+
+OFFICER 2:
+Better get homicide down here.  We got us another mutant.
+
+OFFICER 1:
+Alright, buster. We're going to take a little ride to the greybar hotel.
+
+OFFICER 2:
+Looks like we found us a murderer!  He must have stolen that poor slob's I.D. card when he killed him.
+
+OFFICER 1:
+My God!!!
+Look what he's done to that poor slob on the floor over there!
+
+OFFICER 2:
+Check him out good!  Make sure he doesn't have any more explosives.
+
+BLADE:
+Great!  NOW what am I gonna do?
+
+BLADE:
+Are these walls getting closer or is it just me?
+
+PRISON GUARD:
+I wonder why the mayor wants this guy bailed out?
+
+PRISON GUARD:
+Alright, scumbag! You're free to go, but you'd better watch it from here on out!  You end up in my jail again and you're gonna be here a long while, no matter WHO's pullin' the strings for ya!
+
+UNIT 41 COMMANDER:
+Dispatch!... We have the place surrounded!  We're moving in now!
+
+******************** S60.SDS ********************
+
+POLICE DISPATCHER:
+Unit 41 ... Unit 41 ...
+We have an illegal entry at 554 Wallaby Street, #798.  Go check it out!  
+
+POLICE DISPATCHER:
+Unit 41 ... Unit 41 ... We have a report of an explosion at 554 Wallaby Street, #798.  Respond code 2 to that address!
+
+******************** S61.SDS ********************
+
+Boy, am I tired!  Better get some sleep in about an hour.
+
+I wonder who that goon with the eyepatch is...
+
+Maybe he's one of Chen's buddies.
+
+BLADE:
+Hey!  Watch it!!
+
+My fault...
+
+but you really should be more careful in this neighborhood.
+
+******************** S62.SDS ********************
+
+POLICE OFFICER:
+Hey, you!  You in the birthday suit!
+
+POLICE OFFICER:
+You're under arrest for indecent exposure!
+
+Maybe next time I should put my clothes on before I leave the apartment!
+
+******************** S70.SDS ********************
+
+I guess I should have been more cooperative...
+
+What a drag.
+
+GUARDS:
+OK, pal. If you're ready to cooperate, we can turn you loose.
+
+BLADE:
+1.  Take a hike!  I like it here.
+
+2.  Great!  I'm ready.
+
+******************** S75.SDS ********************
+
+Boy, am I tired!  Better get some sleep in about an hour.
+
+Ahhh!  Home sweet home.  This bed might be kinda lumpy, but it sure beats sleepin' on the sidewalk!
+
+Man!  Am I tired...!
+
+I'll just close my eyes for a minute.  Maybe that'll help.
+
+******************** S89.SDS ********************
+
+******************** S100.SDS ********************
+
+White hot pain radiates outward from the drug patch on your neck, its malignant mutagens burning agony into every nerve fiber as it warps the DNA of your body into somthing no longer remotely human.
+
+******************** S99.SDS ********************
+
+******************** S15.SDS ********************
+
+MASTER CONTROL:
+1.  CANCEL
+2.  Exit to Pleasuredome Bar.
+3.  Re-enter this scene.
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm on the street!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+You enter the hovercar.
+
+You exit the hovercar.
+
+******************** S16.SDS ********************
+
+ARRIES:
+No guns allowed!  Check 'em or get lost!
+
+BLADE:
+1. What's your problem?
+
+2. No problem!  Take good care of em'.
+
+3. Hey guys!  I'm not going to blow the place away!
+
+4. I didn't want to go in there anyway.
+
+SLEN:
+I'll give you a problem, wise-ass!  Now check your weapons or get outta my face!
+
+SLEN:
+Nice piece... Be a pity to lose it!  You got anything else for us?
+
+SLEN:
+Your piece!  I won't ask nice again!
+
+BLADE:
+1. Hey, nice attitude buddy!
+
+2. I think I'll hang on to it, thanks.
+
+3. Alright!  It better be waiting for me when I get back!
+
+SLEN:
+You're pushing your luck, pretty boy!
+
+SLEN:
+Fine by me.
+
+SLEN:
+Sure thing!  Handle it like it was my very own!
+
+BLADE:
+1. That's all I'm packing.
+
+2. Well, my socks can be deadly.  Want them too?
+
+3. What do I look like?  A walking strike force?
+
+SLEN:
+Have a good time.
+
+SLEN:
+Wiseass!  Get inside before I decide to kick your ugly butt from here to the toxic waste dump!
+
+SLEN:
+You got yourself a very unhealthy attitude, friend!
+
+BLADE:
+1. Alright!  You boys have no sense of humor.
+
+2. Yeah, yeah... here you go.
+
+3. You have got one major attitude problem!
+
+SLEN:
+Have a nice time... friend.
+
+SLEN:
+Thanks for your cooperation.  That all you got for us?
+
+SLEN:
+Your DNA mutated or are you just naturally stupid?
+
+SLEN:
+Bad call... friend!
+
+SLEN:
+Smart move... have a good time.
+
+SLEN:
+With an attitude like yours, I'll be surprised if you make it out in one piece!
+
+SLEN:
+Now get inside before I change my mind!
+
+BLADE:
+1. So I've heard...
+
+2. Yeah?  Well, it could be the steroid-enhanced company!
+
+3. Yeah, yeah... save me the speech, will ya?
+
+SLEN:
+You're clear to go on in, but I'd watch your mouth in there if I were you!
+
+SLEN:
+Oh... Very bad choice of words.  You just bought yourself some personal attention!
+
+SLEN:
+Look, friend!  You're really starting to piss my partner off!
+
+SLEN:
+Now one last time... you want in or not?!!
+
+BLADE:
+1. That's it.
+
+2. You wanna frisk me?
+
+3. What do you think?  I'm carrying a kilo of neural gas?
+
+SLEN:
+Have a good time.
+
+SLEN:
+You're all the same, aren't you?  Get your smart ass inside before I change my mind!
+
+SLEN:
+I think I'm tired of seeing your ugly face!
+
+BLADE:
+1. Mother always said that I was special.  Here's my piece.
+
+2. Wow!  DNA mutation... You pick that up at the steroid clinic?
+
+3. Why don't you and Fido there go find a bone to chew?!
+
+SLEN:
+Yeah, I'm sure she did.  You got anything else for us?
+
+SLEN:
+You just bought yourself some trouble, wiseass!
+
+ARREIS:
+Bad call, mister!
+
+BLADE:
+1. Sorry, can I go in now?
+
+2. What the hell is your problem?
+
+3. What is this? Good cop, bad cop?
+
+SLEN:
+Smart move.  Have a good time.
+
+ARREIS:
+Yes, it is...
+
+SLEN:
+We haven't got all day! Hand it over!
+
+SLEN:
+Look, pretty boy! We don't have time for your games!
+
+SLEN:
+Now give us the gun or get lost!
+
+SLEN:
+That's it!
+
+ARREIS:
+Say hello to the Maker, slimeoid!
+
+SLEN:
+Chocolate!  The wife will love this...
+
+SLEN:
+Better take this claim check for your weapon.  We have a habit of forgetting faces around here.
+
+SLEN:
+You're not such a bad guy after all!
+
+BLADE:
+1. Who you calling pretty boy, butt-head?!
+
+2. Hey, sorry!  Don't want any trouble!  Here's my gun.
+
+3. Alright, but it better be waiting for me when I leave!
+
+Entrance to Pleasure Dome.
+
+To street.
+
+SLEN:
+Both of 'em, wise guy!
+
+SLEN:
+Move along before you get hurt.
+
+SLEN:
+In the ticket booth, dummy!
+
+ARREIS:
+In the ticket booth, chump.
+
+SLEN:
+You know the routine...
+
+SLEN:
+You gotta check your weapons.
+
+SLEN:
+Here's your ticket... go on in.
+
+BLADE:
+'Scuse me.  I'd like to get my guns back.
+
+SLEN:
+You got a gun check ticket?
+
+BLADE:
+What are you talking about?
+
+SLEN:
+When you turn in your weapons, you're supposed to get a claim check.
+
+BLADE:
+You guys must've forgotten to give me one.
+
+SLEN:
+Sorry, buddy.  No claim check, no gun!
+
+BLADE:
+But I just gave my gun to you a few minutes ago!
+
+SLEN:
+Lotta people come through this door, mister.
+
+SLEN:
+You recognize him, Arreis?
+
+ARREIS:
+Nope.
+
+SLEN:
+Well then I guess you're outta luck, buddy.
+
+BLADE:
+1.  Like hell!  You give me my gun or there's gonna be trouble!
+
+2.  Maybe we can work out a deal.
+
+3.  Damn!  I guess I am.
+
+SLEN:
+You want trouble buddy?  You got it!
+
+SLEN:
+Let's teach this piece of trash a lesson, Arreis!
+
+SLEN:
+OK, here's the deal:  Leave now and I won't break both your legs.
+
+SLEN:
+Hold on a second while we scan you.
+
+ARREIS:
+No weapons detected.
+
+SLEN:
+You're clean. Go on in.
+
+SLEN:
+You got a death wish or somethin'?!
+
+SLEN:
+I'm not gonna tell you again!  BEAT IT!
+
+MASTER CONTROL:
+1.  CANCEL
+2.  Get GUN
+3.  Get BIG GUN
+4.  Reset to first encounter
+5.  Exit and re-enter scene
+
+A mountain of a man holding a very large and lethal-looking automatic weapon stands guard at the entrance to the Pleasure Dome. 
+
+A dangerous-looking cyborg leans against the wall next to the "coat"-check window.
+
+"Coat"-check window.
+
+MARTHA:
+Thanks, cutie!
+
+MARTHA:
+Here you go.
+
+******************** S17.SDS ********************
+
+A scantily-clad woman undulates suggestively upon the raised stage.
+
+To Pleasure Dome entrance.
+
+To main area.
+
+Hubba hubba!
+
+PATCH:
+Yo!  What's up?!
+
+BLADE:
+I'm lookin' for a man called "The Jake"...  Seen him?
+
+PATCH:
+What do I look like?  The friggin' Bureau of Missing Persons?
+
+PATCH:
+You wanna find somebody, why don't you hire a private dick?!
+
+BLADE:
+I AM a private investigator!
+
+PATCH:
+Some P.I.!  I'd be surprised if you could find your own name in the VidPhone directory!
+
+BLADE:
+Very funny.  Have you seen The Jake or not?
+
+PATCH:
+I ain't seen 'im.  'Course I've been busy drinkin' this gin-joint outta Tequila.
+
+BLADE:
+I'm looking for some information...
+
+PATCH:
+What do I look like, a library terminal?
+
+PATCH:
+You want some information, go hire a private dick!
+
+BLADE:
+I AM a private investigator!
+
+PATCH:
+Some P.I.!  I'd be surprised if you could find your own name in the VidPhone directory!
+
+PATCH:
+Now if you'll pardon us, me an' Jose Cuervo got some serious business to attend to.
+
+PATCH:
+Stop bothering me, jack!
+
+PATCH:
+Go away! Me an' Jose are busy!
+
+PATCH:
+Go investigate yourself somewhere else, Mr. P.I.!
+
+PATCH:
+Whoa, what's that smell?! You float an air biscuit?
+
+A sour-looking man with a patch over one eye pounds tequila straight shots at a table near the main stage. 
+
+People of every size and description can be found lounging about the room in various stages of intoxication.
+
+A homeboy.
+
+******************** S18.SDS ********************
+
+To Pleasure Dome bar.
+
+To main stage.
+
+Naughty Naughty!
+
+BLADE:
+Excuse me, miss.
+
+Yes?
+
+BLADE:
+My name is William Hunter...
+
+DARCELLE:
+People call me Darcelle, William.
+
+XAMPHIR:
+I Bet 75, FU.
+
+FU BAR:
+You're bluffing your ass off, Xamp!
+
+FU BAR:
+Call.
+
+DARCELLE:
+Just ignore them...
+
+DARCELLE:
+Now what do you want?
+
+BLADE:
+1. I'm looking for a man named "The Jake".  Seen him?
+
+2.  Have you ever seen a girl in here named Chandra?
+
+3.  You have quite a card game going here.
+
+
+FU BAR:
+Hurry up and discard, Darce!
+
+DARCELLE:
+Shush, Fu.  You're being rude.
+
+DARCELLE:
+I'm sorry. I haven't seen that person, William.
+
+DARCELLE:
+Why don't you try the bar?
+
+DARCELLE:
+Perhaps there is someone who can help you there.
+
+BLADE:
+Playin' cards, I see.
+
+BLADE:
+Need a fourth?
+
+DARCELLE:
+That depends.  We have a fairly high minimum table stake.
+
+BLADE:
+Big deal.  What is it? A hundred?
+
+DARCELLE:
+I'm afraid not.  It's one thousand, minimum.
+
+BLADE:
+Wow!  Too rich for my blood!
+
+DARCELLE:
+I'm sorry to hear that.
+
+DARCELLE:
+Now if you will excuse me, I must get back to relieving these gentlemen of their excess credits.
+
+DARCELLE:
+Goodbye, William.
+
+DARCELLE:
+I'm occupied at the moment.
+
+DARCELLE:
+I'm busy.
+
+DARCELLE:
+Please don't bother me. I'm trying to concentrate.
+
+FU BAR:
+Lemme alone. I'm onna winnun streak.
+
+FU BAR:
+Cantcha see I'm bizzy playin' a han' here?
+
+FU BAR:
+Beat it! I'm in the middle o' somethun' important.
+
+XAMPHIR:
+Lose yourself.  I'm busy.
+
+XAMPHIR:
+Beat it, crumb.
+
+XAMPHIR:
+Take a hike.
+
+DARCELLE:
+I LOVE that stuff!  What a great buzz!
+
+A woman posing as a man posing as a woman plays cards with two other Pleasure Dome patrons.
+
+To main entrance.
+
+******************** S19.SDS ********************
+
+BLADE:
+1. I'm sure you are.
+
+2. Get lost.
+
+3. I'm looking for "The Jake".
+
+
+Yo, kissup,
+what you want?
+
+BLADE:
+1. I'm looking for "The Jake".
+
+2. Who you calling kissup, slosh brain?
+
+3. I'm investigating a murder.  I'd like to ask you a few questions.
+
+Hey, uptown, your attitude leaves a lot to be desired.  Think you'd better pound some other beat!
+
+You a slicker?  I don't hang with no slickers.  Take a hike.
+
+BLADE:
+1. Look, you little pisshead!  I've had a bad morning, and I'm not likely to take any crap from a gutter-crawling scum like you!  Now... you know where I can find this guy called "The Jake"?
+
+2. A friend of his is in some trouble.
+
+3. Ease up, buddy! I'm just looking for some information.
+
+Information!  You got some "hardware" to cover such requests?
+
+One of his friends!
+
+THE JAKE:
+Yeah, well you got locks on him.  Now who's the friend?
+
+Chandi?  What about her?
+
+What the hell are you talking about, pal?
+
+Later on, bud! You're too tense for me!
+
+Bullshit, man!  Get outta my face!
+
+Chandi... ??
+
+Unless you got proof, get outta my face!
+
+I don't like the way this little chat is going... I think you can find the way out.
+
+Yeah?  What about her?
+
+Ha!  Chandi's always in trouble!  What about her?
+
+My, my!  Black market chocolate... very interesting and very nice!
+
+Oh, my God... Chandi...
+
+I said get lost!
+
+THE JAKE:
+In my office!
+
+You must have a hearing problem... I said get outta my face!
+
+THE JAKE:
+Let's go someplace where we can talk.
+
+CANDI:
+Hello there, handsome! I'm Candi!
+
+CANDI:
+Looking for a good time, big guy?
+
+CANDI:
+How about you and me getting out of here and into a place a little more "intimate"?
+
+CANDI:
+You're not very nice...
+
+CANDI:
+What a coincidence! I'm here on business too!
+
+CANDI:
+And it looks like business is picking up!
+
+BLADE:
+Not monkey business. I mean serious business!
+
+CANDI:
+I'm totally serious.  And I mean business!
+
+CANDI:
+Why don't you come home with me?
+
+CANDI:
+I won't tell her if you won't!
+
+BLADE:
+Thanks, but no thanks.
+
+CANDI:
+Goodbye!
+
+CANDI:
+My, my!  What a wit you are, Blade!
+
+CANDI:
+Shall we go, then...?
+
+CANDI:
+I've never heard of him...
+
+CANDI:
+Maybe you should ask Mujalambo. He knows everyone who comes in here.
+
+BLADE:
+ Mujalambo?
+
+CANDI:
+The bartender, silly!
+
+CANDI:
+Now run along.  You're monopolizing the merchandise, if you know what I mean!
+
+CANDI:
+Oh, well. It was nice to meet you!
+
+CANDI:
+Have a nice life!
+
+CANDI:
+So why don't you just take your cloud of doom and blow away!
+
+BLADE:
+The name's William Hunter...
+
+BLADE:
+but people call me "Blade".
+
+CANDI:
+Well, "Blade", is that a knife in your pocket or are you just glad to meet me?
+
+BLADE:
+Er... Uh...
+
+CANDI:
+I thought so!
+
+CANDI:
+What do you say we split this scene?
+
+CANDI:
+You are such an ASS!!
+
+CANDI:
+Hello again, Blade! Where's the girlfriend?
+
+BLADE:
+She broke up with me!
+
+CANDI:
+Sorry to hear that, but you shouldn't cheat on people!
+
+CANDI:
+It's not nice and it indicates a real weakness of character!
+
+CANDI:
+Now go away!  I don't think I like you anymore.
+
+CANDI:
+You're wasting your time, Blade.
+
+CANDI:
+You had your chance, and you blew it.
+
+CANDI:
+Now go away and quit pestering me!
+
+Greetings, officer.
+
+BLADE:
+I'm not a police officer.
+
+Oh. Sorry, dude.  No offense.
+
+BLADE:
+I'm a private investigator.  And the name's not "dude". It's Blade.
+
+Sorry, dude... I mean, Blade.
+
+BLADE:
+1. I'm looking for some information.
+
+2. Do you know where a guy can go for a good time?
+
+3. You look kinda funny.
+
+
+BLADE:
+1. Ever seen a girl in here named Chandra?
+
+2. I'm looking for a man who calls himself "The Jake."  Ever heard of him?
+
+3. I hear there's a lot of dealing that goes on in here.  Know where I can find a good dose?
+
+
+BLADE:
+1. Ever seen a girl in here named Chandra?
+
+2. Never mind!  I can see I'm talking to a total veg-head.
+
+3. I hear there's a lot of dealing that goes on in here.  Know where I can find a good high?
+
+
+CASEY JONES:
+Last time I saw her, she was with The Jake.  That was awhile ago, though.
+
+BLADE:
+You know where I can find him?
+
+BLADE:
+Thanks for the info.
+
+CASEY JONES:
+Who you callin' veg-head, slag-brain?!
+
+CASEY JONES:
+Your attitude sucks, man.  Get lost!
+
+CASEY JONES:
+Oh yeah, now I remember... you mean Chandra!
+
+CASEY JONES:
+Hello again, officer!
+
+BLADE:
+I told you before, I'm not a police officer!
+
+CASEY JONES:
+Sorry, dude. I forgot!
+
+BLADE:
+Would you quit calling me that?!
+
+CASEY JONES:
+Sorry, man.
+
+CASEY JONES:
+Every wakin' minute o' the day!
+
+CASEY JONES:
+Sail-ing a-waaay in my beau-ti-ful bal-loooon...
+
+BLADE:
+This is pointless...
+
+CASEY JONES:
+Party on, dude!
+
+CASEY JONES:
+I better start hoofin' around, then.  So long!
+
+BLADE:
+Can't help you there.
+
+CASEY JONES:
+Dude, don't abstract me!  I'm tryin' to expand my consciousness!
+
+MUJALAMBO:
+Whaddaya want, wimp?
+
+BLADE:
+Who you callin' wimp, you rhinocerous?
+
+MUJALAMBO:
+WHAT?!!
+
+BLADE:
+I mean, I'd like to order a drink.
+
+MUJALAMBO:
+We don' serve cops in my bar, buddy!
+
+BLADE:
+I'm not a police officer anymore.
+
+MUJALAMBO:
+Don' matta!  Ya still smell like pig, mon!
+
+BLADE:
+1. You're ugly and you smell bad!
+
+2.  I'm looking for a man called "The Jake".  Seen him around?
+
+3.  Don't gimme that!  I want a drink, dammit!
+
+
+MUJALAMBO:
+You startin' to get on me nerves!
+
+MUJALAMBO:
+I ain't mashed me a cop to a bloody pulp in a long time...
+
+MUJALAMBO:
+...'mos forget what it's like!
+
+BLADE:
+I'd love to stay and chat, but I have another engagement.
+
+MUJALAMBO:
+Mebbe I have, an mebbe I haven't.  What's it to ya?
+
+MUJALAMBO:
+Like hell!
+
+MUJALAMBO:
+I don' think he'll care to listen to anythin' ya tell him...
+
+MUJALAMBO:
+But if ya wanta find him, ask the guy in th' green coat at th' end o' me bar.
+
+MUJALAMBO:
+Are ya deaf or jus' stupid?!  I ain't servin' th' likes o' you!
+
+Listen, uptown! If you don't have proof, get outta my face!
+
+Listen, uptown! Unless you got somethin' for me, get outta my face!
+
+Listen, slicker, I don't wanna talk to you no more.  You ask too many of the wrong questions!
+
+THE JAKE:
+Hey, slicker...
+
+THE JAKE:
+Looks like you were on the up!  Word just hit the streets about Chandi...
+
+THE JAKE:
+I seen a photo of her body... God!  What would do that to a person?!
+
+THE JAKE:
+In my office...
+
+THE JAKE:
+Leave me alone, slicker...
+
+THE JAKE:
+I don't wanna talk right now.
+
+THE JAKE:
+Can't you catch a clue, Hunter?
+
+THE JAKE:
+I want to be alone now!
+
+THE JAKE:
+I told you to get lost!
+
+THE JAKE:
+Try back later when my mood might be a little improved!
+
+THE JAKE:
+I thought you'd be back...
+
+THE JAKE:
+you slickers aren't much without your guns.
+
+BLADE:
+1.  We need to talk.
+
+2.  Let's continue with our discussion of Chen.
+
+3.  I need your help, but don't piss me off, kid!
+
+
+THE JAKE:
+We don't got nothin' to talk about!
+
+THE JAKE:
+DON'T... talk so loud!
+
+THE JAKE:
+In my office!
+
+THE JAKE:
+Oh! The Jake is scared!
+
+BLADE:
+1.  I think we do!
+
+2.  Look, you little gutter scum! I want information about CHEN!!
+
+3.  The hell we don't! In your booth...NOW!!
+
+
+THE JAKE:
+Hunter, there ain't nothin' left to say! Why don't you just haul your butt outta here?
+
+THE JAKE:
+Alright! Alright....
+
+THE JAKE:
+Let's talk in private...
+
+THE JAKE:
+Alright, alright! Get all static ridden, why don't ya!
+
+BLADE:
+1.  Look, gutter slime! I'm not in the mood for your crap!
+
+2.  Sorry... it's been a lousy day... I just want to find out what happened to your friend.
+
+3.  Do we have to go through this again?
+
+
+THE JAKE:
+I see your manners haven't improved much since our last visit!
+
+THE JAKE:
+Why don't we save this special little conversation for another time?!
+
+THE JAKE:
+Hey bud! YOU'RE the one who keeps comin' 'round here disruptin' my busy schedule!
+
+THE JAKE:
+Why don't you come back when you have a REAL attitude?!
+
+BLADE:
+1.  Kid, you got yourself a very unhealthy attitude!
+
+2.  Come on! I just want to talk a little business!
+
+3.  Sure... I'll leave you alone... I'll be sure to tell Chandra's parents what good friends she had.
+
+
+THE JAKE:
+Hunter, just get outta my face!
+
+THE JAKE:
+You been nothin' but trouble! Comin' in here, harassin' me...
+
+THE JAKE:
+Business, as in financial funding?
+
+THE JAKE:
+... thought not.
+
+THE JAKE:
+Why you wanna keep pokin' your nose into somethin' that's gonna bite you in the face?
+
+THE JAKE:
+Yeah, you do that.
+
+BLADE:
+1.  Hey! You ain't seen harassment yet!
+
+2.  Come on, kid... I just want to find out what happened to your friend.
+
+3.  Listen, Jake! Whatever killed your friend is still out there...
+
+
+THE JAKE:
+Yeah?
+
+THE JAKE:
+I think our conversation has once again come to a conclusion.
+
+THE JAKE:
+Why don't you come back when you have a REAL attitude?!
+
+THE JAKE:
+Yeah...
+
+THE JAKE:
+Alright, let's talk...
+
+THE JAKE:
+I KNOW!!
+
+THE JAKE:
+Don't you think I know that??
+
+THE JAKE:
+It's just that...
+
+THE JAKE:
+they've got ears everywhere...
+
+THE JAKE:
+let's talk more privately.
+
+BLADE:
+1.  Yeah... I've had a few women tell me the same thing.
+
+2.  Always fancied myself the "Mo" of private investigators.
+
+3.  Nothing funny about what happened to your friend!
+
+
+THE JAKE:
+Yeah, right.
+
+THE JAKE:
+I really believe that YOU have trouble with women!
+
+THE JAKE:
+You would've liked Chandi... she made me laugh...
+
+THE JAKE:
+Alright... let's talk in my office.
+
+THE JAKE:
+The one stooge!
+
+THE JAKE:
+Man, you're alright... y'know, Chandi would've liked you...
+
+THE JAKE:
+She could make me laugh and laugh...
+
+THE JAKE:
+I'm really gonna miss her.
+
+THE JAKE:
+Come on, let's talk in private.
+
+THE JAKE:
+You don't beat around a point, do you, Hunter?
+
+THE JAKE:
+No, there's nothing funny about what happened to Chandi...
+
+THE JAKE:
+Come on, let's talk in private.
+
+THE JAKE:
+You back again?
+
+THE JAKE:
+Don't you get the clue?  I don't wanna talk to you!
+
+BLADE:
+1.  Yeah?  Well I'm not really thrilled about having to talk to you either!
+
+2.  We don't help each other out, Chandi's murderer will never be found!
+
+3.  I'm tired of playing with you!  Now WHO IS CHEN!??
+
+
+THE JAKE:
+You gotta point?
+
+THE JAKE:
+Or do you just like the sound of your own voice?
+
+THE JAKE:
+Why you wanna keep pokin' your nose in where it's sure to get bitten off?
+
+THE JAKE:
+Quiet!!
+
+THE JAKE:
+He's got ears everywhere!
+
+THE JAKE:
+Jeez, you get excited easy, mister...
+
+THE JAKE:
+Come on, let's talk in private.
+
+BLADE:
+1.  The point is, your friend is dead and we're no closer to finding out who did it.
+
+2.  You make a joke out of everything?
+
+3.  I wanna find your friend's killer...
+
+
+THE JAKE:
+Alright, let's talk...
+
+THE JAKE:
+no...
+
+THE JAKE:
+not everything.
+
+THE JAKE:
+You wanna talk?  Let's step into my booth.
+
+THE JAKE:
+Alright... alright...
+
+THE JAKE:
+Let's step into my office where it's a bit more private...
+
+THE JAKE:
+He's got people everywhere.
+
+BLADE:
+1.  'Cause I hate murder...  makes my stomach turn!
+
+2.  'Cause I can't just hide my head in the sand whenever trouble comes along!
+
+3.  That's just the kinda guy I am.
+
+
+THE JAKE:
+Yeah. Mine too...
+
+THE JAKE:
+Why don't we step into my office?
+
+THE JAKE:
+You sayin' I do?
+
+THE JAKE:
+Yes... guess I do...
+
+THE JAKE:
+Alright, Hunter, you just bought yourself some information...
+
+THE JAKE:
+You're a funny guy, Hunter.
+
+THE JAKE:
+I think you missed your calling...
+
+THE JAKE:
+OK, you wanna talk?  Let's step into my office...
+
+THE JAKE:
+Yo! Hunter!
+
+THE JAKE:
+I... uh... got some news for ya...
+
+THE JAKE:
+Can't talk now, though.
+
+THE JAKE:
+We need to meet somewhere safe.
+
+THE JAKE:
+I'll give you a call.
+
+THE JAKE:
+Now get outta here before someone sees us talkin'!????
+
+THE JAKE:
+Hunter!  You wanna get us both flatlined?!!
+
+THE JAKE:
+Get the hell outta here before someone sees us talkin'!
+
+THE JAKE:
+You wanna get us both flatlined?
+
+THE JAKE:
+Get outta here before someone sees us talkin'!
+
+THE JAKE:
+Don't bug me unless you got somethin' important!
+
+MASTER CONTROL:
+Jake conversation 1
+Jake conversation 2
+Jake conversation 3
+Jake conversation 4
+Jake conversation 5
+Jake conversation 6
+Jake conversation 7
+Get Photo and Candy
+Get Chen Lu items
+Deng Hwang on TV
+Jake Respose = 1
+Re-Enter scene
+Exit to Establishing
+CANCEL
+
+THE JAKE:
+Dude!  Chill out with the air freshener!
+
+THE JAKE:
+It stains my threads, man!
+
+MUJALAMBO:
+Achoo!
+
+CANDI:
+Oh, wow! That stuff is WONderful!.
+
+CASEY JONES:
+Aaahhh!  Thanks man! I needed that!
+
+MUJALAMBO:
+Get otta me bar!  Your stinkin up the place.
+
+MUJALAMBO:
+Go away!  We don't serve your kind in here!
+
+MUJALAMBO:
+Get lost!  You're disturbin' my customers!
+
+The monstrous proprietor of the bar wears a sour expression on his face and looks as if he could easily tear the arms off any person foolish enough to anger him.
+
+Exit to the dance floor
+
+Exit the Pleasure Dome.
+
+******************** S20.SDS ********************
+
+THE JAKE:
+Oh my God... Chandi!
+
+THE JAKE:
+The name's Willard Jakeston... Everybody calls me The Jake.
+
+THE JAKE:
+Chandi thought it up...
+
+THE JAKE:
+Holy mother... what happened to her?! I mean, what could have done this?!
+
+THE JAKE:
+She was...
+
+THE JAKE:
+Dammit!  Effin'... Stupid!
+
+THE JAKE:
+I told her! Told her that Chen was...
+
+BLADE:
+1.  What can you tell me?
+
+2.  Who is Chen?	     
+
+3.  I'm sorry.              
+
+
+THE JAKE:
+Look, man, you don't wanna mess with this! This has some big-time flatliners behind it! Just leave it alone!
+
+THE JAKE:
+Nobody... never heard of him!
+
+THE JAKE:
+Yeah? You be a lot sorrier, you keep pokin' into this!
+
+BLADE:
+1.  Come on! Help me on this!
+
+2.  Who's this Chen?	         
+
+3.  Who you afraid of?	
+
+
+THE JAKE:
+Don't you hear?
+
+THE JAKE:
+Whatever she got herself into, it's deep and bad...
+
+THE JAKE:
+REAL bad!
+
+BLADE:
+1.  Look, all I want to do is help! Who was she mixed up with?
+
+2.  Why am I wasting my time with you?
+
+3.  Look, fry-brain! More than your scuzzy little hide is riding on this!
+
+
+THE JAKE:
+Alright man! You didn't hear anything from me...
+
+THE JAKE:
+she was hangin' with a big-league pumper called Chen.
+
+THE JAKE:
+Remember, bub! You didn't hear nothin' from The Jake!
+
+THE JAKE:
+Yeah, yeah... save your flattery.
+
+THE JAKE:
+You really wanna help, you'll just leave me alone...
+
+BLADE:
+1.  Anything else?                                   
+
+2.  Didn't hear a thing.                             
+
+3.  You be around if I find out anything?
+
+
+BLADE:
+1.  Alright, alright! You get anything, give me a call.
+
+2.  You are a pathetic excuse for a friend!               
+
+3.  Look, I'm sorry about your friend.                     
+
+
+THE JAKE:
+Bub, you are truly unreal! You want my head to end up in a wonton factory?
+
+THE JAKE:
+Alright! Check out 554 Wallaby Street, #798.
+
+THE JAKE:
+And Hunter! She was a nice kid...
+
+THE JAKE:
+this guy turns out to be involved, you toast him for me!
+
+THE JAKE:
+O.K.?
+
+THE JAKE:
+I'll be around if you find anything out.
+
+THE JAKE:
+Yeah, yeah... now get outta my face!
+
+THE JAKE:
+I'm always around...
+
+THE JAKE:
+now get lost before someone sees me spillin' my guts to a slicker!
+
+THE JAKE:
+Chandi...
+
+THE JAKE:
+Damn, I'm gonna regret this...
+
+THE JAKE:
+Check out a 554 Wallaby Street, #798.
+
+THE JAKE:
+That's the pad of a big-time pumper named Chen. You might find something there.
+
+THE JAKE:
+Chandi didn't deserve this...
+
+THE JAKE:
+She was a good kid!
+
+THE JAKE:
+I'll be around, you need me!
+
+THE JAKE:
+Yeah, I know...
+
+THE JAKE:
+now leave me alone!
+
+THE JAKE:
+Man, you have to ask that, then you're dumber than you look!
+
+BLADE:
+1.  Look, you waste-oid! You think Chandra just bubbled into the pavement 'cause she had nothin' better to do?
+
+2.  Maybe, but I wasn't the one who got 'er brains melted into the pavement.
+
+3.  This guy that big?
+
+
+THE JAKE:
+Don't crash on me, slicker...
+
+THE JAKE:
+She was a big girl. She knew what she was doin'...
+
+THE JAKE:
+she was just stubborn...
+
+THE JAKE:
+I should'a never introduced her to Chen.
+
+THE JAKE:
+Get the hell outta my face!
+
+THE JAKE:
+This interview just powered down!
+
+THE JAKE:
+Bro, these walls have ears...
+
+THE JAKE:
+One word from Chen and I'm pushin' up waste barrels in some radiation dump!
+
+BLADE:
+1. You got an address you can share?
+
+2. Who's this "Chen" pal of yours?        
+
+3. You're a friggin' little coward!        
+
+
+THE JAKE:
+You are amazing!
+
+THE JAKE:
+You don't get it, do you?! These people would flick your restart switch in a second!
+
+THE JAKE:
+Looks like Chandi found that out the hard way!
+
+THE JAKE:
+She was top quality. Never hurt anyone in her life...
+
+THE JAKE:
+Alright! You want info, you got it!
+
+THE JAKE:
+Just remember, you never heard it from The Jake!
+
+THE JAKE:
+Check out 554 Wallaby Street, #798.
+
+THE JAKE:
+And if you find who done this to her... to my Chandi... you smoke 'em hard!
+
+THE JAKE:
+Real hard, like they did to her!
+
+THE JAKE:
+I'll be around, you need me.
+
+BLADE:
+1.  O.K., I get the message!          
+
+2.  You're a friggin' little coward!
+
+3.  I won't say a word.                
+
+
+THE JAKE:
+Wait!
+
+THE JAKE:
+Dammit, I'm gonna regret this...
+
+THE JAKE:
+You never heard this from The Jake! You got that?
+
+THE JAKE:
+You're lookin' for a guy named Chen.
+
+THE JAKE:
+He's associated with some big-time scrubbers over in Chinatown.
+
+THE JAKE:
+He's got a place over on Wallaby Street.
+
+THE JAKE:
+554 Wallaby Street, #798.
+
+THE JAKE:
+I'll be around, you get any news...
+
+THE JAKE:
+You're right, kissup.
+
+THE JAKE:
+This little talk is over.
+
+THE JAKE:
+Alright... for Chandi.
+
+THE JAKE:
+You're lookin' for a prime-time bad guy named Chen.
+
+THE JAKE:
+He makes nest at 554 Wallaby Street, #798.
+
+THE JAKE:
+Watch your butt if you go over there! He's big-league bad news!
+
+THE JAKE:
+I'll be around, you need me.
+
+BLADE:
+1.  You're lying!                                                                         
+
+2.  How was Chandra mixed up with this guy?                          
+
+3.  You think Chandra would want you covering this guy's ass?
+
+
+THE JAKE:
+The hell I am!
+
+THE JAKE:
+Why don't you just back off?!
+
+BLADE:
+1.  Why don't you show a little backbone?
+
+2.  OK! OK! Sorry!                                     
+
+3.  Why am I wasting my time with you?
+
+
+THE JAKE:
+Hey! I got a backbone!
+
+THE JAKE:
+And I want to keep it that way!
+
+THE JAKE:
+This meeting is adjourned!
+
+THE JAKE:
+Hell if I know! Not like I'm enjoying our little convo!
+
+BLADE:
+1.  You gonna help me find Chandra's killer or not?
+
+2.  It's been real nice!
+
+3.  You think Chandra enjoyed what happened to her?
+
+
+THE JAKE:
+Look, you wanna play private dick? Fine with me!
+
+THE JAKE:
+Check out 554 Wallaby Street, #798.
+
+THE JAKE:
+Just remember...
+
+THE JAKE:
+when they rip your fingers off one by one... you never heard of me!
+
+THE JAKE:
+Yeah, sure.
+
+THE JAKE:
+Let's get together and do lunch...
+
+THE JAKE:
+Later.
+
+THE JAKE:
+Man, that's not playing fair!
+
+THE JAKE:
+If I could'a prevented this, don't you think I would'a?
+
+THE JAKE:
+Alright, alright...
+
+THE JAKE:
+You never heard this from The Jake...
+
+THE JAKE:
+his name is Chen. You'll find him at 554 Wallaby Street, #798.
+
+THE JAKE:
+You watch your butt, though! He's one mean S.O.B.!
+
+THE JAKE:
+One more thing...
+
+THE JAKE:
+if you find he's the one... I want him hurt! Hurt bad...
+
+THE JAKE:
+like he hurt Chandi!
+
+THE JAKE:
+You owe me that much!
+
+THE JAKE:
+I'll be around, you find anything out.
+
+THE JAKE:
+I told you! I don't know what you're talking about!
+
+BLADE:
+1.  She was your friend, wasn't she?
+
+2.  I'm talkin' about your dead friend and some guy named Chen.
+
+3.  I'll bet your melted friend Chandra would know what I'm talkin' about! 
+
+
+THE JAKE:
+Yeah, she was my friend!
+
+THE JAKE:
+Does that mean I gotta get my lungs scooped out for her?
+
+THE JAKE:
+You'll get us both cancelled!
+
+THE JAKE:
+I'll tell you...
+
+THE JAKE:
+his name is Chen. He's in with some Chinatown hit group. Chandi wanted to try some of his goods.
+
+THE JAKE:
+Damn stupid girl! I told her not to mess with him! She just wouldn't listen!
+
+THE JAKE:
+Wanted to go and drug up her problems...
+
+THE JAKE:
+That's it! You're outta here!
+
+THE JAKE:
+She was never no harm to nobody! You got no right talkin' about her like that!
+
+BLADE:
+1.  WHO THE HELL IS "CHEN"?!!                 
+
+2.  You're some friend!                            
+
+3.  How about I scoop 'em out for you?!! 
+
+
+THE JAKE:
+I tried to protect her...
+
+THE JAKE:
+she was just too snoopy... wantin' to try everything.
+
+THE JAKE:
+Look. You never heard this from The Jake! You got that?
+
+THE JAKE:
+You're lookin' for a guy named Chen. He's associated with some big-time scrubbers over in Chinatown.
+
+THE JAKE:
+He's got a place over on Wallaby Street. 554 Wallaby Street, #798.
+
+THE JAKE:
+I'll be around, if you get any news...
+
+THE JAKE:
+How 'bout you say goodbye, ass-wipe?!
+
+BLADE:
+1.  Looks like she drugged 'em up really good!
+
+2.  You got an address on this Chen?               
+
+3.  Women...                                                    
+
+
+THE JAKE:
+Yeah...
+
+THE JAKE:
+You'll find Chen at 554 Wallaby Street, #798...
+
+THE JAKE:
+...and remember, you never heard nothin' from The Jake!
+
+THE JAKE:
+Let me know what happens.
+
+THE JAKE:
+544 Wallaby Street, #798...
+
+THE JAKE:
+and remember, you never heard nothin' from The Jake!
+
+THE JAKE:
+Yeah...
+
+THE JAKE:
+Go to 544 Wallaby Street, #798.
+
+THE JAKE:
+Chen's lair...
+
+THE JAKE:
+and watch your butt!
+
+THE JAKE:
+I'll be around if you need me.
+
+THE JAKE:
+Look, bud, Chandra was a big girl...
+
+THE JAKE:
+Dammit! What the hell did this to her??
+
+THE JAKE:
+1.  Whatever it was is still out there!
+
+2.  You're just gonna wait for this to happen to ANOTHER one of your friends?
+
+3.  I don't know... but someone does! Why don't you help me out?
+
+
+THE JAKE:
+So!
+
+THE JAKE:
+What you want me doin' 'bout it?
+
+THE JAKE:
+The folks she was mixed up with, they deal some serious drugs...
+
+THE JAKE:
+I leak one word and they'll wipe me without a thought!
+
+THE JAKE:
+I got no more friends...
+
+THE JAKE:
+'Cause I'm a coward.
+
+THE JAKE:
+Look, you think I WANTED this to happen?
+
+THE JAKE:
+She was my only friend.
+
+BLADE:
+1.  That all you care about? Yourself?
+
+2.  You don't tell me what I want to know, and I might just beat them to it!
+
+3.  She was your friend.                   
+
+
+THE JAKE:
+Look, you got no right talkin' to me like that!
+
+THE JAKE:
+This conversation is at an end!
+
+THE JAKE:
+Oooh! Big slicker!
+
+THE JAKE:
+You really scare me!
+
+THE JAKE:
+Why don't you find someone else to harass?
+
+THE JAKE:
+Yeah...
+
+THE JAKE:
+these walls got ears... y'know?
+
+THE JAKE:
+You're lookin' for a big-timer called Chen. You'll find his place at 554 Wallaby Street, #798.
+
+THE JAKE:
+Listen, Hunter...
+
+THE JAKE:
+Watch your butt!
+
+THE JAKE:
+These ain't nice people we're talkin' about here!
+
+THE JAKE:
+I'll be around, you need me.
+
+BLADE:
+1.  What's this guy's name and address?   
+
+2.  Well, that's no big surprise!                 
+
+3.  Look, kid, we all got our problems.      
+
+
+THE JAKE:
+Alright...
+
+THE JAKE:
+His name is Chen. He's a pump for some big-timers down in Chinatown.
+
+THE JAKE:
+He's got a place over at 554 Wallaby Street, #798.
+
+THE JAKE:
+That's all I know.
+
+THE JAKE:
+Chandi was hangin' 'round with him and his group.
+
+THE JAKE:
+I'll be around, you find anything out.
+
+THE JAKE:
+Prob'ly not...
+
+THE JAKE:
+I think we've finished this little conversation, Hunter.
+
+THE JAKE:
+Let me know, you find anything out.
+
+THE JAKE:
+Yeah...
+
+THE JAKE:
+You know, I'm gonna really miss her...
+
+THE JAKE:
+I TOLD her! Don't mess with that crap!! Damn stupid girl...
+
+THE JAKE:
+Stupid girl...
+
+THE JAKE:
+stupid, stupid, stupid...
+
+BLADE:
+1.  Look, kid, we all got our problems.             
+
+2.  Stop sniveling and help me find her killer!
+
+3.  What's this guy's name and address?        
+
+
+THE JAKE:
+Yeah...
+
+THE JAKE:
+You know, I'm gonna really miss her.
+
+THE JAKE:
+I TOLD her! Don't mess with the crap!! Damn stupid girl...
+
+THE JAKE:
+Stupid girl...
+
+THE JAKE:
+stupid, stupid, stupid...
+
+THE JAKE:
+OK... I'll help you.
+
+THE JAKE:
+But you never heard this from The Jake!
+
+THE JAKE:
+Chandi was hangin' out with a guy named Chen.
+
+THE JAKE:
+He's a big-time pump from Chinatown. Keeps a place on Wallaby Street. 554 Wallaby Street, #798.
+
+THE JAKE:
+I'll be around, you need anything else.
+
+THE JAKE:
+Alright...
+
+THE JAKE:
+His name is Chen. He's a pump for big-timers down in Chinatown.
+
+THE JAKE:
+He's got a place over at 554 Wallaby Street, #798.
+
+THE JAKE:
+That's all I know.
+
+THE JAKE:
+Chandi was hangin' 'round with him and his group.
+
+THE JAKE:
+I'll be around, you find anything out.
+
+BLADE:
+1.  You have any idea what could have done this to her?
+
+2.  What was she mixed up with? Prostitution? Drugs?  
+
+3.  I thought you were supposed to be her friend!         
+
+
+THE JAKE:
+How the hell should I know!?
+
+THE JAKE:
+You listen to the China Tombstoners, and those old folks'll tell you the world is comin' to an end.
+
+THE JAKE:
+They been talkin' it up lately about "unnatural" deaths and the return of the "Ancient One".
+
+THE JAKE:
+A lot of B.S., but...
+
+THE JAKE:
+makes more sense than anything I could tell ya...
+
+THE JAKE:
+Get this straight, uptown! Chandi weren't no hooker!
+
+THE JAKE:
+She had more class than all of us in this place put together...
+
+THE JAKE:
+she didn't deserve this!
+
+BLADE:
+1.  You got an address you can share?
+
+2.  Look, all I want to do is help! Who was she mixed up with?
+
+3.  Look, you waste-oid! You think Chandra just bubbled into the pavement because she had nothing better to do?
+
+
+THE JAKE:
+Yeah? Well maybe she didn't have the best taste in company!
+
+THE JAKE:
+I gotta go.
+
+BLADE:
+1.  You're right. Sounds like B.S.      
+
+2.  I don't believe in that crap. Why don't you just tell me what you know?
+
+3.  TELL ME WHERE TO FIND CHEN!!
+
+
+THE JAKE:
+Told you it did!
+
+THE JAKE:
+I hear that they got some old folks over there, say they seen this before, in the old country.
+
+THE JAKE:
+Strange stuff...
+
+THE JAKE:
+The skies turnin' to blood, the rivers boilin', dogs and cats livin' together...
+
+BLADE:
+1.  Yeah, yeah... real funny. You think we got Gozer the Traveler runnin' 'round meltin' people?
+
+2.  Cut the crap and just let me know who this "Chen" character is!
+
+3.  Sound like a bad movie! 
+
+
+THE JAKE:
+Who knows...?
+
+THE JAKE:
+Look, Hunter, I don't want to get cancelled, so you better keep this confidential!
+
+THE JAKE:
+Chandi was hangin' with a guy named Chen. He's some big-timer from a group over in Chinatown.
+
+THE JAKE:
+The guy's BAAAD...!
+
+THE JAKE:
+He's got a place at 554 Wallaby Street, #798.
+
+THE JAKE:
+Watch your butt, Hunter! These are the "bad guys" your mother warned you about!
+
+THE JAKE:
+I'll be around, you need anything else.
+
+THE JAKE:
+Yeah... it gets worse! I hear that they think some kind of demonic dragon is roamin' the street, waitin' to suck the life outta people!
+
+THE JAKE:
+Very weird effin' stuff!
+
+THE JAKE:
+Chandi would have loved it.
+
+THE JAKE:
+Alright Hunter... I'll help you!
+
+THE JAKE:
+Go to 544 Wallaby Street, #798. That's were Chen lives.
+
+THE JAKE:
+Chandi was messin' 'round with him and his druggy pals.
+
+THE JAKE:
+I'll be around, you need me.
+
+THE JAKE:
+I told her!
+
+THE JAKE:
+Told her he was nothin' but bad news!
+
+THE JAKE:
+Why didn't she LISTEN to me!!
+
+THE JAKE:
+Stupid! She was effin' stupid!!
+
+THE JAKE:
+Chandi...
+
+THE JAKE:
+I told her he was bad news...
+
+THE JAKE:
+told her... stay away from Chen, and...
+
+MASTER CONTROL:
+1.  First Encounter
+2.  Second Encounter, but message not received.
+3.  Message received
+4.  Restart
+5.  CANCEL
+
+THE JAKE:
+You never heard this from The Jake!
+
+THE JAKE:
+You got that, Hunter?
+
+THE JAKE:
+Chandi was mixed up with a big-time pumper named Chen Lu. He's got a place over on 554 Wallaby Street, #798.
+
+THE JAKE:
+You know, I told her he was bad news... Damn girl just wouldn't listen.
+
+THE JAKE:
+I just want one thing, Hunter. If you find out that Lu was behind Chandi's death, I want you to flatline him for me...
+
+THE JAKE:
+Flatline him! Hard n' ugly!
+
+THE JAKE:
+I'll be around, you get anything.
+
+THE JAKE:
+Chandi was mixed up with a guy named Chen Lu.
+
+THE JAKE:
+You gotta swear you'll never say where you heard this!
+
+THE JAKE:
+These folks are major bad news! I'm talkin' BAAAD people!
+
+THE JAKE:
+I TOLD Chandi that! She just wouldn't listen!
+
+THE JAKE:
+She wanted to bury her problems in drugs...
+
+THE JAKE:
+Chen Lu was happy to help out.
+
+THE JAKE:
+He holds a place at 544 Wallaby Street, #798.
+
+THE JAKE:
+Check it out... but watch yourself!
+
+THE JAKE:
+He's not a nice man!
+
+THE JAKE:
+I'll be hangin' 'round, you need anything else.
+
+THE JAKE:
+Get outta my face now!  I don't want people seeing me talkin' to a slicker like you!
+
+THE JAKE:
+Don't you hear well?  I can't talk to you anymore!
+
+THE JAKE:
+Get lost! You're gonna get us both wasted!
+
+Exit to Pleasure Dome bar
+
+******************** S41.SDS ********************
+
+BLADE:
+I'm kind of in dutch with my girlfriend for missing a date, so...
+
+BLADE:
+That's not quite what I had in mind.  I guess I'll take a dozen roses.
+
+BLADE:
+Uh... how much is this going to cost me?
+
+BLADE:
+I left my I.D. at home.  Do you take cash?
+
+BLISS:
+I think you'd better leave!
+
+BLISS:
+Goodbye.
+
+BLISS:
+As you wish.
+
+BLISS:
+Hello again, sir.
+
+BLADE:
+I'd like to buy some flowers.
+
+BLADE:
+1. I'd like to buy some flowers.
+
+2. Just stopping to smell the roses.
+
+
+BLADE:
+What?!!  This is a flower shop!
+
+BLADE:
+Never mind!
+
+BLADE:
+Ahh... no.  Sorry to bother you again.
+
+BLISS:
+This isn't your I.D. card.
+
+BUM:
+Dooooom...DOOOOM!
+
+BUM:
+We're all DOOOMED!
+
+BLADE:
+Have you got a screw loose or what?
+
+BUM:
+Bahumat has risen again!  I've seen him!
+
+BLADE:
+What the hell are you talking about?
+
+BUM:
+Five thousand years he's waited...
+
+BLADE:
+You've been drinking too much of that rotgut!
+
+BUM:
+We're all doomed! Doomed!
+
+BUM:
+Are you the one the prophecy speaks of?
+
+BLADE:
+1.  Yes.
+
+2.  No.
+
+3.  What prophecy?
+
+
+BUM:
+You must save us all!!!
+
+BUM:
+Then we're all DOOOOMMMMED!!
+
+BUM:
+THE prophecy - It foretells the titanic conflict between the evil Bahumat and a great hero!
+
+BLADE:
+What happens to this "hero"?
+
+BUM:
+He gets torn into thousands of itty-bitty pieces by the Evil One!
+
+BUM:
+But he saves the universe!
+
+BLADE:
+That's really encouraging.
+
+BUM:
+You must leave.  His eyes are everywhere!
+
+BUM:
+Mmmrrrpphhh!!
+
+BUM:
+Go away!!
+
+BUM:
+Woe!  Woe and DOOOM!
+
+BUM:
+Doom! Doom and woe!?
+
+The proprietor of the flower stand is busily at work sorting her merchandise alphabetically by color.
+
+A smelly bum sits on the sidewalk mumbling incoherently to himself.
+
+To City Hall.
+
+To Em-Way.
+
+To warehouse district.
+
+Steam pipes.
+
+******************** S44.SDS ********************
+
+JENNI:
+Hi, Blade.  Want to play house?
+
+JENNI:
+The mayor is in a meeting and can't be disturbed.
+
+JENNI:
+Is there anything that I can do for you personally, ya big stud...?
+
+JENNI:
+I mean as long as it's nothing kinky...
+
+JENNI:
+Not that kinky is all bad...
+
+JENNI:
+What are you wasting your time on that little bimbo for?
+
+JENNI:
+What YOU need, Blade, is a REAL woman...
+
+JENNI:
+like me, for instance!
+
+JENNI:
+One who could take you places you never dreamed possible...
+
+JENNI:
+A little dancing, a little moonlight, a little romance...
+
+JENNI:
+you know...
+
+BLADE:
+1.   I'm flattered, but I'm a one girl kind of guy, and right now I'm spoken for.
+
+2.  It sounds intriguing, but I need to see the mayor, Jenni.
+
+3. How about getting together later for a little one-on-one?
+
+
+JENNI:
+Darn it!
+The good ones are always taken!
+
+JENNI:
+Well, if you ever change your mind, you know where to find me!
+
+JENNI:
+I'm only the receptionist, Blade.
+
+JENNI:
+You know I would get you in to see him if I could.
+
+JENNI:
+But, as I already told you, he's in an important meeting and cannot be disturbed.
+
+JENNI:
+There's some corporate bigwig from DH Enterprises here to bid for the city's water contracts or something.
+
+JENNI:
+Tell you what, Blade... come back later and I'll see what I can do for you, but I can't promise anything.
+
+JENNI:
+It sounds delicious, but I really wouldn't feel right about it unless you were to stop seeing that Karyn.
+
+JENNI:
+She is such a lame dame, Blade!  Maybe it's time for you to trade up!
+
+JENNI:
+Well, enough of this idle speculation...  You'd better run along now, Blade.  Ciao!
+
+BLADE:
+1. I'm flattered, Jenni, but I'm a one girl kind of guy and right now I'm spoken for.  Besides, I really need to talk with Karyn.
+
+2. It sounds intriguing, but I really need to talk to Karyn.
+
+3. Maybe we should take a little drive later...
+
+
+JENNI:
+Down in flames again!
+
+JENNI:
+See you later, Blade.
+
+JENNI:
+It sounds fabulous, but I don't think your girlfriend would approve.
+
+JENNI:
+You're quite a charmer, Blade, but you need to get your priorities straight and cut loose that ball and chain.
+
+JENNI:
+Come back and see me sometime, Hunter.
+
+JENNI:
+It sounds fabulous, darling...
+
+JENNI:
+But what about that Karyn Sommers person?  She definitely has to go!
+
+JENNI:
+Why don't you go dump her and give me a call on the rebound?
+
+JENNI:
+See you later, you big stud!
+
+JENNI:
+Sure, Blade.
+
+JENNI:
+Goodbye.
+
+JENNI:
+Hello, handsome! What can I do for you now?
+
+BLADE:
+1.  I'd like to get in to see the mayor, if it's possible.
+
+2.  I need to see Karyn Sommers in the Bureau of Records.
+
+3.  I kind of thought we might have some unfinished business to talk about.
+
+
+JENNI:
+No can do, Blade!  I'm sorry, but he's very busy right now.
+
+JENNI:
+Well, go see HER and quit bothering ME!
+
+JENNI:
+I may have given you the impression that I was interested in you before, Blade...
+
+JENNI:
+But I've changed my mind.  It's a woman's prerogative to do that, you know.
+
+JENNI:
+See you around, Blade.
+
+JENNI:
+Hello again, Blade. It's nice to see you!
+
+JENNI:
+I'm terribly sorry, Blade. But the mayor has left orders that he is not to be disturbed...
+Especially by you.
+
+JENNI:
+If it were up to me, you could see anyone you want.  But the mayor is extremely busy right now.
+
+JENNI:
+Not much, Blade. The mayor is still busy, if that's why you're here.
+
+JENNI:
+Sorry, Blade, but I can't have you marching into the mayor's office every time you want your parking tickets fixed!
+
+JENNI:
+If you're pulling my leg this time, we're both gonna catch hell!
+
+JENNI:
+Mr. Mayor,  William Hunter's here to see you on an extremely urgent matter!
+
+MAYOR:
+He's not here to get me to fix some parking tickets, is he?
+
+JENNI:
+He claims it is urgent, sir.
+
+JENNI:
+He is threatening to reveal information which would hurt your chances to be re-elected.
+
+MAYOR:
+Very well.  Send him up.
+
+JENNI:
+There's no need to get upset.  I'm sure the mayor will see you when it is convenient for him.
+
+JENNI:
+Good day, Blade.
+
+JENNI:
+'Bye, Blade.
+
+JENNI:
+Hello, Blade. What can I do for you?
+
+JENNI:
+Make sure you show it to the guard.
+
+JENNI:
+Still wasting time with that chick, I see!
+
+JENNI:
+Very well.  Go on in.
+
+JENNI:
+Not again, Blade!
+
+JENNI:
+There is absolutely NO way the mayor is going to see you now, Blade!
+
+JENNI:
+Come back in a month or so.
+
+JENNI:
+You can't go in right now, Blade.  The mayor's in an important meeting!
+
+JENNI:
+Sorry, Blade.  The mayor can't see you now.
+
+JENNI:
+The mayor is unavailable at this time, Blade.
+
+JENNI:
+That's a secure area, Blade.  You can't get past the guard without a pass.
+
+JENNI:
+I wouldn't go in there if I were you, Blade!
+
+JENNI:
+Blade, you can't enter the security zone without the proper pass.
+
+JENNI:
+Don't bother me right now, Blade.  My nails are wet.
+
+JENNI:
+I'm sure you have more important things to do than harass me.  So beat it!
+
+JENNI:
+Come back later, Blade. I'm really busy!
+
+Jenni, the City Hall receptionist, is, as usual, busily occupied with a laborious task of absolutely no importance.
+
+I hope she doesn't try
+to come on 
+to me again!
+
+To armory.
+
+To mayor's chambers.
+
+To Bureau of Records.
+
+To street.
+
+******************** S45.SDS ********************
+
+DEPUTY VAN HALEN:
+Show me your pass.
+
+DEPUTY VAN HALEN:
+Wow!  That's some pretty impressive clearance for a civilian!
+
+DEPUTY VAN HALEN:
+You're okay.  I already checked you out.  Go on in.
+
+DEPUTY VAN HALEN:
+I already told ya!  No pass, no access!
+
+DEPUTY VAN HALEN:
+There ain't no way you're gettin' in here without a pass, buddy!
+
+DEPUTY VAN HALEN:
+That's no security pass!
+
+DEPUTY VAN HALEN:
+Sorry, buddy! Ya can't get past this checkpoint without the proper authorization.
+
+BLADE:
+I don't have one.
+
+To lobby.
+
+To police armory.
+
+******************** S46.SDS ********************
+
+The M1000X assault rifle.  Truly awesome firepower.
+
+OOOHHH!!
+AAAHHH!!
+
+Really, really, restricted area!
+
+Locked.
+
+Empty storage cabinets.
+
+It's probably not a good idea for me to be waving a gun around in here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I better put that can of NaPent away while I'm here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+To checkpoint.
+
+******************** S47.SDS ********************
+
+BLADE:
+You're damn right it is!
+
+BLADE:
+And I'm sick and tired of being given the runaround by your people!
+
+BLADE:
+You're the effin' jerk who hired me for this gig, and then you act like I'm radioactive when I try to get in touch with you!
+
+BLADE:
+Yeah, and a lot of it's in this building!
+
+BLADE:
+1. A threat? I'm really scared.
+
+2. I've had enough of this crap!  I'm leaving.
+
+3. You should show a little more courtesy to someone who has information that could cost you the next election!
+
+
+MAYOR:
+Not so fast!  You have some information for me, I believe.
+
+BLADE:
+I have information which indicates your daughter may have been involved with a member of the Chinese Mafia.
+
+BLADE:
+And likely a drug addict to boot!
+
+BLADE:
+1. Well, you charmed it out of me.
+
+2. Do your worst, Vinnie!
+
+
+BLADE:
+Chandi was hangin' 'round a China Mafioso name o' Chen Lu.  It seems he gave her some bad juice.
+
+BLADE:
+Bad with a capital 'B'!
+
+BLADE:
+It was laced with some exotic virus that scrambles your genes.  It's all on this tape.
+
+BLADE:
+I found what was left of him on the floor of his apartment.
+
+BLADE:
+Since he died the same way Chandi did, it seems likely that the Chinese Mafia is somehow involved with this M.T.Z.
+
+BLADE:
+You haven't done anything to tick them off lately, have you?
+
+BLADE:
+Somehow I'm not reassured.
+
+BLADE:
+And all I get for my trouble is a lotta flack from you.  How 'bout a little cooperation here?!
+
+BLADE:
+I don't like being left hung out to dry!
+
+BLADE:
+I don't think I like the way you phrased that.
+
+To City Hall Lobby.
+
+******************** S48.SDS ********************
+
+KARYN:
+What in the hell are you doing here, Blade?!
+
+KARYN:
+I'm just great, you two-timing scum-sucking creep!
+
+KARYN:
+Here're your keys back, you bum!
+
+KARYN:
+Now get out of my office and out of my life!
+
+KARYN:
+Not interested.  You've screwed me over one too many times, William Hunter!
+
+KARYN:
+Here are your keys! Take them and get lost! I never want to see you again!
+
+KARYN:
+You must be missing a few chromosomes if you think I'll take you back this time!
+
+KARYN:
+Now here're your keys back, you turd!  Don't let the door hit you in the ass on the way out!
+
+KARYN:
+I said LEAVE!
+
+KARYN:
+GET OUT!
+
+KARYN:
+Drop dead, creep!
+
+KARYN:
+I had a really special time sitting at home watching Rambo 12 in my brand-new evening dress!
+
+KARYN:
+Where in the hell were you?!  Out drunk in one of those god-awful Pleasure Domes again?  You could have at least called!
+
+KARYN:
+You'd better have a darn good excuse for standing me up, Blade!
+
+KARYN:
+Not to me they don't, buster!
+
+KARYN:
+Why don't you think about this tonight as you sleep alone in that rat-trap you call an apartment!
+
+KARYN:
+Here are your lousy keys back, dirtbag!
+
+KARYN:
+Now buzz off and don't come back until you're prepared to behave yourself!
+
+KARYN:
+That's not much of an apology, but knowing you, it's probably as much as I could hope for!
+
+KARYN:
+Just make sure nothing like this happens again.
+
+KARYN:
+Now, Blade, what can I do for you?
+
+KARYN:
+I'll forgive you this time, Blade.
+
+KARYN:
+But don't make promises you can't keep!
+
+BLADE:
+You know I wouldn't miss a date without a good reason.
+
+KARYN:
+You'd just better watch yourself in the future, William Hunter!
+
+KARYN:
+A person can only stand so much.
+
+KARYN:
+Now, Blade,  I suppose you want me to run something for you, right?
+
+KARYN:
+Ha!  That'll be the day!
+
+KARYN:
+How about picking me up at 7:30 for dinner at L'Etoile?
+
+KARYN:
+Great!  It's a date then.
+
+KARYN:
+You techno-dweeb!  Blade, sometimes you have all the romance of a cybernetic trash-compactor.
+
+KARYN:
+Forget I mentioned it.
+
+KARYN:
+Now I'm sure you want me to run something for you, so let's get it over with.
+
+KARYN:
+Don't you try to "cupcake" me, mister!  I can read your line of bull a mile away.
+
+KARYN:
+Just don't screw up again, Blade.
+
+KARYN:
+I'm sure this visit has an ulterior motive, so just tell me what you want me to run for you and cut the crap.
+
+BLADE:
+But there is one little thing. Could you run some information through your computer for me?
+
+KARYN:
+You are possibly the most obnoxious man in this entire scum-ridden city!
+
+BLADE:
+So put a lid on it!!
+
+KARYN:
+It's men like you who keep marriage counselors in business.
+
+KARYN:
+Here're your keys back, jerk!
+
+KARYN:
+Now get out of here and don't show your face again until you've had a serious attitude adjustment!
+
+KARYN:
+Well...  Show a little consideration in the future.  It will get you a long way.
+
+KARYN:
+I'm sure this was more than just a courtesy call, so what is it that you want me to run for you?
+
+KARYN:
+Yeah, right.
+
+KARYN:
+Now I have a sneaking suspicion that you want me to make a computer run for you, right?
+
+KARYN:
+So let's get going with it.
+
+BLADE:
+I have some things I'd like you to take a look at for me, Karyn.
+
+KARYN:
+I'm afraid I don't recognize the script of the Chinese calligraphy.
+
+KARYN:
+It looks like an archaic dialect of Mandarin Chinese.
+
+KARYN:
+Why don't you take it to one of the old scholars down in Chinatown?
+
+KARYN:
+I'm sure someone will be able to decipher it.
+
+KARYN:
+I haven't any idea what this patch has been doped with, but I can have the lab boys analyze it for you.
+
+KARYN:
+It won't be ready until tomorrow, though.
+
+BLADE:
+That will be fine. I'll come and get the report when it's ready.
+
+KARYN:
+I've already seen that.  Do you want me to look at something else?
+
+KARYN:
+I don't see how I can help you with that.  Anything else you want me to check out?
+
+KARYN:
+I can't tell you anything you don't already know about that.  Is there something else?
+
+KARYN:
+Here are the keys you left with me, Blade.
+
+BLADE:
+Thanks, Karyn.
+
+KARYN:
+You're welcome, Blade.
+
+KARYN:
+Come back if you need me to make a computer run for you later.
+
+KARYN:
+Come back later if you need me to check out anything else for you.
+
+KARYN:
+See you later.
+
+KARYN:
+And don't you DARE forget our date tonight!
+
+KARYN:
+Go away, Blade.  I have a lot of work to do right now.
+
+KARYN:
+I've helped you as much as I can for now, Blade.  Goodbye.
+
+KARYN:
+I'm very busy at the moment.  Come back later if you have anything new for me.
+
+KARYN:
+Quit bothering me, Blade! I've got work of my own to get done.  Goodbye!
+
+KARYN:
+Flowers?... What flowers?
+
+KARYN:
+Well... Don't just stand there!  Give them to me!
+
+KARYN:
+Well, Blade, back again?
+
+KARYN:
+I don't see how I can do anything for you now.  Come back later when you have some information for me to run through the computer.
+
+KARYN:
+I've got to get back to work now. See you tonight, dear.
+
+KARYN:
+The only way I can help you is if you bring me some information to run through the computer.
+
+KARYN:
+Come back later. Goodbye, Blade... and don't forget our date!
+
+KARYN:
+I'm very busy right now.  Come back later if you have a specific question for me.
+
+KARYN:
+Goodbye for now, Blade.  See you tonight.
+
+KARYN:
+Oh, great! "Mr Congeniality" is back!  What the hell do you want now?!
+
+KARYN:
+Well, if that's the way you feel, why don't you get the hell out of my office, you bastard!
+
+KARYN:
+And don't bother coming back!  As far as I'm concerned, this relationship is finished!!
+
+KARYN:
+Apology accepted...
+
+KARYN:
+Now I have to get back to work, Blade.
+
+KARYN:
+Come back later if you want me to make a computer run for you.
+
+KARYN:
+Goodbye, Blade.
+
+KARYN:
+Well, don't you EVER pull that high and mighty crap with me again, buster!
+
+KARYN:
+Thanks for dropping by, but I have to get back to work.  You'd better go, Blade. I'll get in trouble if my boss sees us talking.
+
+KARYN:
+'Bye 'bye, Blade.
+
+KARYN:
+I don't see how I can do anything for you now.  Come back later when you have some information for me to run through the computer.
+
+KARYN:
+I've got to get back to work now. See you later.
+
+KARYN:
+The only way I can help you is if you bring me some information to run through the computer.
+
+KARYN:
+Come back later. Goodbye, Blade.
+
+KARYN:
+I'm very busy right now.  Come back later if you have a specific question for me.
+
+KARYN:
+Goodbye, Blade.
+
+KARYN:
+Well, Blade, it's nice to see you again.
+
+KARYN:
+I have that lab report you wanted.
+
+KARYN:
+Here is a tape of the lab results.  The techs said that was some pretty dangerous stuff.
+
+KARYN:
+You're obviously getting into something pretty heavy.
+
+KARYN:
+Please be careful, Blade.
+
+KARYN:
+No problem, loverboy. Here's the tape.
+
+KARYN:
+Watch your backside, Blade!  That's some pretty heavy stuff you've got there.
+
+KARYN:
+Here's a tape of the lab workup.  That stuff is pretty nasty! You'd better be careful, Blade.
+
+KARYN:
+Baloney!  You could get into a shoot-out in a Sunday school!  Just watch yourself!
+
+KARYN:
+They're really nice, Blade, but you're not out of the doghouse. You still owe me a night out.
+
+KARYN:
+How about picking me up at 7:30 for dinner at L'Etoile?
+
+KARYN:
+They're lovely, Blade, but you still owe me a night on the town for missing our date.
+
+KARYN:
+How about picking me up at 7:30 for dinner at L'Etoile?
+
+She WOULD have to pick the most expensive joint in town... I was thinking of grabbing an Astro Burger and a beer!
+
+KARYN:
+You techno-dweeb!  Blade, sometimes you have all the romance of a cybernetic trash-compactor!
+
+KARYN:
+Forget I mentioned it.
+
+KARYN:
+Don't you try to "cupcake" me, mister!  I can read your line of bull a mile away!
+
+KARYN:
+Just don't screw up again.
+
+KARYN:
+Great! I'm looking forward to it.
+
+KARYN:
+Hi, Blade.  Nice to see you again.
+
+KARYN:
+Sorry, Blade. Check again later.
+
+KARYN:
+Nope.  It's not ready yet.  Try again later.
+
+KARYN:
+Not much, Will.  That lab report you wanted isn't ready yet, so you'll have to come back later.
+
+KARYN:
+Go away, Blade!  The city is facing a severe crisis, and I've got more important things to do than waste time with you!
+
+KARYN:
+Don't bother me now, Blade!  I'm trying to run down some information for the mayor's Special Operations Team.
+
+KARYN:
+They have priority override on all city data-links during this crisis.
+
+KARYN:
+If we don't figure out what's going on, millions of people are going to die.  So get out of here and let me do my work!
+
+KARYN:
+Dammit, Blade!  Not now!
+
+KARYN:
+There's panic in the streets, the mayor's having a conniption, and it's likely that we'll all be dead in a matter of days if we don't figure out what the hell to do!
+
+KARYN:
+So leave me alone and let me get back to work!  So long, Blade.
+
+KARYN:
+Here's the lab report you wanted, Blade...
+
+KARYN:
+Now go away!  The city is facing a severe crisis, and I've got more important things to do than waste time with you!
+
+KARYN:
+Is there anything you'd like me to look at?
+
+KARYN:
+I'll run this card through the computer and see what information the databank has on this character...
+
+KARYN:
+here it comes now...
+
+KARYN:
+I'm afraid I don't recognize the script of the Chinese calligraphy.
+
+KARYN:
+It looks like an archaic dialect of Mandarin Chinese.
+
+KARYN:
+Why don't you take it to one of the old scholars down in Chinatown?
+
+KARYN:
+I'm sure someone will be able to decipher it.
+
+KARYN:
+I haven't any idea what this patch has been doped with, but I can have the lab boys analyze it for you.
+
+KARYN:
+It won't be ready until tomorrow, though.
+
+BLADE:
+That'll be fine. I'll come and get the report when it's ready.
+
+KARYN:
+Is there anything else you'd like me to take a look at, Blade?
+
+KARYN:
+Come back if you need me to make another computer run for you later.
+
+KARYN:
+See you later, Blade.
+
+KARYN:
+And don't you DARE forget our date tonight!
+
+KARYN:
+Hmm.  This is very unusual...  There's a sleeper gate attached to this file.
+
+KARYN:
+If anyone tries to access the information contained inside the file, it will set off an alarm and wipe the system!
+
+KARYN:
+I can try to bypass it, but if it doesn't work, we could be in a very unhealthy situation!
+
+KARYN:
+Whatever you say, Blade.  I'd better get back to work, then.  Goodbye.
+
+KARYN:
+If you say so, Blade.  Here goes...
+
+KARYN:
+What little information there is in the computer on this guy is almost two years old.
+
+KARYN:
+No birth date, S.I.D. number, or address... Hell! There's not even a physical description of the guy!
+
+KARYN:
+His name appears in connection with some Fed investigations concerning the Chinese Mafia and a break-in at a military genetic research facility at Los Alamos.
+
+KARYN:
+In the course of this incident they killed 20 people and burned the place to the ground!
+
+KARYN:
+There's no mention of anything being stolen, and all other details are classified.
+
+KARYN:
+Now what the hell does the Chinese Mafia want with a genetic research facility?  Something very strange is going on here!
+
+KARYN:
+There's no way I can get any more information without tripping some heavy security, so I'm going to wipe all record of this trace.
+
+KARYN:
+Then I'm going to get back to work and pretend none of this happened.
+
+KARYN:
+You'd better get out of here, Blade.  I'll see you later.
+
+KARYN:
+Go away, Blade!  I have a lot of work to do right now.
+
+KARYN:
+I've helped you as much as I can for now, Blade.  Goodbye.
+
+KARYN:
+Haven't you got anything better to do than bother me?  Go away!
+
+KARYN:
+Get out of here and do something useful, Blade!  I'm very busy.
+
+KARYN:
+Well, Blade, back again?
+
+KARYN:
+Well, Blade, back again?
+
+KARYN:
+What the hell do you think you're doing with that?!
+
+KARYN:
+I'm no floozie you can just run up to and squirt in the face with joy juice!
+
+KARYN:
+Get that thing out of my face, Blade!  Don't try to be a macho jerk!
+
+OFFICE WORKER:
+Back off, buddy!  I'm not interested!
+
+KARYN:
+I've already seen that.
+
+BLADE:
+Hey beautiful, here's the stud of your life!
+
+BLADE:
+Oops, sorry, my mistake.
+
+I'd better watch myself, or they'll start calling me "switchBlade"...
+
+KARYN:
+I can't believe you stood me up again, you creep!
+
+KARYN:
+Why doesn't that surprise me?
+
+KARYN:
+I don't know why, but I forgive you.
+
+KARYN:
+Wait, Blade! Take your keys before you go!
+
+BLADE:
+Can you run this tape for me again?
+
+KARYN:
+Sure, Blade! Let me load it up.
+
+KARYN:
+Oh Blade, it's beautiful! Thank you!
+
+BLADE:
+Uh.. Err...  Yeah, I knew you'd like it.
+
+KARYN:
+It's a book, Blade.  People used to read them a long time ago.
+
+BLADE:
+I know it's a book!  I was hoping you could tell me something about it.
+
+KARYN:
+What can I tell you, Blade?  Have you read it?  It looks like a kid's book.
+
+KARYN:
+Are you getting soft in the head, Blade?  It's just a fortune cookie.
+
+BLADE:
+What's the message mean?
+
+KARYN:
+I can't make any sense out of it.  It looks like some type of code.
+
+OFFICE WORKER:
+Just leave me alone, buddy!
+
+Karyn Sommers, your sometime girlfriend, is hard at work here in the Bureau of Records.
+
+To main lobby.
+
+******************** S53.SDS ********************
+
+To street.
+
+To City Hall lobby.
+
+City Hall.
+
+The last bastion of freedom and democracy (cough cough) in the Big City.
+
+Hours 9:00 AM to 5:00 PM
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm on the street!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+CGW international headquarters.
+
+JPX-1000 hovercar.
+
+The avenue next to City Hall is crowded with surface traffic.
+
+You enter the hovercar.
+
+******************** S63.SDS ********************
+
+CANDI:
+I've always wondered what it would be like to party with a private dick.  You got any of those handcuffs?
+
+BLADE:
+Your place or mine?
+
+BLADE:
+My, you have the most beautiful... eyes!
+
+KARYN:
+WILLIAM HUNTER!!!  You good for nothing, four-flushing, dirty double dumbass!!!
+
+KARYN:
+I never want to see you again, you two-timing bastard!  And don't bother coming around anymore.  I'm having my locks changed!
+
+It sure will be hard to crack this case with out Karyn's help... maybe even impossible.
+
+Maybe you should restore a saved game...
+
+******************** S65.SDS ********************
+
+THE JAKE:
+Same thing that happened to Chandi...
+
+THE JAKE:
+HE was the one who got her mixed up in this crap!
+
+THE JAKE:
+Effin' drugger!
+
+THE JAKE:
+Maybe he pushed 'em enough that they just flatlined him.
+
+THE JAKE:
+That's the nicest thing you ever said to me...
+
+THE JAKE:
+Y'know, word on the street is that Chen got flatlined by some very big stiffs.
+
+THE JAKE:
+People are gettin' a little nervous...
+
+THE JAKE:
+Looks like somethin' very nasty's about to come down...
+
+BLADE:
+1. You ever heard of anything called M.T.Z.?
+
+2. What's the word out about what happened to Chen?
+
+3. Any idea who Chen was mixed up with?
+
+
+THE JAKE:
+M.T.Z.?! Where'd you hear about that?!
+
+THE JAKE:
+You wanna keep your distance from THAT pump, Hunter!
+
+THE JAKE:
+M.T.Z. is nuclear... as in meltdown! You sky once, maybe twice, and you don't come down... ever!
+
+THE JAKE:
+I hear, you so much as get a drop of it on your skin and you're hooked!
+
+THE JAKE:
+Some chiphead in the lab really did us a favor when he invented that stuff...
+
+THE JAKE:
+No word... people still talkin', though.
+
+THE JAKE:
+Seems someone else exited last night the same way, though...
+
+THE JAKE:
+someone other than Chen, that is.
+
+THE JAKE:
+I'll let you know if I hear anything more.
+
+THE JAKE:
+Now, I gotta go...
+
+THE JAKE:
+Nope. All's I know is that they're very big and mostly outta sight...
+
+BLADE:
+1. I got something I want you to look at.
+
+2. Thanks for your help. You be around if I need you again?
+
+3. My VidPhone number's in the chip. Give me a call, you hear anything else.
+
+
+THE JAKE:
+Nothin' new.
+
+THE JAKE:
+I find anything, I'll drop you a message on the Vid-Phone.
+
+THE JAKE:
+Hey! We're partners, aren't we? Slicker and the Kid....
+
+THE JAKE:
+You got it, Blade!
+
+THE JAKE:
+You mind if I call you Blade?
+
+THE JAKE:
+I just thought, since we're partners now and all... Slicker and the Kid Jake!
+
+THE JAKE:
+Sounds like a bad vidvision show, doesn't it?
+
+BLADE:
+1. Blade's fine.
+
+2. Only my friends call me Blade.
+
+3. Blade's my name... got no problem with you using it.
+
+
+THE JAKE:
+Alright. Blade it is.
+
+THE JAKE:
+Alright... well, I guess we're friends, then.
+
+THE JAKE:
+The Jake and a slicker... who would've thought?
+
+THE JAKE:
+Kinda strange nickname.
+
+THE JAKE:
+You'll have to tell me how you earned it sometime.
+
+THE JAKE:
+Anything else?
+
+BLADE:
+1. That's it.
+
+2.  Yeah. What can you tell about this?
+
+
+THE JAKE:
+What the hell are you doin' with that?!
+
+THE JAKE:
+Didn't I tell you that this stuff is lethal?!!
+
+THE JAKE:
+Whatever you do, don't touch it to your skin!
+
+THE JAKE:
+You be doin' yourself a favor, you just flushed it!
+
+THE JAKE:
+That's an M.T.Z. drug patch!
+
+THE JAKE:
+What the hell are you doin' with this stuff?!!
+
+THE JAKE:
+It's major bad news... as in nuclear! You sky once or twice and you don't come down.... ever!!
+
+THE JAKE:
+I've heard that you can get hooked if just one DROP hits your skin!
+
+THE JAKE:
+You'd be doin' yourself a favor, you just flushed it!
+
+THE JAKE:
+Yeah... an I.D. card.
+
+THE JAKE:
+So what?
+
+THE JAKE:
+A gun clip?
+
+THE JAKE:
+Yeah. So?
+
+THE JAKE:
+Chocolate!
+
+THE JAKE:
+Where'd you get this?
+
+THE JAKE:
+Don't mind if I hang onto this, do ya?
+
+THE JAKE:
+Whoa! This explosive capsule part of your private dick crime fightin' gear?
+
+THE JAKE:
+Impressive hardware!
+
+THE JAKE:
+A wiretap system! I've used these... I mean... I've read about these.
+
+THE JAKE:
+More crime fightin' gear?
+
+THE JAKE:
+Physical trauma kit?
+
+THE JAKE:
+Bet you use this a lot!
+
+THE JAKE:
+A claim check!
+
+THE JAKE:
+So you plan on gettin' your stuff back when you leave, huh?
+
+THE JAKE:
+You must be one crafty slicker to get your gloves on one of these!
+
+THE JAKE:
+Those two monkeys aren't known for giving these out.
+
+THE JAKE:
+What the hell is this?
+
+THE JAKE:
+One of those tags that says, "Do not remove under penalty of law"?
+
+THE JAKE:
+Looks like Chinese or something.
+
+THE JAKE:
+Check with one of the tombstoners over in Chinatown.
+
+THE JAKE:
+Someone there might be able to read it.
+
+THE JAKE:
+Flowers?
+
+THE JAKE:
+Hey, we aren't THAT close, Blade!
+
+THE JAKE:
+You got a pissed girl or something?
+
+THE JAKE:
+Cripes! Where'd you get this?
+
+THE JAKE:
+Passcards to the Armory go for a pretty bit of credit on the streets.
+
+THE JAKE:
+You let me know, you decide to dump it!
+
+THE JAKE:
+Keys??
+
+THE JAKE:
+These supposed to hold some mystical meaning for me?
+
+THE JAKE:
+A vidtape?
+
+THE JAKE:
+I look like I could afford a player??
+
+BLADE:
+1. You heard anything more on Chen?
+
+2. What's the word on the street?
+
+3. Look, kid, you gotta keep callin' me slicker?
+
+
+THE JAKE:
+The street's been pretty quiet.
+
+THE JAKE:
+Word is, somethin's goin' down, but no one's talkin'.
+
+THE JAKE:
+I got a bad feelin', though...
+
+THE JAKE:
+This town don't hush up 'less somethin' real big's gearin' up.
+
+THE JAKE:
+Those tombstoners in Chinatown been screamin' and yammerin' 'bout that effin' demon of theirs.
+
+THE JAKE:
+Seems more patch jockeys 'been checkin' out like our buddy Chen.
+
+THE JAKE:
+People are scared...
+
+THE JAKE:
+somethin' big is goin' down!
+
+THE JAKE:
+No one's clued into exactly what... but somethin's goin' on!
+
+THE JAKE:
+Sorry... didn't mean nothin' by it.
+
+THE JAKE:
+There ain't been nothin' more 'bout our buddy Chen.
+
+THE JAKE:
+Wonder if he had anything to do with what's got the old Chinatowners all spooked.
+
+BLADE:
+1. Any word on the habits of these "patch jockeys?"
+
+2. What're the old folks so worried about?
+
+3. You don't seem to hold much of a liking for the folks in Chinatown.
+
+
+BLADE:
+1. These patch jockey M.T.Z. pumpers?
+
+3. What're the old folks so worried about?
+
+3. You don't seem to hold much of a liking for the folks in Chinatown.
+
+
+THE JAKE:
+Nothin' much, except they're all big-time pumpers.
+
+THE JAKE:
+I think they'd sell their mothers for another dose of brain gloss!
+
+THE JAKE:
+Don't know... word has it, though, that the M.T.Z. well's been runnin' pretty dry.
+
+THE JAKE:
+Gonna be a lotta' dry-mouthed streetwalkers!
+
+THE JAKE:
+They got themselves some ancient demon that's gonna come back and suck the life outta people.
+
+THE JAKE:
+You ask me, they been doin' too much opium!
+
+THE JAKE:
+Yeah... they kill your little sister and we'll see how much likin' you hold for 'em!
+
+THE JAKE:
+I gotta go...
+
+THE JAKE:
+keep in touch, slick.
+
+BLADE:
+1. I've got some stuff I'd like you to look at....
+
+2. Alright... you be around if I need you?
+
+3. You got any names of these "China tombstoners" of yours?
+
+
+BLADE:
+1. What do you know about an associate of Chen's named Jonny Qwong?
+
+2. Alright... you be around if I need you?
+
+3. You got any names of these "China tombstoners" of yours?
+
+
+BLADE:
+1. Ever heard Chen mention someone named Deng Hwang?
+
+2. Alright... you be around if I need you?
+
+3. You got any names of these "China tombstoners" of yours?
+
+
+THE JAKE:
+Let's see it.
+
+THE JAKE:
+Qwong?
+
+THE JAKE:
+Chen was messed up with Qwong?
+
+THE JAKE:
+This is not good news...
+
+THE JAKE:
+Qwong's a front man for some very bad uptowns.
+
+THE JAKE:
+This picture's beginnin' to look messy.
+
+THE JAKE:
+Mutated druggers, Chen dead, and Jonny Qwong.
+
+THE JAKE:
+That's not a good line-up!
+
+THE JAKE:
+Hwang?
+
+THE JAKE:
+Chen was messed up with Hwang?
+
+THE JAKE:
+Bad news!
+
+THE JAKE:
+He's one of the city's biggest dealers!
+
+THE JAKE:
+Keeps very low and has contacts everywhere.
+
+THE JAKE:
+If Chen was workin' with Hwang, you'd better watch your butt!
+
+THE JAKE:
+People stick their probes into HIS business, an' they find themselves face up under twenty feet of toxic dump!
+
+THE JAKE:
+He's got a fortress on the outskirts of Chinatown. It's on the north side of town...
+
+THE JAKE:
+it's nearly impossible to miss.
+
+THE JAKE:
+And even more impossible to crack...
+
+THE JAKE:
+the place is sealed up tighter than a crypto-lid.
+
+THE JAKE:
+Hey! The Jake is always around...
+
+THE JAKE:
+Now get outta here! I got a reputation to watch after!
+
+THE JAKE:
+Nope...
+
+THE JAKE:
+just check the locals and hang.
+
+THE JAKE:
+You'll find someone willin' to spill their guts on this community-wide brain-fade.
+
+BLADE:
+1. I've got something I'd like you to take a look at.
+
+2. Thanks for the info, kid. I'll be in touch.
+
+3. You got anything else for me?
+
+
+THE JAKE:
+Let's see what you got...
+
+THE JAKE:
+Hey, you know I live to be of assistance...
+
+THE JAKE:
+later.
+
+THE JAKE:
+Hey! I look like your local vidchip operator?
+
+THE JAKE:
+I'm not tapped into the whole city...
+
+THE JAKE:
+just most of it.
+
+THE JAKE:
+Anything else?
+
+BLADE:
+1. That's it.
+
+2. Yeah. What can you tell about this?
+
+
+THE JAKE:
+Well, then, if you'll excuse me...
+
+THE JAKE:
+I've got a reputation to look after.
+
+THE JAKE:
+Get lost, man! I don't want people seein' us talkin'!
+
+THE JAKE:
+Well, I thought you said you wanted me to look at somethin'!
+
+THE JAKE:
+Beat it! Word gets out I'm talkin' to a slicker, and I'm history!
+
+THE JAKE:
+Just leave! Come back later when you have somethin' for me.
+
+THE JAKE:
+If you don't have somethin' for me to look at, then leave me alone!
+
+BLADE:
+1.  Oops! I guess not!
+
+2.  Yeah! Hold your horses!  I'm having trouble with my inventory.
+
+MASTER CONTROL:
+1.  CANCEL
+2.  First encounter.
+
+
+Exit to Pleasure Dome bar
+
+******************** S69.SDS ********************
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm in here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+Exit to Bureau of Records.
+
+******************** S86.SDS ********************
+
+GUARD:
+City Hall is closed.  You must leave!  The janitor will let you out.
+
+JANITOR:
+We open at 9:00 tomorrow morning.
+
+KARYN:
+Wait, Blade! Take your keys before you go!
+
+******************** S94.SDS ********************
+
+Labratory analysis revealed the patch was doped with Methylthiazolinone, c
+
+******************** S89.SDS ********************
+
+******************** S105.SDS ********************
+
+******************** S99.SDS ********************
+
+******************** S2.SDS ********************
+
+BLADE:
+I never go anywhere without my BVD's
+
+BLADE'S COAT:
+This once fashionable garment is nearing the end of its useful life, having endured years of use and abuse by its owner.  It is fabricated from a combination of synthetic materials which vaguely resembles Peruvian goat leather.
+
+BLADE'S PISTOL:
+With & Smesson Police Special pulse particle beam handgun.
+
+A meticulousy maintained relic from Blade's past career as a peace officer.  This gun is extremely reliable but it lacks the firepower of many modern sidearms.
+
+BLADE'S ID CARD:
+This multi-purpose device serves its owner as a credit chip, ID card, medical information database, and door key.
+
+CHEN LU'S ID CARD:
+This multi-purpose device serves its owner as a credit chip, ID card, medical information database, and door key.
+
+SNAKE'S ID CARD:
+This multi-purpose device serves its owner as a credit chip, ID card, medical information database, and door key.
+
+L.A.P.D. ARMORY PASSCARD:
+This pass gains the bearer access to the police armory at City Hall.
+
+BLADE'S CLOTHES:
+Bought off the sale-rack at Sears.  Slightly fragrant, but not quite bad enough to warrant washing.
+
+SUPER AMMO CLIP:
+Power pack for Blade's gun.  Each charge is good for a year of normal use.
+
+FIRST AID KIT:
+This is an old familiar friend.
+
+ASSAULT RIFLE:
+M1000X .457 Caliber military spec assault rifle.  This weapon fires proximity fused explosive projectiles at a nominal rate of 1,000 rounds/min.
+
+ONE DOZEN ROSES:
+Organically grown roses.  Just the thing to get a guy out of hot water with his girlfriend.
+
+DRUG PATCH:
+Once used exclusively by the professional health care establishment for administering prescribed medications, these devices have found their way into the hands of big-time drug dealers.  Often placed on the neck over the carotid artery, they are typically used to administer drugs transdermally in a measured dosage.
+
+PLEASURE DOME CLAIM TICKET:
+This enables the bearer to claim his or her weapons upon exiting the pleasuredome.
+
+MTZ VCR TAPE:
+This tape contains the lab work-up for the MTZ sample.
+
+PERSONAL EXPLOSIVE DEVICE:
+These small but powerful explosive devices contain flaked TNT suspended in a polymer base.  If placed strategically, a single bomb can do a great deal of damage.
+
+WIRE TESTER:
+ACME little giant wire testing kit.  Contains three leads:  red-positive, blue-negative, and yellow-ground.
+
+CABINET KEYS:
+Archaic devices once widely used for security purposes, they are now mainly obsolete.
+
+BULLET PROOF VEST:
+DuPont LeadStopper Mark III personal flak vest.  Guaranteed for the lifetime of the user.
+
+TOME OF ANCIENT WISDOM:
+"Don't worry,  Be happy."
+
+ROCK OF LIFE:
+Unusually shaped stone.  Looks like an agate.
+
+FISTO CANDY BAR:
+Highly prized black market trade-item due to the extreme scarcity of sugar.
+
+PARCHMENT:
+This has several unintelligible lines of an oriental script written upon it.
+
+CHANDRA'S PHOTO:
+?Picture of the Mayor's daughter.
+
+APPD:
+NaPent Aerosol Personal Protection Device.
+
+This product was developed with the idea of providing "A safe and humane way of disabling an assailant."  Theoretically, it is supposed to induce a state of extreme euphoria which renders the target incapable of any hostile actions.  
+
+SCREW DRIVER:
+Sears CraftsPerson phillips-head screwdriver.
+
+WIRES FROM CLOSET:
+These wires look like they could hold a lot of voltage.  They might be usefull if I need to disable some electrical device.
+
+FORTUNE COOKIE:
+This stale fortune cookie has an unusual fortune... It says:
+
+"RYP YWP YRPWRY PBW".
+
+I probably shouldn't use this medical kit until I have some injuries.
+
+Ahhh, that's better.
+
+******************** S25.SDS ********************
+
+BUM:
+You got any spare change, mister?
+
+BUM:
+Man, you must have steelies!  I wouldn't go down there for nuthin'!  There are rats as big as dogs down there!
+
+Jonny Qwong's residence is a virtual fortress, complete with armed security guards and electric fences.  
+
+Highly energized and extremely deadly electric fence.
+
+Electric fence.
+
+Ominous-looking machinery.
+
+A former programmer.
+
+Well-armed rooftop security patrol.
+
+A frontal attack doesn't seem like a good option at this point!
+
+A manhole.
+
+To Em-Way.
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm on the street!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+You enter the hovercar.
+
+You exit the hovercar.
+
+******************** S26.SDS ********************
+
+Phew!
+It really stinks down here!
+
+I really HATE rats!!
+
+Hmm... A VidPhone trunk. I think Jonny may need his line checked!
+
+To street.
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm in here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+******************** S27.SDS ********************
+
+The decaying pipes carry various unprocessed hazardous waste materials to a disposal site conveniently located in a nearby wetlands area. 
+
+Hmm... looks like I might be able to squeeze through there.
+
+To Warehouse District.
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm on the street!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+Empty crate.
+
+Crumbling brickwork.
+
+The walls are covered with toxic slime which oozes from the rusting overhead pipes.
+
+******************** S28.SDS ********************
+
+OLD MAN:
+Greetings, William Hunter.
+
+CHANG LI:
+I am called Chang Li.
+
+CHANG LI:
+It is most gratifying to finally make your acquaintance.
+
+BLADE:
+How do you know who I am?
+
+CHANG LI:
+A man can learn a great many things if he knows how to listen.
+
+CHANG LI:
+Many things, William Hunter...
+
+CHANG LI:
+Those who wish you ill.
+
+CHANG LI:
+Celestial signs indicate a time of great change in this world, William Hunter!
+
+CHANG LI:
+The old order shall be destroyed, and the new shall take its place!
+
+CHANG LI:
+Please to stop asking so many silly questions and let me finish.
+
+CHANG LI:
+Yes, but that's only half of it.
+
+CHANG LI:
+You cannot escape your fate, William Hunter!
+
+CHANG LI:
+Not a great deal...
+
+CHANG LI:
+Process of elimination.
+
+CHANG LI:
+The minions of the Dark One have eliminated all my other candidates.
+
+CHANG LI:
+But please to let me offer my humble assistance to aid you.
+
+CHANG LI:
+Most interesting!  But humbly regret I cannot help with that.
+
+CHANG LI:
+Something else you wish me to examine?
+
+CHANG LI:
+Most unfortunate.
+
+CHANG LI:
+Hmmm...  Intriguing!
+
+CHANG LI:
+This list translates as follows:
+Brethren,
+The Rise of the Dragon is upon us!
+Target date: 3.8.5687
+Hollywood Reservoir.
+Long live Bahumat!
+
+CHANG LI:
+Not to interrupt, please.  I'm coming to it!
+
+CHANG LI:
+Not precisely. There is a prophecy foretelling his return:
+
+CHANG LI:
+"In the Age of Decay
+"Marking the Dawn of Darkness
+"The Dragon will arise...
+
+CHANG LI:
+"His evil shall become an addiction in
+the soul of mankind, and death shall be
+a blessing to those he has touched.
+
+CHANG LI:
+"Many will fear him.
+"Many will fall before him.
+"One will sacrifice all to destroy him."
+
+CHANG LI:
+If all women believed as you, it is unlikely that you would ever get a date!
+
+CHANG LI:
+Now I must render you what aid I can.
+
+CHANG LI:
+First:
+Tome of Ancient Wisdom, given to me by most aged and honorable father.
+
+CHANG LI:
+Second:
+Stone of Life, blessed by Lama.
+
+Chang Li:
+And third:
+If all else fail, bullet-proof vest, Kevlar, made by DuPont.
+
+Plasteel support beam.
+
+Empty shipping crates.
+
+Steam pipes.
+
+To alley.
+
+The crates are too heavy to move.
+
+Heat pump.
+
+CHANG LI:
+Act with care, William Hunter!
+
+CHANG LI:
+You must go now!
+
+CHANG LI:
+I can help you no more at present, William Hunter.
+
+CHANG LI:
+Please to come back if I can be of any more assistance.
+
+CHANG LI:
+It is good to see you again, William Hunter!
+
+Rats the size of alley cats scurry across the floor of the dingy warehouse.
+
+
+The gigantic rats leave the warehouse through a crack in the wall behind the heat pump.
+
+A small oriental man sits meditatively on an empty shipping crate.  He has an air of great wisdom about him and seems curiously at home in this warehouse.
+
+CHANG LI:
+Also, please to have this fortune cookie!
+
+CHANG LI:
+Is there some assistance that I may offer you?
+
+BLADE:
+1.  Yes. Can you tell me what is written on this parchment?
+
+2.  No, thanks.
+
+******************** S29.SDS ********************
+
+Razor wire.
+
+Steel mesh fence.
+
+Warehouse.
+
+To warehouse district.
+
+It's probably not a good idea for me to be waving a gun around out here!
+
+I could get in serious trouble if I pull my gun out here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm on the street!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+Coolant system control lines.
+
+Maybe I can peek in the window and see what's going on in there.
+
+******************** S30.SDS ********************
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm in here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+The old warehouse contains what appears to be some kind of pharmaceutical manufacturing operation.
+
+It's a damn sure thing they aren't making aspirin in there!
+
+To parking lot.
+
+******************** S40.SDS ********************
+
+My shot must've fused the barrel of the rifle shut.  It's worthless now.  Damn!  That was some heavy firepower!
+
+M1000X assault rifle.
+Truly awesome. firepower.
+
+Hot damn!
+
+You enter the hovercar.
+
+You exit the hovercar.
+
+A gun sure would come in handy here!
+
+I forgot to put the clip in my gun!
+
+******************** S50.SDS ********************
+
+LAB TECHNICIAN:
+Mr. Qwong, I must regretfully inform you that we are over a week behind schedule on our production quota.
+
+JONNY QWONG:
+We must be ready in three days or the schedule will not be met!!
+
+LAB TECHNICIAN:
+We need more time!  We're already pushing the end of the safety margin for the reactor coolant systems!
+
+JONNY QWONG:
+You must push them harder!!
+
+JONNY QWONG:
+You will either meet the production schedule or face the wrath of Bahumat!
+
+LAB TECHNICIAN:
+Good news, Mr Qwong!  We've made up more than a day's worth of production in the last twenty-four hours!
+
+JONNY QWONG:
+WHAT??!
+
+JONNY QWONG:
+You pathetic fool!  That still leaves us almost six days behind schedule!
+
+LAB TECHNICIAN:
+But we've already begun to exceed the safety margins!
+
+JONNY QWONG:
+To hell with the margins!
+
+JONNY QWONG:
+Push the reactors to the redline!
+
+LAB TECHNICIAN:
+But the reactors could blow us all to hell if they become overheated!
+
+JONNY QWONG:
+There are many ways to die...
+
+JONNY QWONG:
+Some of which are more painful and drawn out than others.
+
+JONNY QWONG:
+I suggest you think about that.
+
+LAB TECHNICIAN:
+I won't fail you again, Mr Qwong!
+
+JONNY QWONG:
+You're right.  You have 32 hours to meet the production quota.
+
+LAB TECHNICIAN:
+Mr. Qwong, we are a few hours away from completing our production goal.
+
+JONNY QWONG:
+I am pleased. You have done well.
+
+LAB TECHNICIAN:
+Thank you, sir.
+
+JONNY QWONG:
+Soon the whole world shall hear the dragon's roar!
+
+JONNY QWONG:
+Victory is nearly ours!!  Long live Bahumat!
+
+******************** S51.SDS ********************
+
+Wire terminal.
+
+Voltage regulator.
+
+Locked.
+
+SuperLock model #711 bullet-proof, un-pickable lock.
+
+
+Schematic wiring diagram.
+
+Thick and confusing tangle of wires.
+
+That sure is a thick and confusing tangle of wires!
+
+Too bad I don't have the equipment to tap into Jonny's VidPhone line with me.
+
+VidPhone maintenance access panel.
+
+It's probably not a good idea for me to be waving a gun around in here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+Damn! This looks really complicated!
+
+With a wiretap set properly, you can intercept messages sent to this VidPhone.
+
+I may not be an electrician, but that sure looks like a battery terminal to me!
+
+I'm not sure, but that thing looks like the ground.
+
+Wire terminal.
+
+Exit to Sewer.
+
+******************** S52.SDS ********************
+
+To street.
+
+To alley.
+
+To warehouse.
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+Plasteel support trusses.
+
+Plasteel support trusses.
+
+Empty crate.
+
+Empty crate.
+
+Cooling fan.
+
+Coolant return pipes.
+
+Oh no, Jake, little buddy...
+
+Those bastards will pay!!
+
+Reinforced steel door.
+
+The door has been welded shut.
+
+Looks like the Jake is resting... nope, he's dead!
+
+******************** S66.SDS ********************
+
+Boy, am I tired.  Better get some sleep in about an hour.
+
+HENCHMAN:
+Look!  It's that private investigator guy!  Let's tell the boss!
+
+******************** S67.SDS ********************
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+To parking lot.
+
+******************** S68.SDS ********************
+
+It's probably not a good idea for me to be waving a gun around out here!
+
+I could get in serious trouble if I pull my gun out here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm on the street!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+To warehouse district.
+
+******************** S71.SDS ********************
+
+You try to scream for help as the huge rats swarm over you...
+
+but the best you can manage is a slight gurgling sound as one of the vile creatures sinks his wickedly-sharp teeth into your neck, ripping a 6-inch gash in the front of your throat.
+
+******************** S72.SDS ********************
+
+It's probably not a good idea for me to be waving a gun around in here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm in here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+******************** S73.SDS ********************
+
+The unpleasant odor of burning flesh reaches your nostrils a brief instant before the even more unpleasant realization that the flesh is yours.
+
+You barely have time to utter, "Oh, shi..." before your vocal cords snap and are fried, along with the rest of your body, to a crisp, private-detective remnant, by several thousand volts of high-amperage electricity.
+
+******************** S74.SDS ********************
+
+Wow!  It's almost time for me to pick up Karyn for our date tonight!
+
+Damn!  I wish I didn't have this case right now, but a lot more people may be hurt if I don't catch the slimes who offed Chandra!
+
+And I can sure use the money the mayor's payin' me.
+
+On the other hand...
+
+
+If I skip out on Karyn this time, she'll probably never speak to me again!
+
+I don't want to get her pissed at me, and I've been, maybe, just a LITTLE inconsiderate lately...
+
+Dammit!  It's 7:30 and I was supposed to meet Karyn at her apartment!
+
+I guess I'll:
+
+1.  Go pick her up.  It'll only take me a minute to get there.
+
+2.  Skip it.  This case is too important.  She'll understand.
+
+What should I do?
+
+******************** S76.SDS ********************
+
+BLADE:
+Hey beautiful!  Ready to hit the town?
+
+KARYN:
+I'm impressed, Blade.  You're even on time!
+
+BLADE:
+A toast... To us!
+
+KARYN:
+To us!
+
+I can't believe I was  dumb enough to almost blow it with this girl!
+
+He would have to order the liver and onion special!
+
+I'm not going to be sleeping on the couch tonight!
+
+KARYN:
+ZZZzzz.....
+
+BLADE:
+ZZZzzz....
+
+BLADE:
+Well Karyn, I gotta head home so I can get an early start on a case.
+
+KARYN:
+I love you, Blade.
+
+BLADE:
+I... uh... er...
+
+BLADE:
+I mean, yeah, me too.
+
+I thought I was late...
+
+BLADE:
+How could I be late with you waiting?!
+
+******************** S80.SDS ********************
+
+KARYN:
+Blade?
+
+Guess again!
+
+******************** S81.SDS ********************
+
+HENCHMAN 1:
+Wait'll the city gets a taste of this!  
+
+HENCHMAN 2:
+In a matter of hours, the City of Los Angeles will be completely under our domination!  The rise of the Dragon is upon us!
+
+******************** S87.SDS ********************
+
+Blade...
+Where are you!?
+
+DENG HWANG:
+No use struggling, my dear...
+
+DENG HWANG:
+and so will Blade Hunter if he tries to rescue you.
+
+DENG HWANG:
+You'll soon be dead...
+
+KARYN:
+Unnhhh.
+
+KARYN:
+AAAARRRRRRGGGGHH!!
+
+BLADE:
+NOOOO!
+
+BLADE:
+Oh, Karyn..
+
+BLADE:
+You're gonna pay for this, Deng!
+
+BLADE:
+I swear you won't live out this day!
+
+******************** S92.SDS ********************
+
+Hmmm.... No answer.  Karyn must not be home.
+
+I'd  better get working on this case and let Karyn get to work.
+
+Karyn's apartment.
+
+To Em-Way.
+
+******************** S93.SDS ********************
+
+THE JAKE:
+Blade...!!
+
+SNAKE:
+Does this little street rodent belong to you?
+
+THE JAKE:
+Thanks for savin' my bacon, man! Now you better get movin';  I hear they got your girl stashed at DH Enterprises Corporate HQ.  And Blade, take this I.D. card with you.  It might come in handy!
+
+THE JAKE:
+BLADE...!
+
+Belatedly, you realize you don't have a loaded weapon.  The point is driven home as several bullets from Snake's gun slam into your body.  Slipping out of your physical existence, you are confronted by an unavoidable conclusion:  you died because you were dumb.
+
+SNAKE:
+Time to die, Blade!
+
+******************** S95.SDS ********************
+
+I can't believe Blade stood me up AGAIN!!
+He's history now! 
+
+******************** S89.SDS ********************
+
+******************** S2.SDS ********************
+
+BLADE:
+I never go anywhere without my BVD's
+
+BLADE'S COAT:
+This once fashionable garment is nearing the end of its useful life, having endured years of use and abuse by its owner.  It is fabricated from a combination of synthetic materials which vaguely resembles Peruvian goat leather.
+
+BLADE'S PISTOL:
+With & Smesson Police Special pulse particle beam handgun.
+
+A meticulousy maintained relic from Blade's past career as a peace officer.  This gun is extremely reliable but it lacks the firepower of many modern sidearms.
+
+BLADE'S ID CARD:
+This multi-purpose device serves its owner as a credit chip, ID card, medical information database, and door key.
+
+CHEN LU'S ID CARD:
+This multi-purpose device serves its owner as a credit chip, ID card, medical information database, and door key.
+
+SNAKE'S ID CARD:
+This multi-purpose device serves its owner as a credit chip, ID card, medical information database, and door key.
+
+L.A.P.D. ARMORY PASSCARD:
+This pass gains the bearer access to the police armory at City Hall.
+
+BLADE'S CLOTHES:
+Bought off the sale-rack at Sears.  Slightly fragrant, but not quite bad enough to warrant washing.
+
+SUPER AMMO CLIP:
+Power pack for Blade's gun.  Each charge is good for a year of normal use.
+
+FIRST AID KIT:
+This is an old familiar friend.
+
+ASSAULT RIFLE:
+M1000X .457 Caliber military spec assault rifle.  This weapon fires proximity fused explosive projectiles at a nominal rate of 1,000 rounds/min.
+
+ONE DOZEN ROSES:
+Organically grown roses.  Just the thing to get a guy out of hot water with his girlfriend.
+
+DRUG PATCH:
+Once used exclusively by the professional health care establishment for administering prescribed medications, these devices have found their way into the hands of big-time drug dealers.  Often placed on the neck over the carotid artery, they are typically used to administer drugs transdermally in a measured dosage.
+
+PLEASURE DOME CLAIM TICKET:
+This enables the bearer to claim his or her weapons upon exiting the pleasuredome.
+
+MTZ VCR TAPE:
+This tape contains the lab work-up for the MTZ sample.
+
+PERSONAL EXPLOSIVE DEVICE:
+These small but powerful explosive devices contain flaked TNT suspended in a polymer base.  If placed strategically, a single bomb can do a great deal of damage.
+
+WIRE TESTER:
+ACME little giant wire testing kit.  Contains three leads:  red-positive, blue-negative, and yellow-ground.
+
+CABINET KEYS:
+Archaic devices once widely used for security purposes, they are now mainly obsolete.
+
+BULLET PROOF VEST:
+DuPont LeadStopper Mark III personal flak vest.  Guaranteed for the lifetime of the user.
+
+TOME OF ANCIENT WISDOM:
+"Don't worry,  Be happy."
+
+ROCK OF LIFE:
+Unusually shaped stone.  Looks like an agate.
+
+FISTO CANDY BAR:
+Highly prized black market trade-item due to the extreme scarcity of sugar.
+
+PARCHMENT:
+This has several unintelligible lines of an oriental script written upon it.
+
+CHANDRA'S PHOTO:
+?Picture of the Mayor's daughter.
+
+APPD:
+NaPent Aerosol Personal Protection Device.
+
+This product was developed with the idea of providing "A safe and humane way of disabling an assailant."  Theoretically, it is supposed to induce a state of extreme euphoria which renders the target incapable of any hostile actions.  
+
+SCREW DRIVER:
+Sears CraftsPerson phillips-head screwdriver.
+
+WIRES FROM CLOSET:
+These wires look like they could hold a lot of voltage.  They might be usefull if I need to disable some electrical device.
+
+FORTUNE COOKIE:
+This stale fortune cookie has an unusual fortune... It says:
+
+"RYP YWP YRPWRY PBW".
+
+I probably shouldn't use this medical kit until I have some injuries.
+
+Ahhh, that's better.
+
+******************** S99.SDS ********************
+
+******************** S31.SDS ********************
+
+GUARD:
+Security pass, please.
+
+BLADE:
+Just a second.
+
+GUARD:
+Everything looks in order. Go right in.
+
+GUARD:
+I'm sorry, sir. That is not a valid pass.
+
+GUARD:
+I'm sorry, sir. No one is allowed in without a pass.
+
+GUARD:
+I already told you. No pass, no entry!
+
+GUARD:
+Get out of here!
+
+GUARD:
+If you don't leave, I'll be forced to call the police!?
+
+The bored security guard operates the controls for the laser gate from the inside of a bullet, bomb, and gas-proof cubicle.
+
+To Em-Way.
+
+To reception area.
+
+Electrified fence.
+
+Phased-array laser gate.
+
+******************** S32.SDS ********************
+
+RECEPTIONIST:
+Hello, sir. How may I help you?
+
+BLADE:
+1. My name is William Hunter.  I want to see The Man.
+
+2.  I can think of about a half-dozen ways, but right now I gotta re-thread the microspoolers in the security room.
+
+3.  You know something? You remind me of someone.
+
+
+RECEPTIONIST:
+Mr. Hwang never sees anyone without an appointment, and you are not on the list, sir.
+
+RECEPTIONIST:
+Please leave immediately, or I'll be forced to call security.
+
+BLADE:
+Name's Louis Lewis, darlin'! I'm with the A10 Service Repair & Maintenance Company.
+
+RECEPTIONIST:
+I'm sorry, Mr. Lewis...
+
+BLADE:
+Call me Louis, you pretty little thing!
+
+RECEPTIONIST:
+...but I don't have any record of a maintenance appointment.
+
+BLADE:
+Well, somebody sure screwed up!
+
+BLADE:
+You can't let those microspoolers go too long or they'll overload the interface grid, and I don't have to tell you what THAT means!
+
+RECEPTIONIST:
+What DOES that mean?
+
+BLADE:
+Well, your interface grid is basically the heart of your data control structure.
+
+BLADE:
+Say it gets overloaded, shorts out, then BOOM!  Your whole network is shot!
+
+RECEPTIONIST:
+Sounds serious!
+
+BLADE:
+I'm just glad I got here in time!
+
+RECEPTIONIST:
+I'll have to verify this, Louis.
+
+BLADE:
+1.  What for? It's only routine maintenance.
+
+2.  Go ahead.
+
+3.  I really wish you wouldn't do that.
+
+
+RECEPTIONIST:
+Nothing personal. It's standard operating procedure to call and verify these things.
+
+RECEPTIONIST:
+I'm sorry, sir.  There is no maintenance schedule listed for the microspoolers.  You'd better leave.
+
+BLADE:
+I was supposed to come by here last week, but I got tied up. I'm here today on my own time.
+
+BLADE:
+If you phone H.Q., it could cost me my job!
+
+BLADE:
+Tell you what.  You let me in there and then I'll take you out for dinner afterwards, miss...
+
+LORAIN:
+Call me Lorain, Louis.
+
+LORAIN:
+Dinner with you is a very appetizing offer, Louis!
+
+LORAIN:
+Go on in, I won't tell anyone you were late.   Most of the guards are on break now anyway.
+
+LORAIN:
+You're no repair man!
+
+LORAIN:
+I checked the VidPhone listings, and there is NO A10 Service Repair & Maintenance Company!
+
+LORAIN:
+I'm calling security!
+
+LORAIN:
+What?!!  How come nothing is happening?!
+
+BLADE:
+I disconnected the alarm system.
+
+BLADE:
+Sorry I had to torpedo you like that...
+
+BLADE:
+but your boss is up to no good, and if I don't stop him, a lot of people will get hurt!
+
+BLADE:
+You'd better get outta here! Things are gonna get nasty!
+
+RECEPTIONIST:
+Wait a minute...
+
+RECEPTIONIST:
+Do I know you from somewhere?
+
+RECEPTIONIST:
+You look really familiar.
+
+RECEPTIONIST:
+Wait a minute. Now I remember! You're Billy Hunter!
+
+BLADE:
+I haven't heard that name in a long time!
+
+RECEPTIONIST:
+Remember me? I'm Lorain Luttrell from Ridgemont.  We had several classes together.
+
+BLADE:
+1.  Of course I remember you!  I could never forget a face as pretty as yours!
+
+2.  You've mistaken me for someone else.
+
+3.  You look great! What'd'ya do?  Get a face-lift?  You used to be a dog in high school!
+
+
+LORAIN:
+You always were a charmer!
+
+LORAIN:
+How about getting together a little later for dinner and a drink or something?
+
+BLADE:
+1.  What do you mean, "or something"?
+
+2.  Thanks, but no thanks.
+
+3.  Sure!  We can talk about old times.
+
+
+LORAIN:
+It sounds like fun!
+
+BLADE:
+It sure does!
+
+LORAIN:
+Use your imagination.
+
+BLADE:
+Sounds like a good time!
+
+LORAIN:
+You're still a little stuck up, I see.
+
+BLADE:
+No, just self-confident.
+
+BLADE:
+Look, Lorain...
+
+BLADE:
+Do you think you could give me a few minutes alone in the security room?
+
+LORAIN:
+Are you kidding?  I'd lose my job for sure!  You'd better leave.
+
+LORAIN:
+Right NOW!
+
+BLADE:
+But first, I really need to get into the security room to check on something!
+
+LORAIN:
+I'm really not supposed to let anyone in there...
+
+BLADE:
+I wouldn't ask if it weren't extremely important!
+
+BLADE:
+There's a lot of dangerous business going down, and I think your boss may be involved somehow.
+
+BLADE:
+Besides, I won't tell anyone you let me in.
+
+LORAIN:
+I'm sure you wouldn't, but I can't afford to risk my job!
+
+BLADE:
+1.  Oh, come on!
+
+2.  Pretty please?
+
+3.  How 'bout if I throw in a movie with dinner?
+
+
+LORAIN:
+Sorry, William, I just can't!
+
+LORAIN:
+Now you'd better go. I could already be in trouble for talking to you this long!
+
+LORAIN:
+Well...  O.K. But make it quick!  Most of the guards are on break, but that won't last long.
+
+LORAIN:
+You were in there an awfully long time, William...
+
+LORAIN:
+Wait a minute! My security panel just went blank!
+
+RECEPTIONIST:
+That's too bad.
+
+RECEPTIONIST:
+Now, what can I do for you?
+
+RECEPTIONIST:
+Thanks, I think...?
+
+Security surveillance camera.
+
+Mural with the dragon logo of DH Enterprises on it.
+
+Phased-array laser security gate. 
+Controls for this type of device are typically operated remotely from another room.
+
+Door to security room.
+
+The receptionist for DH Enterprises has the appearance of a woman who conducts herself in a businesslike and professonal manner. 
+
+She's kinda cute!
+
+Security console.
+
+The electronic lock to the security room, as well as the intruder alarm, can be activated from here.
+
+Electronically locked.
+
+To main gate.
+
+RECEPTIONIST:
+Please leave, sir!
+
+RECEPTIONIST:
+SECURITY!  I'VE GOT AN INTRUDER WITH A GUN IN THE MAIN LOBBY!!
+
+RECEPTIONIST:
+Oh wow! I feel funny!
+
+REPCETIONIST:
+Oooohhh! What was that stuff!?
+
+BLADE:
+Just a little joy juice.
+
+RECEPTIONIST:
+MMmm... I like it!
+
+BLADE:
+Hey, darlin'! Think you could let me in the security room to do a little sabotage?
+
+RECEPTIONIST:
+Sssuurrrre!  Go ahead!
+
+RECEPTIONIST:
+Whheeee!
+
+Maybe I shouldn't have used so much on her...  Oh well, live and learn!
+
+RECEPTIONIST:
+I'm calling security!
+
+Elevator to roof.
+
+Electronically locked.
+
+RECEPTIONIST:
+If you go back there, I'll have to call security!
+
+RECEPTIONIST:
+I never should've let you back there!
+
+RECEPTIONIST:
+I warned you!
+
+RECEPTIONIST:
+What was that stuff you sprayed me with?  I'm calling security!
+
+RECEPTIONIST:
+Stop it!  I'm getting dizzy!
+
+******************** S33.SDS ********************
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm in here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+Security team break room.
+
+Much of the security force for DH Enterpises can often be found here, guarding the corporate supply of doughnuts and coffee, making this perhaps the safest room in the entire building.
+
+Several large viewscreens display the closed-circuit video input from security cameras placed throughout the complex.
+
+Security panel.
+
+The controls for the laser gate, electronic door locks, and the alarm system are operated from this console.
+
+Door is closed.
+
+Door lock
+activated.
+
+Security console chair.
+
+The guard who should be on duty here is in the break room.
+
+To break room.
+
+I probably shouldn't try
+to go in there...
+
+******************** S34.SDS ********************
+
+It's probably not a good idea for me to be waving a gun around in here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm in here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+Janitor's                                                                                                                                                                                                                                     closet.
+
+Locked.
+
+Interrogation
+chamber.
+
+Locked.
+
+Two grim chimeras watch over the staircase at the far end of the hallway.
+
+To main reception area.
+
+Downstairs
+
+******************** S35.SDS ********************
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm in here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+Eliminator 1200X Interrogator.
+
+Note: Surgeon General has determined use of this product may be hazardous to your health.
+
+
+E.K.G. Monitor.
+
+M.T.Z. tank.
+
+BLADE:
+My God!  Karyn!
+What have these bastards done to you?!
+
+KARYN:
+Please help me, Blade!
+
+High-pressure injection pump.
+
+Collar injector lines and control wires.
+
+If only I had some way to short out this damned collar!
+
+The love of your life, Karyn Sommers, lies there helplessly strapped to a hideous and deadly drug injection machine.
+
+Exit to Main Hallway
+
+******************** S36.SDS ********************
+
+******************** S37.SDS ********************
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm in here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+DENG HWANG:
+Arise, my people!
+
+DENG HWANG:
+The hour of our destiny is nearly upon us!
+
+MINIONS:
+HAIL! BAHUMAT!!
+
+A huge dragon shaped altar dominates the far end of the subterranean chamber. 
+
+To main hallway.
+
+Deng Hwang's minions worship at the foot of the altar to Bahumat, waiting for their deity to appear before them.
+
+Deng Hwang stands atop this altar, whipping his followers into a religious frenzy.
+
+******************** S38.SDS ********************
+
+You exit the hovercar.
+
+You enter the hovercar.
+
+Elevator.
+
+To reception area.
+
+Cooling fan.
+
+Air conditioning and purification machinery.
+
+Air conditioning and purification machinery.
+
+******************** S39.SDS ********************
+
+Destination map.
+
+KWD Octiphonic Audio System. 
+
+Steering wheel.
+
+Cellular VidPhone.
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm in here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+******************** S64.SDS ********************
+
+It's probably not a good idea for me to be waving a gun around in here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good in here!
+
+I'd better put that can of NaPent away while I'm in here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good in here!
+
+A screwdriver.
+
+The electrical sub-panel is held loosely in place by four inadequately tightened screws.
+
+Main breaker switch OFF.
+
+Electrical panel access door.
+
+Electrical panel access door.
+
+Sub-panel circuit wiring.
+
+Main breaker switch ON.
+
+Air vent.
+
+The floor of the dingy janitor's closet is strewn with seldom used cleaning supplies.
+
+A leaky faucet drips drearily into the rusty iron sink.
+
+To hallway.
+
+A screwdriver lies on top of the sink.
+
+******************** S77.SDS ********************
+
+GUARD:
+Someone's locked the door!  Help me get this damn thing open!
+
+RECEPTIONIST:
+Wha...?   Maybe I shouldn't have let that guy back there.
+
+RECEPTIONIST:
+Where are the security guards? 
+I'd  better go back there and see what's going on.
+
+RECEPTIONIST:
+Hmmm... Security isn't usually this slow.  I wonder what's keeping them?
+
+GUARD:
+Let's GET that guy!
+
+GUARD:
+Aaaaahhhrrrr!  Almost got it!  Just a little more...
+
+RECEPTIONIST:
+That man has been messing with the security panel!  I'd better reset it, fast!
+
+RECEPTIONIST:
+I probably shouldn't have let that guy back there...
+
+RECEPTIONIST:
+That's funny... I don't hear the alarm.
+
+BLADE:
+Having a little trouble?  Heh, heh...
+
+GUARD:
+Find him!  Quick, before he does anything!
+
+GUARD:
+There he is!  Let's take that guy out!
+
+BLADE:
+I disconnected the alarm system.
+
+BLADE:
+Sorry I had to torpedo you like that...
+
+BLADE:
+but your boss is up to no good, and if I don't stop him, a lot of people will get hurt.
+
+BLADE:
+You'd better get out of here! Things are gonna get nasty!
+
+You battle valianty against a half dozen burly security guards, but the outcome is never really in doubt.
+
+Struggling to rise for the last time, you feel a sharp pain and hear a sickening crunching sound as your neck is snapped cleanly between the third and fourth cervical vertebrae.
+
+******************** S78.SDS ********************
+
+THE VOICE OF BAHUMAT:
+Citizens of Los Angeles, this is the voice of Bahumat!
+
+THE VOICE OF BAHUMAT:
+What I am is not important at the moment, but know this:  I will soon be in absolute control of this city!
+
+THE VOICE OF BAHUMAT:
+I have only two demands:
+
+THE VOICE OF BAHUMAT:
+First,  Mayor Vincenzi must dismiss the entire police force and resign his office!
+
+THE VOICE OF BAHUMAT:
+Second,  500 million dollars in diamonds and platinum must be delivered to me in a time, place, and manner of my choice!
+
+THE VOICE OF BAHUMAT:
+If my demands are not agreed to in principle within the next ten hours, I will spread my considerable stocks of Dragon M.T.Z. among the city's population!
+
+THE VOICE OF BAHUMAT:
+Certain parts of the law enforcement community in this city are, I believe, already familiar with the action of this substance on the body of a normal person!
+
+THE VOICE OF BAHUMAT:
+Suffice it to say, M.T.Z. poisoning is an extremely unpleasant way to die!
+
+THE VOICE OF BAHUMAT:
+Consider this fair warning, Mr. Mayor. Do not attempt any tricks, or I will kill every living thing in the City and County of Los Angeles!
+
+THE VOICE OF BAHUMAT:
+I sincerely hope that will not be necessary.  I am, after all, a reasonable individual...
+
+THE VOICE OF BAHUMAT:
+as long as my conditions are fulfilled!
+
+THE VOICE OF BAHUMAT:
+Long live Bahumat!
+
+******************** S79.SDS ********************
+
+DENG HWANG:
+Thank you all for coming here on such short notice.  Especially you, Brother Qwong.
+
+DENG HWANG:
+There has been a severe disruption in our M.T.Z. production operation.
+
+DENG HWANG:
+This interference is the result of William Hunter's meddling in our affairs.
+
+DENG HWANG:
+A man you failed to stop, Brother Qwong!
+
+DENG HWANG:
+You know what the penalty for failure is, Brother!
+
+DENG HWANG:
+Bahumat's wrath must be appeased!
+
+DENG HWANG:
+Your soul shall feed the Dragon!!
+
+JONNY QWONG:
+AARRRRGGGHHH!!! NO!  WAI...
+
+DENG HWANG:
+This is the price of failure.  I suggest you all remember it!
+
+DENG HWANG:
+Snake, bring me this "Blade" Hunter's head on a plate! Use whatever means necessary!
+
+DENG HWANG:
+He, and all that he cares for, must be destroyed!
+
+******************** S83.SDS ********************
+
+Boy, am I tired.  Better get some sleep in about an hour.
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+Security system lockout panel.
+
+This system is designed to prevent unauthorized personnel from deactivating the laser gate or shutting down the security alarm.
+
+Manual override button 1.
+
+Manual override button 2.
+
+Manual override button 3.
+
+Initiates manual override sequence for security lockout panel.
+
+Laser security gate deactivation switch.
+
+Security alarm control switch.
+
+Interrogation chamber lockout switch.
+
+Roof access lockout switch.
+
+Break room lockout switch.
+
+Janitor closet lockout switch.
+
+Laser security gate activation switch.
+
+Exit to Security Room
+
+******************** S84.SDS ********************
+
+Boy, am I tired!  Better get some sleep in about an hour!
+
+BLADE:
+That's it!!
+
+BLADE:
+Oh hell!!
+
+It's probably not a good idea for me to be waving a gun around here!
+
+I could get in serious trouble if I pull my gun out in here!
+
+A gun isn't going to do me any good here!
+
+I'd better put that can of NaPent away while I'm in here!
+
+I don't think I should try to use NaPent on anything here!
+
+NaPent isn't going to do me any good here!
+
+Injection collar control wire.
+
+Injection collar control wire.
+
+Injector lines.
+
+Arterial injection collar.
+
+Capable of rapidly introducing large amounts of any drug into a subject's bloodstream.
+
+******************** S88.SDS ********************
+
+DENG:
+There has been no response to our demands! Release the M.T.Z.!!!
+
+DENG:
+Deploy dispersal units to the Reservoir!
+
+DENG:
+Los Angeles shall feel the wrath of the Dragon!!
+
+******************** S91.SDS ********************
+
+******************** S89.SDS ********************
+
+******************** S89.SDS ********************
+
+******************** S99.SDS ********************
+
+******************** S85.SDS ********************
+
+BLADE:
+Thank God you're safe!
+
+Thank God I'm safe!
+
+RECEPTIONIST:
+SECURITY! WE HAVE AN INTRUDER IN THE MAIN HALLWAY!
+
+KARYN:
+That doesn't sound very safe to me!
+
+GUARD:
+Check the prisoner!
+
+BLADE:
+Let's get outta here!
+
+KARYN:
+Which way?
+
+BLADE:
+Quick! The stairs!
+
+******************** S90.SDS ********************
+
+BLADE:
+So much for Bahumat...
+
+BLADE:
+talk about delusions of grandeur!
+
+KARYN:
+Blade!!
+
+KARYN:
+You're hurt! Let me take you home.
+
+BLADE:
+Not yet. I have some unfinished business to take care of.
+
+POLICE LIEUTENANT:
+All units: form a perimeter and take up defensive positions.
+
+MAYOR VINCENZI:
+Is the area secure yet, Lieutenant?
+
+POLICE LIEUTENANT:
+The only resistance we're encountering is from a sniper holed up near the main entrance.  He's got us pinned down.
+
+SNIPER:
+AAAYYYEEEEERRRRGGGHHH!!!
+
+BLADE:
+Outta my way, punk!
+
+BLADE:
+You weren't up front with me about how heavy this situation was, Vinnie!
+
+BLADE:
+Karyn could have been killed by that maniacal iguana!  And for that matter, so could I!
+
+MAYOR VINCENZI:
+The important thing is that Deng Hwang's drug cult has been broken up and his factory destroyed.  Thanks to my plan, the citizens of Los Angeles are safe again.
+
+MAYOR VINCENZI:
+Compared to the well-being of this entire city, you are insignificant.  I can live with the sacrifice of two people if it means fourteen million can be saved.
+
+BLADE:
+Well Vinnie, I hope you can live with this!!
+
+BLADE:
+I'll be by to pick up my check later!?
+
+BLADE:
+That was for Karyn.
+
+POLICE LIEUTENANT:
+All units: form a perimeter and take up defensive positions.
+
+MAYOR VINCENZI:
+Is the area secure yet, Lieutenant?
+
+POLICE LIEUTENANT:
+The only resistance we're encountering is from a sniper holed up near the main entrance.  He's got us pinned down.
+
+SNIPER:
+AAAYYYEEEEERRRRGGGHHH!!!
+
+BLADE:
+Outta my way, punk!
+
+BLADE:
+You weren't up front with me about how heavy this situation was, Vinnie!
+
+BLADE:
+Karyn was killed by that maniac!
+
+MAYOR VINCENZI:
+The important thing is that Deng Hwang's drug cult has been broken up and his factory destroyed.  Thanks to my plan, the citizens of Los Angeles are safe again.
+
+MAYOR VINCENZI:
+Compared to the well-being of this entire city, you are insignificant.  I can live with the sacrifice of one person if it means I can save fourteen million.
+
+BLADE:
+I hope you can live with this, "Your Honor"!!
+
+******************** S96.SDS ********************
+
+Boy, am I thirsty!
+
+Think I'll have a drink at this water fountain.
+
+CITIZEN:
+Mmm...
+
+CITIZEN:
+Unnhh!!
+
+******************** S97.SDS ********************
+
+BLADE:
+It's Deng Hwang!
+
+BLADE:
+Hwang, your drug pushing days are over!
+
+BLADE:
+Outta my way...
+
+BLADE:
+I'll get Deng Hwang for this!
+
+BLADE:
+Oops!  I think we must have taken a wrong turn somewhere!
+
+GUARDS:
+There they are!
+
+DENG HWANG:
+You pathetic fool!  You dare to challenge me?!
+
+DENG HWANG:
+You have absolutely no idea who you're up against!
+
+DENG HWANG:
+None whatsoever!
+
+BLADE:
+Holy...
+
+DENG HWANG:
+I AAAAMMM BAHUMAAATTT!
+
+******************** S98.SDS ********************
+
+******************** S101.SDS ********************
+
+JENNI:
+Blade! Wait! You can't just...
+
+BLADE:
+Don't try to stop me, Jenni.
+
+MAYOR VINCENZI:
+Come in, Mr. Hunter. I've been expecting you.
+
+BLADE:
+I'll bet you didn't expect this, "Your Honor"!
+
+MAYOR VINCENZI:
+Put that gun away! Don't be a fool!
+
+BLADE:
+How 'bout I put a bullet in your skull instead!
+
+MAYOR VINCENZI:
+Listen, William, I'm terribly sorry that Karyn Sommers was killed, but we were dealing with some very ruthless people who would've killed millions if you hadn't stopped their drug operation.
+
+BLADE:
+Bullshit! YOU dragged Karyn into this mess!
+
+BLADE:
+You shouldn't mess with people's lives, Vinnie.
+
+BLADE:
+You might not be prepared to face the consequences!
+
+DENG HWANG:
+You may have stopped me this time, Blade, but I shall crush you when our paths cross again!
+
+DENG HWANG:
+And cross they must, for the Dragon shall rise again!
+
+******************** S104.SDS ********************
+
+BLADE:
+C'mon Karyn, let's get the hell out of here!
+
+Walking off into the sunset, you bask in the warm glow of Karyn's affection and the knowledge you have vanquished the forces of evil...
+
+...for now.
+
+Walking off into the sunset you console yourself over the loss of Karyn with the knowledge that you have vanquished the forces of evil...
+
+BLADE:
+I'm outta here.
+
