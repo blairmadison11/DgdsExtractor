@@ -11,7 +11,7 @@ namespace DgdsExtractor
 		 * VolumeIndex -> Volume -> Asset -> Chunk
 		 */
 
-		private string directory, filename;
+		private readonly string directory, filename;
 		private DgdsVolume[] volumes;
 
 		public DgdsVolumeIndex(string directory, string filename)
@@ -25,21 +25,21 @@ namespace DgdsExtractor
 		private void ReadIndex()
 		{
 			using BinaryReader file = new BinaryReader(File.OpenRead(directory + filename));
-			byte[] salt = file.ReadBytes(4);
-			int numVolumes = file.ReadUInt16();
+			file.ReadBytes(4); // skip hash salt
+			ushort numVolumes = file.ReadUInt16();
 			volumes = new DgdsVolume[numVolumes];
 
 			for (int i = 0; i < numVolumes; ++i)
 			{
 				string volName = DgdsUtilities.ReadFilename(file);
-				uint numFiles = file.ReadUInt16();
-				volumes[i] = new DgdsVolume(directory, volName, Convert.ToInt32(numFiles));
+				int numFiles = Convert.ToInt32(file.ReadUInt16());
+				volumes[i] = new DgdsVolume(directory, volName, numFiles);
 
 				for (int j = 0; j < numFiles; ++j)
 				{
-					int hash = file.ReadInt32();
+					file.ReadInt32(); // skip file hash
 					uint offset = file.ReadUInt32();
-					volumes[i].InitializeAsset(j, hash, offset);
+					volumes[i].InitializeAsset(j, offset);
 				}
 			}
 		}
@@ -54,7 +54,7 @@ namespace DgdsExtractor
 		}
 
 		// Write all extracted volume data to disk at the specified path
-		public void WriteExtractedVolumes(string path)
+		public void WriteData(string path)
 		{
 			if (!Directory.Exists(path))
 			{
@@ -63,7 +63,7 @@ namespace DgdsExtractor
 
 			foreach (DgdsVolume volume in volumes)
 			{
-				volume.WriteAssets(path);
+				volume.WriteData(path);
 			}
 		}
 
@@ -78,11 +78,11 @@ namespace DgdsExtractor
 		}
 
 		// Print some information about volumes to console
-		public void PrintVolumes()
+		public void Print()
 		{
 			foreach (DgdsVolume volume in volumes)
 			{
-				volume.PrintAssets();
+				volume.Print();
 			}
 		}
 	}

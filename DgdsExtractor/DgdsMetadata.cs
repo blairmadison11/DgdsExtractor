@@ -3,30 +3,22 @@ using System.Linq;
 
 namespace DgdsExtractor
 {
-	public enum AssetSection {
-		NONE, BIN, DAT, FNM, FNT, GAD, INF, MTX,
-		PAG, REQ, RES, SCR, SDS, SNG, TAG, TT3,
-		TTI, VER, VGA, VQT, MA8, DDS, THD}
+	public enum AssetType
+	{
+		NONE, ADH, ADL, ADS, AMG, BMP, GDS,
+		INS, PAL, FNT, REQ, RST, SCR, SDS,
+		SNG, SX, TTM, VIN, DAT, DDS, TDS, OVL
+	}
 
-	public enum AssetType {
-		NONE, ADH, ADL, ADS, AMG, BMP, GDS, INS,
-		PAL, FNT, REQ, RST, SCR, SDS, SNG,
-		SX, TTM, VIN, DAT, DDS, TDS, OVL }
+	public enum AssetSection
+	{
+		NONE, BIN, DAT, FNM, FNT, GAD, INF, MTX,
+		PAG, REQ, RES, SCR, SDS, SNG, TAG, TDS,
+		TT3, TTI, VER, VGA, VQT, MA8, DDS, THD
+	}
 
 	public static class DgdsMetadata
 	{
-		private static readonly Dictionary<string, AssetSection> SectionStringMap = new Dictionary<string, AssetSection>()
-		{
-			{ "BIN", AssetSection.BIN }, { "DAT", AssetSection.DAT }, { "FNM", AssetSection.FNM },
-			{ "FNT", AssetSection.FNT }, { "GAD", AssetSection.GAD }, { "INF", AssetSection.INF },
-			{ "MTX", AssetSection.MTX }, { "PAG", AssetSection.PAG }, { "REQ", AssetSection.REQ },
-			{ "RES", AssetSection.RES }, { "SCR", AssetSection.SCR }, { "SDS", AssetSection.SDS },
-			{ "SNG", AssetSection.SNG }, { "TAG", AssetSection.TAG }, { "TT3", AssetSection.TT3 },
-			{ "TTI", AssetSection.TTI }, { "VER", AssetSection.VER }, { "VGA", AssetSection.VGA },
-			{ "VQT", AssetSection.VQT }, { "MA8", AssetSection.MA8 }, { "DDS", AssetSection.DDS },
-			{ "THD", AssetSection.THD }
-		};
-
 		private static readonly Dictionary<string, AssetType> TypeStringMap = new Dictionary<string, AssetType>()
 		{
 			{ "ADH", AssetType.ADH }, { "ADL", AssetType.ADL }, { "ADS", AssetType.ADS },
@@ -36,6 +28,18 @@ namespace DgdsExtractor
 			{ "SDS", AssetType.SDS }, { "SNG", AssetType.SNG }, { "SX", AssetType.SX },
 			{ "TTM", AssetType.TTM }, { "VIN", AssetType.VIN }, { "DAT", AssetType.DAT },
 			{ "DDS", AssetType.DDS }, { "TDS", AssetType.TDS }, { "OVL", AssetType.OVL }
+		};
+
+		private static readonly Dictionary<string, AssetSection> SectionStringMap = new Dictionary<string, AssetSection>()
+		{
+			{ "BIN", AssetSection.BIN }, { "DAT", AssetSection.DAT }, { "FNM", AssetSection.FNM },
+			{ "FNT", AssetSection.FNT }, { "GAD", AssetSection.GAD }, { "INF", AssetSection.INF },
+			{ "MTX", AssetSection.MTX }, { "PAG", AssetSection.PAG }, { "REQ", AssetSection.REQ },
+			{ "RES", AssetSection.RES }, { "SCR", AssetSection.SCR }, { "SDS", AssetSection.SDS },
+			{ "SNG", AssetSection.SNG }, { "TAG", AssetSection.TAG }, { "TDS", AssetSection.TDS },
+			{ "TT3", AssetSection.TT3 }, { "TTI", AssetSection.TTI }, { "VER", AssetSection.VER },
+			{ "VGA", AssetSection.VGA }, { "VQT", AssetSection.VQT }, { "MA8", AssetSection.MA8 },
+			{ "DDS", AssetSection.DDS }, { "THD", AssetSection.THD }
 		};
 
 		// converts identifier string to corresponding AssetType enum
@@ -62,7 +66,6 @@ namespace DgdsExtractor
 		public static bool IsCompressed(AssetType type, AssetSection section)
 		{
 			bool compressed = false;
-
 			switch (type)
 			{
 				case AssetType.ADS:
@@ -89,15 +92,17 @@ namespace DgdsExtractor
 					compressed = (section == AssetSection.TT3);
 					break;
 				case AssetType.TDS:
-					compressed = (section == AssetSection.THD);
+					compressed = (section == AssetSection.THD || section == AssetSection.TDS);
 					break;
 				case AssetType.DDS:
 					compressed = (section == AssetSection.DDS);
 					break;
+				case AssetType.OVL:
+					compressed = (section != AssetSection.VER);
+					break;
 				default:
 					break;
 			}
-
 			return compressed;
 		}
 	}

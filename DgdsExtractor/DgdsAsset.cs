@@ -9,46 +9,44 @@ namespace DgdsExtractor
 		private string filename;
 		private AssetType assetType;
 		private bool isFlatFile;
-		private int nameHash;
-		private uint offset;
+		private readonly uint offset;
 		private byte[] data;
 		private List<DgdsChunk> chunks;
 
-		public DgdsAsset(int nameHash, uint offset)
+		public DgdsAsset(uint offset)
 		{
-			this.nameHash = nameHash;
 			this.offset = offset;
 		}
 
 		// Seek to asset location in volume file and extract asset data
-		public void ReadAsset(BinaryReader file)
+		public void ReadAsset(BinaryReader inFile)
 		{
-			file.BaseStream.Seek(offset, SeekOrigin.Begin);
-			this.filename = DgdsUtilities.ReadFilename(file);
-			this.assetType = DgdsMetadata.GetAssetType(filename.Substring(filename.LastIndexOf('.') + 1));
-			this.isFlatFile = DgdsMetadata.IsFlatFile(this.assetType);
+			inFile.BaseStream.Seek(offset, SeekOrigin.Begin);
+			filename = DgdsUtilities.ReadFilename(inFile);
+			assetType = DgdsMetadata.GetAssetType(filename[(filename.LastIndexOf('.') + 1)..]);
+			isFlatFile = DgdsMetadata.IsFlatFile(assetType);
 
-			uint size = file.ReadUInt32();
-			this.data = file.ReadBytes(Convert.ToInt32(size));
+			uint size = inFile.ReadUInt32();
+			data = inFile.ReadBytes(Convert.ToInt32(size));
 
 			if (!isFlatFile)
 			{
 				chunks = new List<DgdsChunk>();
-				using BinaryReader dataReader = new BinaryReader(new MemoryStream(this.data));
-				ReadChunks(dataReader, this.assetType);
+				using BinaryReader assetData = new BinaryReader(new MemoryStream(data));
+				ReadChunks(assetData, assetType);
 			}
 		}
 
 		// Recursively read all chunks contained in this asset's data
-		private void ReadChunks(BinaryReader data, AssetType type)
+		private void ReadChunks(BinaryReader assetData, AssetType type)
 		{
-			while (data.BaseStream.Position + 1 < data.BaseStream.Length)
+			while (assetData.BaseStream.Position + 1 < assetData.BaseStream.Length)
 			{
 				DgdsChunk chunk = new DgdsChunk(type);
-				chunk.ReadChunk(data);
+				chunk.ReadChunk(assetData);
 				if (chunk.IsContainer)
 				{
-					ReadChunks(data, chunk.ChunkType);
+					ReadChunks(assetData, chunk.ChunkType);
 				}
 				else
 				{
@@ -58,7 +56,7 @@ namespace DgdsExtractor
 		}
 
 		// Write the asset's data to disk
-		public void Write(string path)
+		public void WriteData(string path)
 		{
 			using BinaryWriter writer = new BinaryWriter(File.Create(path + filename));
 			if (isFlatFile)
@@ -69,33 +67,33 @@ namespace DgdsExtractor
 			{
 				foreach (DgdsChunk chunk in chunks)
 				{
-					chunk.Write(writer);
+					chunk.WriteData(writer);
 				}
 			}
 		}
 
 		// Write all text lines (dialogue, descriptions, etc.) contained in this asset to disk
-		public void WriteText(StreamWriter writer)
+		public void WriteText(StreamWriter outFile)
 		{
 			if (!isFlatFile && assetType == AssetType.SDS)
 			{
-				writer.Write("******************** {0} ********************\n\n", this.filename);
+				outFile.Write("******************** {0} ********************\n\n", this.filename);
 				foreach (DgdsChunk chunk in chunks)
 				{
-					chunk.WriteText(writer);
+					chunk.WriteText(outFile);
 				}
 			}
 		}
 
 		// Print info about this asset to console
-		public void PrintAsset()
+		public void Print()
 		{
 			Console.WriteLine("{0} ({1} bytes)", filename, data.Length);
 			if (!isFlatFile)
 			{
 				foreach (DgdsChunk chunk in chunks)
 				{
-					chunk.PrintChunk();
+					chunk.Print();
 				}
 			}
 		}

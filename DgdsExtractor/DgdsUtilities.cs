@@ -8,7 +8,7 @@ namespace DgdsExtractor
 	public static class DgdsUtilities
 	{
 		private static DgdsLzw lzw = new DgdsLzw();
-		private const int FILENAME_SIZE = 13;
+		private const int FILENAME_SIZE = 13, ID_LENGTH = 4;
 
 		// Reads a filename from the specified file
 		// DGDS always allocates 13 characters for filenames
@@ -17,6 +17,27 @@ namespace DgdsExtractor
 		{
 			byte[] chars = file.ReadBytes(FILENAME_SIZE);
 			return Encoding.ASCII.GetString(chars, 0, Array.IndexOf(chars, (byte)0));
+		}
+
+		public static string ReadIdentifier(BinaryReader data)
+		{
+			byte[] id = data.ReadBytes(ID_LENGTH);
+			if (id[3] != ':')
+			{
+				throw new Exception("Invalid header!");
+			}
+
+			string idStr = "";
+			if (id[2] == (byte)0)
+			{
+				idStr = string.Concat(Convert.ToChar(id[0]), Convert.ToChar(id[1]));
+			}
+			else
+			{
+				idStr = string.Concat(Convert.ToChar(id[0]), Convert.ToChar(id[1]), Convert.ToChar(id[2]));
+			}
+
+			return idStr;
 		}
 
 		// Decompress the given data according to the type of compression specified

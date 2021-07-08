@@ -7,72 +7,56 @@ namespace DgdsExtractor
 {
 	class DgdsChunk
 	{
-		const int ID_LENGTH = 4;
-
-		private AssetType chunkType = AssetType.NONE;
-		private AssetSection section = AssetSection.NONE;
-		private byte[] chunkData;
+		private AssetType type;
+		private AssetSection section;
+		private byte[] data;
 		private bool isContainer;
 		private List<string> textLines;
 
 		public bool IsContainer { get => isContainer; }
-		public AssetType ChunkType { get => chunkType; }
+		public AssetType ChunkType { get => type; }
 
 		public DgdsChunk(AssetType type)
 		{
-			this.chunkType = type;
+			this.type = type;
+			section = AssetSection.NONE;
 		}
 
 		// Parses the chunk data from the specified asset data
-		public void ReadChunk(BinaryReader data)
+		public void ReadChunk(BinaryReader assetData)
 		{
-			byte[] id = data.ReadBytes(ID_LENGTH);
-			if (id[3] != ':')
+			string idStr = DgdsUtilities.ReadIdentifier(assetData);
+			if (type == AssetType.NONE)
 			{
-				throw new Exception("Invalid header!");
-			}
-
-			string idStr = "";
-			if (id[2] == (byte)0)
-			{
-				idStr = string.Concat(Convert.ToChar(id[0]), Convert.ToChar(id[1]));
-			}
-			else
-			{
-				idStr = string.Concat(Convert.ToChar(id[0]), Convert.ToChar(id[1]), Convert.ToChar(id[2]));
-			}
-
-			if (chunkType == AssetType.NONE)
-			{
-				chunkType = DgdsMetadata.GetAssetType(idStr);
+				type = DgdsMetadata.GetAssetType(idStr);
 			}
 			else
 			{
 				section = DgdsMetadata.GetAssetSection(idStr);
 			}
 
-			uint sizeData = data.ReadUInt32();
-			this.isContainer = Convert.ToBoolean(sizeData >> 31);
+			uint sizeData = assetData.ReadUInt32();
+			isContainer = Convert.ToBoolean(sizeData >> 31);
 			int size = Convert.ToInt32(sizeData & 0x7FFFFFFF);
 			
 			if (!isContainer)
 			{
 				if (DgdsMetadata.IsCompressed(ChunkType, section))
 				{
-					byte compressionType = data.ReadByte();
-					uint unpackSize = data.ReadUInt32();
+					byte compressionType = assetData.ReadByte();
+					assetData.ReadUInt32(); // skip unpack size
 
-					byte[] compressedData = data.ReadBytes(size - 5);
+					byte[] compressedData = assetData.ReadBytes(size - 5);
 
-					this.chunkData = DgdsUtilities.Decompress(compressionType, compressedData);
+					data = DgdsUtilities.Decompress(compressionType, compressedData);
 				}
 				else
 				{
-					this.chunkData = data.ReadBytes(size);
+					data = assetData.ReadBytes(size);
 				}
 			}
 
-			if (chunkType == AssetType.SDS && section == AssetSection.SDS)
+			if (type == AssetType.SDS && section == AssetSection.SDS)
 			{
 				ExtractText();
 			}
@@ -82,67 +66,68 @@ namespace DgdsExtractor
 		{
 			textLines = new List<string>();
 			int index = 13;
-			while (index + 6 < chunkData.Length)
+			while (index + 6 < data.Length)
 			{
-				if (chunkData[index++] == 0x04)
+				if (data[index++] == 0x04)
 				{
-					ushort op0 = BitConverter.ToUInt16(chunkData, index - 1);
-					ushort op1 = BitConverter.ToUInt16(chunkData, index + 1);
-					ushort op2 = BitConverter.ToUInt16(chunkData, index + 3);
+					ushort op0 = BitConverter.ToUInt16(data, index - 1);
+					ushort op1 = BitConverter.ToUInt16(data, index + 1);
+					ushort op2 = BitConverter.ToUInt16(data, index + 3);
 
 					if (op0 == 0x04 && (op1 == 0x02 || op1 == 0x03) && (op2 == 0x00 || op2 == 0x80))
 					{
 						index += 11;
-						ushort count = BitConverter.ToUInt16(chunkData, index);
+						ushort count = BitConverter.ToUInt16(data, index);
 						index += 2;
-						string line = Encoding.ASCII.GetString(chunkData, index, Array.IndexOf(chunkData, (byte)0, index, count) - index).Trim().Replace('\r', '\n');
-						if (line != "")
+
+						string line = Encoding.ASCII.GetString(data, index, Array.IndexOf(data, (byte)0, index, count) - index).Replace('\r', '\n');
+						
+						if (line.EndsWith("\n?"))
+						{
+							line = line[0..(line.Length - 2)].Trim();
+						}
+
+						if (line.Length > 1)
 						{
 							textLines.Add(line);
 						}
+						
 						index += count;
 					}
 				}
 			}
 		}
 
+		// Write the chunk data to disk
+		public void WriteData(BinaryWriter outFile)
+		{
+			if (data != null)
+			{
+				outFile.Write(data);
+			}
+		}
+
 		// Write all text lines (dialogue, descriptions, etc.) contained in this chunk to disk
-		public void WriteText(StreamWriter writer)
+		public void WriteText(StreamWriter outFile)
 		{
 			if (textLines != null)
 			{
 				foreach (string line in textLines)
 				{
-					writer.Write("{0}\n\n", line);
+					outFile.Write("{0}\n\n", line);
 				}
 			}
 		}
 
-		// Write the chunk data to disk
-		public void Write(BinaryWriter writer)
-		{
-			if (chunkData != null)
-			{
-				writer.Write(chunkData);
-			}
-		}
-
 		// Print some information about this chunk to console
-		public void PrintChunk()
+		public void Print()
 		{
-			if (chunkData != null)
+			string str = string.Format("\tChunk: {0}", section == AssetSection.NONE ? type.ToString() : section.ToString());
+			if (data != null)
 			{
-				Console.WriteLine("\tChunk: {0} ({1} bytes)", this, chunkData.Length);
+				str += string.Format(" ({0} bytes)", data.Length);
 			}
-			else
-			{
-				Console.WriteLine("\tChunk: {0}", this);
-			}
-		}
-
-		public override string ToString()
-		{
-			return section == AssetSection.NONE ? chunkType.ToString() : section.ToString();
+			Console.WriteLine(str);
 		}
 	}
 }

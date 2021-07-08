@@ -27,13 +27,13 @@ namespace DgdsExtractor
 			index.ReadVolumes();
 			Console.WriteLine("DONE!");
 
-			//index.PrintVolumes();
+			index.Print();
 
-			Console.Write("Writing assets to disk...");
-			index.WriteExtractedVolumes(gamePath + EXTRACT_FOLDER);
+			Console.Write("Writing data to disk...");
+			index.WriteData(gamePath + EXTRACT_FOLDER);
 			Console.WriteLine("DONE!");
 
-			Console.Write("Writing text to disk...");
+			Console.Write("Writing exctracted text to disk...");
 			index.WriteText(GAME_PATH + EXTRACT_FOLDER);
 			Console.WriteLine("DONE!");
 		}	
