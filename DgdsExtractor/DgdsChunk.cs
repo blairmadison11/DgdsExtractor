@@ -26,21 +26,13 @@ namespace DgdsExtractor
 		public void ReadChunk(BinaryReader assetData)
 		{
 			string idStr = DgdsUtilities.ReadIdentifier(assetData);
-			if (type == AssetType.NONE)
-			{
-				type = DgdsMetadata.GetAssetType(idStr);
-			}
-			else
-			{
-				section = DgdsMetadata.GetAssetSection(idStr);
-			}
-
 			uint sizeData = assetData.ReadUInt32();
 			isContainer = Convert.ToBoolean(sizeData >> 31);
 			int size = Convert.ToInt32(sizeData & 0x7FFFFFFF);
 			
 			if (!isContainer)
 			{
+				section = DgdsMetadata.GetAssetSection(idStr);
 				if (DgdsMetadata.IsCompressed(ChunkType, section))
 				{
 					byte compressionType = assetData.ReadByte();
@@ -53,11 +45,15 @@ namespace DgdsExtractor
 				{
 					data = assetData.ReadBytes(size);
 				}
-			}
 
-			if (type == AssetType.SDS && section == AssetSection.SDS)
+				if (section == AssetSection.SDS)
+				{
+					ExtractText();
+				}
+			}
+			else
 			{
-				ExtractText();
+				type = DgdsMetadata.GetAssetType(idStr);
 			}
 		}
 
