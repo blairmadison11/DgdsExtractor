@@ -45,7 +45,6 @@ namespace DgdsExtractor
 				{
 					byte compressionType = assetData.ReadByte();
 					assetData.ReadUInt32(); // skip unpack size
-
 					byte[] compressedData = assetData.ReadBytes(size - 5);
 
 					data = DgdsUtilities.Decompress(compressionType, compressedData);

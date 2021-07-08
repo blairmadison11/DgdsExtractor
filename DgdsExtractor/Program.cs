@@ -20,7 +20,7 @@ namespace DgdsExtractor
 				}
 			}
 
-			Console.WriteLine("DGDS Extractor 1.0\nBy Blair Durkee\n");
+			Console.WriteLine("DGDS Extractor 1.0\n");
 			DgdsVolumeIndex index = new DgdsVolumeIndex(gamePath, VOLUME_INDEX_FILENAME);
 
 			Console.Write("Extracting data...");

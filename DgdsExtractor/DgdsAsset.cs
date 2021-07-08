@@ -26,8 +26,8 @@ namespace DgdsExtractor
 			assetType = DgdsMetadata.GetAssetType(filename[(filename.LastIndexOf('.') + 1)..]);
 			isFlatFile = DgdsMetadata.IsFlatFile(assetType);
 
-			uint size = inFile.ReadUInt32();
-			data = inFile.ReadBytes(Convert.ToInt32(size));
+			int size = Convert.ToInt32(inFile.ReadUInt32());
+			data = inFile.ReadBytes(size);
 
 			if (!isFlatFile)
 			{
