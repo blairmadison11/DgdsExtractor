@@ -27,14 +27,14 @@ namespace DgdsExtractor
 				throw new Exception("Invalid header!");
 			}
 
-			string idStr = "";
+			string idStr;
 			if (id[2] == (byte)0)
 			{
-				idStr = string.Concat(Convert.ToChar(id[0]), Convert.ToChar(id[1]));
+				idStr = Encoding.ASCII.GetString(id[0..2]);
 			}
 			else
 			{
-				idStr = string.Concat(Convert.ToChar(id[0]), Convert.ToChar(id[1]), Convert.ToChar(id[2]));
+				idStr = Encoding.ASCII.GetString(id[0..3]);
 			}
 
 			return idStr;

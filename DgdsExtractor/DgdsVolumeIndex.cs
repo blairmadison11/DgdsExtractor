@@ -37,7 +37,7 @@ namespace DgdsExtractor
 
 				for (int j = 0; j < numFiles; ++j)
 				{
-					file.ReadInt32(); // skip file hash
+					file.ReadInt32(); // skip filename hash
 					uint offset = file.ReadUInt32();
 					volumes[i].InitializeAsset(j, offset);
 				}
