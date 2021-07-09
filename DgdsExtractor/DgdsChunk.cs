@@ -74,7 +74,7 @@ namespace DgdsExtractor
 						ushort count = BitConverter.ToUInt16(data, index);
 						index += 2;
 
-						string line = Encoding.ASCII.GetString(data, index, Array.IndexOf(data, (byte)0, index, count) - index).Replace('\r', '\n');
+						string line = Encoding.ASCII.GetString(data[index..Array.IndexOf(data, (byte)0, index, count)]).Replace('\r', '\n');
 						
 						if (line.EndsWith("\n?"))
 						{
