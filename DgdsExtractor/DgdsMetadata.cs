@@ -98,7 +98,7 @@ namespace DgdsExtractor
 					compressed = (section == AssetSection.DDS);
 					break;
 				case AssetType.OVL:
-					compressed = (section != AssetSection.VER);
+					compressed = true;
 					break;
 				default:
 					break;

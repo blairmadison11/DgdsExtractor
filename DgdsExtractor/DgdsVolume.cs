@@ -50,13 +50,13 @@ namespace DgdsExtractor
 			}
 		}
 
-		// Print a summary of asset information to the console
-		public void Print()
+		// Write log information to output stream
+		public void WriteLog(StreamWriter output)
 		{
-			Console.WriteLine("\n{0} contains {1} assets\n", filename, assets.Length);
+			output.WriteLine("\n{0} contains {1} assets\n", filename, assets.Length);
 			foreach (DgdsAsset asset in assets)
 			{
-				asset.Print();
+				asset.WriteLog(output);
 			}
 		}
 	}

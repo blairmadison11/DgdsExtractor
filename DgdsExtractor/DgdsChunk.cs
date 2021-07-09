@@ -38,7 +38,6 @@ namespace DgdsExtractor
 					byte compressionType = assetData.ReadByte();
 					assetData.ReadUInt32(); // skip unpack size
 					byte[] compressedData = assetData.ReadBytes(size - 5);
-
 					data = DgdsUtilities.Decompress(compressionType, compressedData);
 				}
 				else
@@ -114,15 +113,15 @@ namespace DgdsExtractor
 			}
 		}
 
-		// Print some information about this chunk to console
-		public void Print()
+		// Write log information to output stream
+		public void WriteLog(StreamWriter output)
 		{
 			string str = string.Format("\tChunk: {0}", section == AssetSection.NONE ? type.ToString() : section.ToString());
 			if (data != null)
 			{
 				str += string.Format(" ({0} bytes)", data.Length);
 			}
-			Console.WriteLine(str);
+			output.WriteLine(str);
 		}
 	}
 }

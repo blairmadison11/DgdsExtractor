@@ -77,13 +77,28 @@ namespace DgdsExtractor
 			}
 		}
 
-		// Print some information about volumes to console
-		public void Print()
+		// Write log information to output stream
+		private void WriteLog(StreamWriter output)
 		{
 			foreach (DgdsVolume volume in volumes)
 			{
-				volume.Print();
+				volume.WriteLog(output);
 			}
+			output.Flush();
+		}
+
+		// Write log information to console (standard output)
+		public void WriteLog()
+		{
+			WriteLog(new StreamWriter(Console.OpenStandardOutput()));
+		}
+
+		// Write log information to file
+		public void WriteLog(string filename)
+		{
+			using StreamWriter logFile = new StreamWriter(File.Create(filename));
+			logFile.WriteLine("DGDS Extractor Log\n{0}", DateTime.Now);
+			WriteLog(logFile);
 		}
 	}
 }

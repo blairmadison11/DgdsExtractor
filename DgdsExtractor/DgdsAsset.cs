@@ -85,15 +85,15 @@ namespace DgdsExtractor
 			}
 		}
 
-		// Print info about this asset to console
-		public void Print()
+		// Write log information to output stream
+		public void WriteLog(StreamWriter output)
 		{
-			Console.WriteLine("{0} ({1} bytes)", filename, data.Length);
+			output.WriteLine("{0} ({1} bytes)", filename, data.Length);
 			if (!isFlatFile)
 			{
 				foreach (DgdsChunk chunk in chunks)
 				{
-					chunk.Print();
+					chunk.WriteLog(output);
 				}
 			}
 		}

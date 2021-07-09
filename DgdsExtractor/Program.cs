@@ -26,8 +26,8 @@ namespace DgdsExtractor
 			Console.Write("Extracting data...");
 			index.ReadVolumes();
 			Console.WriteLine("DONE!");
-
-			index.Print();
+	
+			index.WriteLog(gamePath + EXTRACT_FOLDER + "output.log");
 
 			Console.Write("Writing data to disk...");
 			index.WriteData(gamePath + EXTRACT_FOLDER);
