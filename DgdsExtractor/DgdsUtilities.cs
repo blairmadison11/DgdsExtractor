@@ -22,22 +22,15 @@ namespace DgdsExtractor
 		public static string ReadIdentifier(BinaryReader data)
 		{
 			byte[] id = data.ReadBytes(ID_LENGTH);
-			if (id[3] != ':')
+
+			if (id[ID_LENGTH - 1] != ':')
 			{
 				throw new Exception("Invalid header!");
 			}
 
-			string idStr;
-			if (id[2] == (byte)0)
-			{
-				idStr = Encoding.ASCII.GetString(id[0..2]);
-			}
-			else
-			{
-				idStr = Encoding.ASCII.GetString(id[0..3]);
-			}
+			int endIndex = ID_LENGTH - (id[2] == (byte)0 ? 2 : 1);
 
-			return idStr;
+			return Encoding.ASCII.GetString(id[0..endIndex]);
 		}
 
 		// Decompress the given data according to the type of compression specified
