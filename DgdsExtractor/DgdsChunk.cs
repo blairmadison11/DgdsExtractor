@@ -33,7 +33,7 @@ namespace DgdsExtractor
 			if (!isContainer)
 			{
 				section = DgdsMetadata.GetAssetSection(idStr);
-				if (DgdsMetadata.IsCompressed(ChunkType, section))
+				if (DgdsMetadata.IsCompressed(type, section))
 				{
 					byte compressionType = assetData.ReadByte();
 					assetData.ReadUInt32(); // skip unpack size
@@ -78,7 +78,7 @@ namespace DgdsExtractor
 						
 						if (line.EndsWith("\n?"))
 						{
-							line = line[0..(line.Length - 2)].Trim();
+							line = line[0..^2].Trim();
 						}
 
 						if (line.Length > 1)
