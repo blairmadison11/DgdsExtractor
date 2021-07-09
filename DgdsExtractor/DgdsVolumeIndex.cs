@@ -71,6 +71,7 @@ namespace DgdsExtractor
 		public void WriteText(string path)
 		{
 			using StreamWriter writer = new StreamWriter(File.Create(path + "dialogue.txt"));
+			writer.WriteLine("DGDS Extractor 1.0\nExtracted Game Text\n");
 			foreach (DgdsVolume volume in volumes)
 			{
 				volume.WriteText(writer);
