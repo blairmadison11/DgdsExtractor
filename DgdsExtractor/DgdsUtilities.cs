@@ -28,7 +28,7 @@ namespace DgdsExtractor
 				throw new Exception("Invalid header!");
 			}
 
-			int end = id[2] == (byte)0 ? 2 : 1;
+			int end = id[^2] == (byte)0 ? 2 : 1;
 
 			return Encoding.ASCII.GetString(id[0..^end]);
 		}
