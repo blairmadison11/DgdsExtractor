@@ -23,14 +23,14 @@ namespace DgdsExtractor
 		{
 			byte[] id = data.ReadBytes(ID_LENGTH);
 
-			if (id[ID_LENGTH - 1] != ':')
+			if (id[^1] != ':')
 			{
 				throw new Exception("Invalid header!");
 			}
 
-			int endIndex = ID_LENGTH - (id[2] == (byte)0 ? 2 : 1);
+			int end = id[2] == (byte)0 ? 2 : 1;
 
-			return Encoding.ASCII.GetString(id[0..endIndex]);
+			return Encoding.ASCII.GetString(id[0..^end]);
 		}
 
 		// Decompress the given data according to the type of compression specified
