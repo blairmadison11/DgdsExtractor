@@ -1,3 +1,6 @@
+DGDS Extractor 1.0
+Extracted Game Text
+
 ******************** S99.SDS ********************
 
 ******************** S2.SDS ********************
@@ -10,7 +13,6 @@ This once fashionable garment is nearing the end of its useful life, having endu
 
 BLADE'S PISTOL:
 With & Smesson Police Special pulse particle beam handgun.
-
 A meticulousy maintained relic from Blade's past career as a peace officer.  This gun is extremely reliable but it lacks the firepower of many modern sidearms.
 
 BLADE'S ID CARD:
@@ -78,8 +80,7 @@ CHANDRA'S PHOTO:
 
 APPD:
 NaPent Aerosol Personal Protection Device.
-
-This product was developed with the idea of providing "A safe and humane way of disabling an assailant."  Theoretically, it is supposed to induce a state of extreme euphoria which renders the target incapable of any hostile actions.  
+This product was developed with the idea of providing "A safe and humane way of disabling an assailant."  Theoretically, it is supposed to induce a state of extreme euphoria which renders the target incapable of any hostile actions.
 
 SCREW DRIVER:
 Sears CraftsPerson phillips-head screwdriver.
@@ -89,7 +90,6 @@ These wires look like they could hold a lot of voltage.  They might be usefull i
 
 FORTUNE COOKIE:
 This stale fortune cookie has an unusual fortune... It says:
-
 "RYP YWP YRPWRY PBW".
 
 I probably shouldn't use this medical kit until I have some injuries.
@@ -133,25 +133,21 @@ Cabinet door handles.
 A phase 4 water alert and my sink's drippin' away half the Pacific!
 
 Fisto Powdered H20.
-
 Commonly referred to as "dry wash", powdered H20 is a chemical cleaning agent capable of eating through even the toughest stains (and skin, if left on for prolonged periods of time).
 
 Fisto Inc. is a multinational organization which produces products as varied as field flux generators and breakfast pellets.
 
 Fisto Oatmeal.
-
 Multigrain "oat" meal, long suspected as the cause of numerous cases of spontaneous combustion. Ruled safe by the FDA-World Sector amid storms of protest.
 
 Salt and pepper shakers.
-
 The salt has taken on a stiff, concrete-like texture, and the pepper has the odor of wet cat.
 
-Tepid water. 
+Tepid water.
 
 Lukewarm water.
 
 Fisto bar.
-
 A black market item, Fisto bars are made of chocolate and melted banana peels. Chocolate is a very rare and sought-after item.
 
 This just might come in handy for my friends at the Pleasure Dome.
@@ -197,11 +193,9 @@ Doesn't look like I'd better do any sleepwalking for awhile...
 One wrong step to the bathroom and I'd REALLY have something to piss about!
 
 Wow!
-
 One wrong step could bring a fall!  Maybe I shouldn't go this way!
 
 Hey!!!
-
 These boards are loose!
 
 Whoops!
@@ -298,7 +292,6 @@ This once fashionable garment is nearing the end of its useful life, having endu
 
 BLADE'S PISTOL:
 With & Smesson Police Special pulse particle beam handgun.
-
 A meticulousy maintained relic from Blade's past career as a peace officer.  This gun is extremely reliable but it lacks the firepower of many modern sidearms.
 
 BLADE'S ID CARD:
@@ -366,8 +359,7 @@ CHANDRA'S PHOTO:
 
 APPD:
 NaPent Aerosol Personal Protection Device.
-
-This product was developed with the idea of providing "A safe and humane way of disabling an assailant."  Theoretically, it is supposed to induce a state of extreme euphoria which renders the target incapable of any hostile actions.  
+This product was developed with the idea of providing "A safe and humane way of disabling an assailant."  Theoretically, it is supposed to induce a state of extreme euphoria which renders the target incapable of any hostile actions.
 
 SCREW DRIVER:
 Sears CraftsPerson phillips-head screwdriver.
@@ -377,7 +369,6 @@ These wires look like they could hold a lot of voltage.  They might be usefull i
 
 FORTUNE COOKIE:
 This stale fortune cookie has an unusual fortune... It says:
-
 "RYP YWP YRPWRY PBW".
 
 I probably shouldn't use this medical kit until I have some injuries.
@@ -389,11 +380,9 @@ Ahhh, that's better.
 Maybe I should put some clothes on...
 
 VidPhone Terminal.
-
 Two-way audio visual communications device.
 
 Overcoat. 
-
 Formed of synthesized animal hide, blackened by age and exposure to pollution.
 
 Jeez, I'm a friggin' slob! Clothes everywhere, empty beer cans... Mom would roll in her grave...
@@ -435,7 +424,7 @@ Maybe I should grab my coat, too!
 
 I should probably get my coat in case it rains.
 
-Let's see, have I forgotten anythng?  
+Let's see, have I forgotten anythng?
 
 Your pistol.
 
@@ -447,8 +436,7 @@ We've had more reports come in of kids dying...
 
 MOMAR'S USED CARS:
 Need a good, used hovercar?
-
-Momar's cars has the answer for you! Come down and check out our fine selection of new and used hovercars! 
+Momar's cars has the answer for you! Come down and check out our fine selection of new and used hovercars!
 
 MAYOR VINCENZI:
 ...all were horribly disfigured like my... (gulp) ...my poor daughter.
@@ -460,28 +448,23 @@ MAYOR VINCENZI:
 Good luck!
 
 Books, books, books...
-why the hell do I have so many of these musty relics? 
+why the hell do I have so many of these musty relics?
 
 ...not like I'm gonna read any of this stuff...
 
 VidPhone viewscreen.
-
 Carries very rough black and white images of the other party. Image quality is poor due to severe atmospheric radiation and pollution.
 
 VidPhone camera.
-
-Picks up and transmits black and white digital signal at approximately 8 frames per second to other viewing party. 
+Picks up and transmits black and white digital signal at approximately 8 frames per second to other viewing party.
 
 Keyboard input.
-
 Voice command input is reserved for the wealthy. Most commoners have to get by with obsolete manual input.
 
 I.D. card entry slot.
-
 Activation of unit is dependent upon insertion of authorized I.D. card.
 
 VidPhone remote control.
-
 Laziness is a way of life, even in the 21st century...
 
 Empty can of Bio-Beer.
@@ -493,13 +476,11 @@ A green wire.
 Another friggin' wire! This place looks like a Radio-tech construction kit!
 
 VidPhone power switch.
-
 Rumor has it that it turns the box of wires ON and OFF...
 
 Message Waiting indicator.
 
 Facsimile output.
-
 Two-way image hardcopy delivery system.
 
 Never know when I'm gonna need my ammo...
@@ -519,10 +500,10 @@ MAYOR VINCENZI:
 after she was found.
 
 MAYOR VINCENZI:
-It's not pretty, but you might need it. 
+It's not pretty, but you might need it.
 
 MAYOR VINCENZI:
-I don't need to remind you that this investigation is strictly unofficial. I don't want a word of this to leak to the press. 
+I don't need to remind you that this investigation is strictly unofficial. I don't want a word of this to leak to the press.
 
 MAYOR VINCENZI:
 You've got to find out what's causing this! I suggest that you start at the Pleasure Dome.
@@ -647,7 +628,6 @@ Rickety deathtrap elevator.
 Blade's front door.
 
 Security lock.
-
 Requires proper I.D. card.
 
 It's probably not a good idea for me to be waving a gun around here!
@@ -798,18 +778,16 @@ NaPent isn't going to do me any good here!
 ******************** S22.SDS ********************
 
 POLICE DISPATCHER:
-Unit 41... Unit 41...   
+Unit 41... Unit 41...
 
 UNIT 41:
 Unit 41, roger.
-
 
 POLICE DISPATCHER:
 We have a silent alarm at 544 Wallaby Street, #798.  Go check it out!
 
 UNIT 41:
 Unit 41, understood!
-
 Alright men, lets move it!  Set pulse lasers to maximum dispersion!  This is a tough area, and it might be another one of those mutants!
 
 POLICE DISPATCHER:
@@ -819,7 +797,7 @@ UNIT 41:
 We just came from Wallaby Street!  The homicide boys rushed us outta there.  Said they were under special orders from the mayor!
 
 POLICE DISPATCHER:
-Well, go check it out!  
+Well, go check it out!
 
 To bathroom.
 
@@ -828,10 +806,9 @@ To bedroom.
 VidPhone terminal.
 
 The remains of an expensive couch...
-
 It reeks of stale beer and cigarettes.
 
-Chen has an impressive amount of expensive audio-video equipment. 
+Chen has an impressive amount of expensive audio-video equipment.
 
 Where does this guy get the money for all this stuff!
 
@@ -880,11 +857,9 @@ NaPent isn't going to do me any good here!
 ******************** S24.SDS ********************
 
 Whirladaire Servo-Ventilator.
-
 An urban necessity due to consistently dangerous levels of industrial air pollution here in the City of Angels.
 
 A most unusual statue.
-
 Something evil about the eyes makes it seem almost as if it were alive.
 
 It's a safe!
@@ -919,7 +894,7 @@ A four-digit combination... maybe Lu hid the number somewhere....
 
 one... I hate that number...
 
-dammit! I should'a finished grade school... 
+dammit! I should'a finished grade school...
 
 It's such "the loneliest number".
 
@@ -1014,7 +989,7 @@ Dispatch!... We have the place surrounded!  We're moving in now!
 
 POLICE DISPATCHER:
 Unit 41 ... Unit 41 ...
-We have an illegal entry at 554 Wallaby Street, #798.  Go check it out!  
+We have an illegal entry at 554 Wallaby Street, #798.  Go check it out!
 
 POLICE DISPATCHER:
 Unit 41 ... Unit 41 ... We have a report of an explosion at 554 Wallaby Street, #798.  Respond code 2 to that address!
@@ -1055,7 +1030,6 @@ OK, pal. If you're ready to cooperate, we can turn you loose.
 
 BLADE:
 1.  Take a hike!  I like it here.
-
 2.  Great!  I'm ready.
 
 ******************** S75.SDS ********************
@@ -1106,11 +1080,8 @@ No guns allowed!  Check 'em or get lost!
 
 BLADE:
 1. What's your problem?
-
 2. No problem!  Take good care of em'.
-
 3. Hey guys!  I'm not going to blow the place away!
-
 4. I didn't want to go in there anyway.
 
 SLEN:
@@ -1124,9 +1095,7 @@ Your piece!  I won't ask nice again!
 
 BLADE:
 1. Hey, nice attitude buddy!
-
 2. I think I'll hang on to it, thanks.
-
 3. Alright!  It better be waiting for me when I get back!
 
 SLEN:
@@ -1140,9 +1109,7 @@ Sure thing!  Handle it like it was my very own!
 
 BLADE:
 1. That's all I'm packing.
-
 2. Well, my socks can be deadly.  Want them too?
-
 3. What do I look like?  A walking strike force?
 
 SLEN:
@@ -1156,9 +1123,7 @@ You got yourself a very unhealthy attitude, friend!
 
 BLADE:
 1. Alright!  You boys have no sense of humor.
-
 2. Yeah, yeah... here you go.
-
 3. You have got one major attitude problem!
 
 SLEN:
@@ -1184,9 +1149,7 @@ Now get inside before I change my mind!
 
 BLADE:
 1. So I've heard...
-
 2. Yeah?  Well, it could be the steroid-enhanced company!
-
 3. Yeah, yeah... save me the speech, will ya?
 
 SLEN:
@@ -1203,9 +1166,7 @@ Now one last time... you want in or not?!!
 
 BLADE:
 1. That's it.
-
 2. You wanna frisk me?
-
 3. What do you think?  I'm carrying a kilo of neural gas?
 
 SLEN:
@@ -1219,9 +1180,7 @@ I think I'm tired of seeing your ugly face!
 
 BLADE:
 1. Mother always said that I was special.  Here's my piece.
-
 2. Wow!  DNA mutation... You pick that up at the steroid clinic?
-
 3. Why don't you and Fido there go find a bone to chew?!
 
 SLEN:
@@ -1235,9 +1194,7 @@ Bad call, mister!
 
 BLADE:
 1. Sorry, can I go in now?
-
 2. What the hell is your problem?
-
 3. What is this? Good cop, bad cop?
 
 SLEN:
@@ -1272,9 +1229,7 @@ You're not such a bad guy after all!
 
 BLADE:
 1. Who you calling pretty boy, butt-head?!
-
 2. Hey, sorry!  Don't want any trouble!  Here's my gun.
-
 3. Alright, but it better be waiting for me when I leave!
 
 Entrance to Pleasure Dome.
@@ -1337,9 +1292,7 @@ Well then I guess you're outta luck, buddy.
 
 BLADE:
 1.  Like hell!  You give me my gun or there's gonna be trouble!
-
 2.  Maybe we can work out a deal.
-
 3.  Damn!  I guess I am.
 
 SLEN:
@@ -1373,7 +1326,7 @@ MASTER CONTROL:
 4.  Reset to first encounter
 5.  Exit and re-enter scene
 
-A mountain of a man holding a very large and lethal-looking automatic weapon stands guard at the entrance to the Pleasure Dome. 
+A mountain of a man holding a very large and lethal-looking automatic weapon stands guard at the entrance to the Pleasure Dome.
 
 A dangerous-looking cyborg leans against the wall next to the "coat"-check window.
 
@@ -1449,7 +1402,7 @@ Go investigate yourself somewhere else, Mr. P.I.!
 PATCH:
 Whoa, what's that smell?! You float an air biscuit?
 
-A sour-looking man with a patch over one eye pounds tequila straight shots at a table near the main stage. 
+A sour-looking man with a patch over one eye pounds tequila straight shots at a table near the main stage.
 
 People of every size and description can be found lounging about the room in various stages of intoxication.
 
@@ -1491,11 +1444,8 @@ Now what do you want?
 
 BLADE:
 1. I'm looking for a man named "The Jake".  Seen him?
-
 2.  Have you ever seen a girl in here named Chandra?
-
 3.  You have quite a card game going here.
-
 
 FU BAR:
 Hurry up and discard, Darce!
@@ -1577,20 +1527,15 @@ To main entrance.
 
 BLADE:
 1. I'm sure you are.
-
 2. Get lost.
-
 3. I'm looking for "The Jake".
-
 
 Yo, kissup,
 what you want?
 
 BLADE:
 1. I'm looking for "The Jake".
-
 2. Who you calling kissup, slosh brain?
-
 3. I'm investigating a murder.  I'd like to ask you a few questions.
 
 Hey, uptown, your attitude leaves a lot to be desired.  Think you'd better pound some other beat!
@@ -1599,9 +1544,7 @@ You a slicker?  I don't hang with no slickers.  Take a hike.
 
 BLADE:
 1. Look, you little pisshead!  I've had a bad morning, and I'm not likely to take any crap from a gutter-crawling scum like you!  Now... you know where I can find this guy called "The Jake"?
-
 2. A friend of his is in some trouble.
-
 3. Ease up, buddy! I'm just looking for some information.
 
 Information!  You got some "hardware" to cover such requests?
@@ -1768,27 +1711,18 @@ Sorry, dude... I mean, Blade.
 
 BLADE:
 1. I'm looking for some information.
-
 2. Do you know where a guy can go for a good time?
-
 3. You look kinda funny.
 
-
 BLADE:
 1. Ever seen a girl in here named Chandra?
-
 2. I'm looking for a man who calls himself "The Jake."  Ever heard of him?
-
 3. I hear there's a lot of dealing that goes on in here.  Know where I can find a good dose?
 
-
 BLADE:
 1. Ever seen a girl in here named Chandra?
-
 2. Never mind!  I can see I'm talking to a total veg-head.
-
 3. I hear there's a lot of dealing that goes on in here.  Know where I can find a good high?
-
 
 CASEY JONES:
 Last time I saw her, she was with The Jake.  That was awhile ago, though.
@@ -1867,11 +1801,8 @@ Don' matta!  Ya still smell like pig, mon!
 
 BLADE:
 1. You're ugly and you smell bad!
-
 2.  I'm looking for a man called "The Jake".  Seen him around?
-
 3.  Don't gimme that!  I want a drink, dammit!
-
 
 MUJALAMBO:
 You startin' to get on me nerves!
@@ -1944,11 +1875,8 @@ you slickers aren't much without your guns.
 
 BLADE:
 1.  We need to talk.
-
 2.  Let's continue with our discussion of Chen.
-
 3.  I need your help, but don't piss me off, kid!
-
 
 THE JAKE:
 We don't got nothin' to talk about!
@@ -1964,11 +1892,8 @@ Oh! The Jake is scared!
 
 BLADE:
 1.  I think we do!
-
 2.  Look, you little gutter scum! I want information about CHEN!!
-
 3.  The hell we don't! In your booth...NOW!!
-
 
 THE JAKE:
 Hunter, there ain't nothin' left to say! Why don't you just haul your butt outta here?
@@ -1984,11 +1909,8 @@ Alright, alright! Get all static ridden, why don't ya!
 
 BLADE:
 1.  Look, gutter slime! I'm not in the mood for your crap!
-
 2.  Sorry... it's been a lousy day... I just want to find out what happened to your friend.
-
 3.  Do we have to go through this again?
-
 
 THE JAKE:
 I see your manners haven't improved much since our last visit!
@@ -2004,11 +1926,8 @@ Why don't you come back when you have a REAL attitude?!
 
 BLADE:
 1.  Kid, you got yourself a very unhealthy attitude!
-
 2.  Come on! I just want to talk a little business!
-
 3.  Sure... I'll leave you alone... I'll be sure to tell Chandra's parents what good friends she had.
-
 
 THE JAKE:
 Hunter, just get outta my face!
@@ -2030,11 +1949,8 @@ Yeah, you do that.
 
 BLADE:
 1.  Hey! You ain't seen harassment yet!
-
 2.  Come on, kid... I just want to find out what happened to your friend.
-
 3.  Listen, Jake! Whatever killed your friend is still out there...
-
 
 THE JAKE:
 Yeah?
@@ -2068,11 +1984,8 @@ let's talk more privately.
 
 BLADE:
 1.  Yeah... I've had a few women tell me the same thing.
-
 2.  Always fancied myself the "Mo" of private investigators.
-
 3.  Nothing funny about what happened to your friend!
-
 
 THE JAKE:
 Yeah, right.
@@ -2118,11 +2031,8 @@ Don't you get the clue?  I don't wanna talk to you!
 
 BLADE:
 1.  Yeah?  Well I'm not really thrilled about having to talk to you either!
-
 2.  We don't help each other out, Chandi's murderer will never be found!
-
 3.  I'm tired of playing with you!  Now WHO IS CHEN!??
-
 
 THE JAKE:
 You gotta point?
@@ -2147,11 +2057,8 @@ Come on, let's talk in private.
 
 BLADE:
 1.  The point is, your friend is dead and we're no closer to finding out who did it.
-
 2.  You make a joke out of everything?
-
 3.  I wanna find your friend's killer...
-
 
 THE JAKE:
 Alright, let's talk...
@@ -2176,11 +2083,8 @@ He's got people everywhere.
 
 BLADE:
 1.  'Cause I hate murder...  makes my stomach turn!
-
 2.  'Cause I can't just hide my head in the sand whenever trouble comes along!
-
 3.  That's just the kinda guy I am.
-
 
 THE JAKE:
 Yeah. Mine too...
@@ -2310,11 +2214,8 @@ I told her! Told her that Chen was...
 
 BLADE:
 1.  What can you tell me?
-
 2.  Who is Chen?	     
-
-3.  I'm sorry.              
-
+3.  I'm sorry.
 
 THE JAKE:
 Look, man, you don't wanna mess with this! This has some big-time flatliners behind it! Just leave it alone!
@@ -2327,11 +2228,8 @@ Yeah? You be a lot sorrier, you keep pokin' into this!
 
 BLADE:
 1.  Come on! Help me on this!
-
 2.  Who's this Chen?	         
-
-3.  Who you afraid of?	
-
+3.  Who you afraid of?
 
 THE JAKE:
 Don't you hear?
@@ -2344,11 +2242,8 @@ REAL bad!
 
 BLADE:
 1.  Look, all I want to do is help! Who was she mixed up with?
-
 2.  Why am I wasting my time with you?
-
 3.  Look, fry-brain! More than your scuzzy little hide is riding on this!
-
 
 THE JAKE:
 Alright man! You didn't hear anything from me...
@@ -2367,19 +2262,13 @@ You really wanna help, you'll just leave me alone...
 
 BLADE:
 1.  Anything else?                                   
-
 2.  Didn't hear a thing.                             
-
 3.  You be around if I find out anything?
-
 
 BLADE:
 1.  Alright, alright! You get anything, give me a call.
-
 2.  You are a pathetic excuse for a friend!               
-
-3.  Look, I'm sorry about your friend.                     
-
+3.  Look, I'm sorry about your friend.
 
 THE JAKE:
 Bub, you are truly unreal! You want my head to end up in a wonton factory?
@@ -2440,11 +2329,8 @@ Man, you have to ask that, then you're dumber than you look!
 
 BLADE:
 1.  Look, you waste-oid! You think Chandra just bubbled into the pavement 'cause she had nothin' better to do?
-
 2.  Maybe, but I wasn't the one who got 'er brains melted into the pavement.
-
 3.  This guy that big?
-
 
 THE JAKE:
 Don't crash on me, slicker...
@@ -2472,11 +2358,8 @@ One word from Chen and I'm pushin' up waste barrels in some radiation dump!
 
 BLADE:
 1. You got an address you can share?
-
 2. Who's this "Chen" pal of yours?        
-
-3. You're a friggin' little coward!        
-
+3. You're a friggin' little coward!
 
 THE JAKE:
 You are amazing!
@@ -2510,11 +2393,8 @@ I'll be around, you need me.
 
 BLADE:
 1.  O.K., I get the message!          
-
 2.  You're a friggin' little coward!
-
-3.  I won't say a word.                
-
+3.  I won't say a word.
 
 THE JAKE:
 Wait!
@@ -2563,11 +2443,8 @@ I'll be around, you need me.
 
 BLADE:
 1.  You're lying!                                                                         
-
 2.  How was Chandra mixed up with this guy?                          
-
 3.  You think Chandra would want you covering this guy's ass?
-
 
 THE JAKE:
 The hell I am!
@@ -2577,11 +2454,8 @@ Why don't you just back off?!
 
 BLADE:
 1.  Why don't you show a little backbone?
-
 2.  OK! OK! Sorry!                                     
-
 3.  Why am I wasting my time with you?
-
 
 THE JAKE:
 Hey! I got a backbone!
@@ -2597,11 +2471,8 @@ Hell if I know! Not like I'm enjoying our little convo!
 
 BLADE:
 1.  You gonna help me find Chandra's killer or not?
-
 2.  It's been real nice!
-
 3.  You think Chandra enjoyed what happened to her?
-
 
 THE JAKE:
 Look, you wanna play private dick? Fine with me!
@@ -2662,11 +2533,8 @@ I told you! I don't know what you're talking about!
 
 BLADE:
 1.  She was your friend, wasn't she?
-
 2.  I'm talkin' about your dead friend and some guy named Chen.
-
-3.  I'll bet your melted friend Chandra would know what I'm talkin' about! 
-
+3.  I'll bet your melted friend Chandra would know what I'm talkin' about!
 
 THE JAKE:
 Yeah, she was my friend!
@@ -2697,11 +2565,8 @@ She was never no harm to nobody! You got no right talkin' about her like that!
 
 BLADE:
 1.  WHO THE HELL IS "CHEN"?!!                 
-
 2.  You're some friend!                            
-
-3.  How about I scoop 'em out for you?!! 
-
+3.  How about I scoop 'em out for you?!!
 
 THE JAKE:
 I tried to protect her...
@@ -2726,11 +2591,8 @@ How 'bout you say goodbye, ass-wipe?!
 
 BLADE:
 1.  Looks like she drugged 'em up really good!
-
 2.  You got an address on this Chen?               
-
-3.  Women...                                                    
-
+3.  Women...
 
 THE JAKE:
 Yeah...
@@ -2773,11 +2635,8 @@ Dammit! What the hell did this to her??
 
 THE JAKE:
 1.  Whatever it was is still out there!
-
 2.  You're just gonna wait for this to happen to ANOTHER one of your friends?
-
 3.  I don't know... but someone does! Why don't you help me out?
-
 
 THE JAKE:
 So!
@@ -2805,11 +2664,8 @@ She was my only friend.
 
 BLADE:
 1.  That all you care about? Yourself?
-
 2.  You don't tell me what I want to know, and I might just beat them to it!
-
-3.  She was your friend.                   
-
+3.  She was your friend.
 
 THE JAKE:
 Look, you got no right talkin' to me like that!
@@ -2849,11 +2705,8 @@ I'll be around, you need me.
 
 BLADE:
 1.  What's this guy's name and address?   
-
 2.  Well, that's no big surprise!                 
-
-3.  Look, kid, we all got our problems.      
-
+3.  Look, kid, we all got our problems.
 
 THE JAKE:
 Alright...
@@ -2899,11 +2752,8 @@ stupid, stupid, stupid...
 
 BLADE:
 1.  Look, kid, we all got our problems.             
-
 2.  Stop sniveling and help me find her killer!
-
-3.  What's this guy's name and address?        
-
+3.  What's this guy's name and address?
 
 THE JAKE:
 Yeah...
@@ -2955,11 +2805,8 @@ I'll be around, you find anything out.
 
 BLADE:
 1.  You have any idea what could have done this to her?
-
 2.  What was she mixed up with? Prostitution? Drugs?  
-
-3.  I thought you were supposed to be her friend!         
-
+3.  I thought you were supposed to be her friend!
 
 THE JAKE:
 How the hell should I know!?
@@ -2987,11 +2834,8 @@ she didn't deserve this!
 
 BLADE:
 1.  You got an address you can share?
-
 2.  Look, all I want to do is help! Who was she mixed up with?
-
 3.  Look, you waste-oid! You think Chandra just bubbled into the pavement because she had nothing better to do?
-
 
 THE JAKE:
 Yeah? Well maybe she didn't have the best taste in company!
@@ -3001,11 +2845,8 @@ I gotta go.
 
 BLADE:
 1.  You're right. Sounds like B.S.      
-
 2.  I don't believe in that crap. Why don't you just tell me what you know?
-
 3.  TELL ME WHERE TO FIND CHEN!!
-
 
 THE JAKE:
 Told you it did!
@@ -3021,11 +2862,8 @@ The skies turnin' to blood, the rivers boilin', dogs and cats livin' together...
 
 BLADE:
 1.  Yeah, yeah... real funny. You think we got Gozer the Traveler runnin' 'round meltin' people?
-
 2.  Cut the crap and just let me know who this "Chen" character is!
-
-3.  Sound like a bad movie! 
-
+3.  Sound like a bad movie!
 
 THE JAKE:
 Who knows...?
@@ -3190,9 +3028,7 @@ I'd like to buy some flowers.
 
 BLADE:
 1. I'd like to buy some flowers.
-
 2. Just stopping to smell the roses.
-
 
 BLADE:
 What?!!  This is a flower shop!
@@ -3235,11 +3071,8 @@ Are you the one the prophecy speaks of?
 
 BLADE:
 1.  Yes.
-
 2.  No.
-
 3.  What prophecy?
-
 
 BUM:
 You must save us all!!!
@@ -3326,11 +3159,8 @@ you know...
 
 BLADE:
 1.   I'm flattered, but I'm a one girl kind of guy, and right now I'm spoken for.
-
 2.  It sounds intriguing, but I need to see the mayor, Jenni.
-
 3. How about getting together later for a little one-on-one?
-
 
 JENNI:
 Darn it!
@@ -3365,11 +3195,8 @@ Well, enough of this idle speculation...  You'd better run along now, Blade.  Ci
 
 BLADE:
 1. I'm flattered, Jenni, but I'm a one girl kind of guy and right now I'm spoken for.  Besides, I really need to talk with Karyn.
-
 2. It sounds intriguing, but I really need to talk to Karyn.
-
 3. Maybe we should take a little drive later...
-
 
 JENNI:
 Down in flames again!
@@ -3409,11 +3236,8 @@ Hello, handsome! What can I do for you now?
 
 BLADE:
 1.  I'd like to get in to see the mayor, if it's possible.
-
 2.  I need to see Karyn Sommers in the Bureau of Records.
-
 3.  I kind of thought we might have some unfinished business to talk about.
-
 
 JENNI:
 No can do, Blade!  I'm sorry, but he's very busy right now.
@@ -3608,11 +3432,8 @@ Yeah, and a lot of it's in this building!
 
 BLADE:
 1. A threat? I'm really scared.
-
 2. I've had enough of this crap!  I'm leaving.
-
 3. You should show a little more courtesy to someone who has information that could cost you the next election!
-
 
 MAYOR:
 Not so fast!  You have some information for me, I believe.
@@ -3625,9 +3446,7 @@ And likely a drug addict to boot!
 
 BLADE:
 1. Well, you charmed it out of me.
-
 2. Do your worst, Vinnie!
-
 
 BLADE:
 Chandi was hangin' 'round a China Mafioso name o' Chen Lu.  It seems he gave her some bad juice.
@@ -4221,9 +4040,7 @@ To street.
 To City Hall lobby.
 
 City Hall.
-
 The last bastion of freedom and democracy (cough cough) in the Big City.
-
 Hours 9:00 AM to 5:00 PM
 
 It's probably not a good idea for me to be waving a gun around here!
@@ -4295,11 +4112,8 @@ Looks like somethin' very nasty's about to come down...
 
 BLADE:
 1. You ever heard of anything called M.T.Z.?
-
 2. What's the word out about what happened to Chen?
-
 3. Any idea who Chen was mixed up with?
-
 
 THE JAKE:
 M.T.Z.?! Where'd you hear about that?!
@@ -4336,11 +4150,8 @@ Nope. All's I know is that they're very big and mostly outta sight...
 
 BLADE:
 1. I got something I want you to look at.
-
 2. Thanks for your help. You be around if I need you again?
-
 3. My VidPhone number's in the chip. Give me a call, you hear anything else.
-
 
 THE JAKE:
 Nothin' new.
@@ -4365,11 +4176,8 @@ Sounds like a bad vidvision show, doesn't it?
 
 BLADE:
 1. Blade's fine.
-
 2. Only my friends call me Blade.
-
 3. Blade's my name... got no problem with you using it.
-
 
 THE JAKE:
 Alright. Blade it is.
@@ -4391,9 +4199,7 @@ Anything else?
 
 BLADE:
 1. That's it.
-
 2.  Yeah. What can you tell about this?
-
 
 THE JAKE:
 What the hell are you doin' with that?!
@@ -4520,11 +4326,8 @@ I look like I could afford a player??
 
 BLADE:
 1. You heard anything more on Chen?
-
 2. What's the word on the street?
-
 3. Look, kid, you gotta keep callin' me slicker?
-
 
 THE JAKE:
 The street's been pretty quiet.
@@ -4564,19 +4367,13 @@ Wonder if he had anything to do with what's got the old Chinatowners all spooked
 
 BLADE:
 1. Any word on the habits of these "patch jockeys?"
-
 2. What're the old folks so worried about?
-
 3. You don't seem to hold much of a liking for the folks in Chinatown.
-
 
 BLADE:
 1. These patch jockey M.T.Z. pumpers?
-
 3. What're the old folks so worried about?
-
 3. You don't seem to hold much of a liking for the folks in Chinatown.
-
 
 THE JAKE:
 Nothin' much, except they're all big-time pumpers.
@@ -4607,27 +4404,18 @@ keep in touch, slick.
 
 BLADE:
 1. I've got some stuff I'd like you to look at....
-
 2. Alright... you be around if I need you?
-
 3. You got any names of these "China tombstoners" of yours?
-
 
 BLADE:
 1. What do you know about an associate of Chen's named Jonny Qwong?
-
 2. Alright... you be around if I need you?
-
 3. You got any names of these "China tombstoners" of yours?
-
 
 BLADE:
 1. Ever heard Chen mention someone named Deng Hwang?
-
 2. Alright... you be around if I need you?
-
 3. You got any names of these "China tombstoners" of yours?
-
 
 THE JAKE:
 Let's see it.
@@ -4703,11 +4491,8 @@ You'll find someone willin' to spill their guts on this community-wide brain-fad
 
 BLADE:
 1. I've got something I'd like you to take a look at.
-
 2. Thanks for the info, kid. I'll be in touch.
-
 3. You got anything else for me?
-
 
 THE JAKE:
 Let's see what you got...
@@ -4732,9 +4517,7 @@ Anything else?
 
 BLADE:
 1. That's it.
-
 2. Yeah. What can you tell about this?
-
 
 THE JAKE:
 Well, then, if you'll excuse me...
@@ -4759,13 +4542,11 @@ If you don't have somethin' for me to look at, then leave me alone!
 
 BLADE:
 1.  Oops! I guess not!
-
 2.  Yeah! Hold your horses!  I'm having trouble with my inventory.
 
 MASTER CONTROL:
 1.  CANCEL
 2.  First encounter.
-
 
 Exit to Pleasure Dome bar
 
@@ -4816,7 +4597,6 @@ This once fashionable garment is nearing the end of its useful life, having endu
 
 BLADE'S PISTOL:
 With & Smesson Police Special pulse particle beam handgun.
-
 A meticulousy maintained relic from Blade's past career as a peace officer.  This gun is extremely reliable but it lacks the firepower of many modern sidearms.
 
 BLADE'S ID CARD:
@@ -4884,8 +4664,7 @@ CHANDRA'S PHOTO:
 
 APPD:
 NaPent Aerosol Personal Protection Device.
-
-This product was developed with the idea of providing "A safe and humane way of disabling an assailant."  Theoretically, it is supposed to induce a state of extreme euphoria which renders the target incapable of any hostile actions.  
+This product was developed with the idea of providing "A safe and humane way of disabling an assailant."  Theoretically, it is supposed to induce a state of extreme euphoria which renders the target incapable of any hostile actions.
 
 SCREW DRIVER:
 Sears CraftsPerson phillips-head screwdriver.
@@ -4895,7 +4674,6 @@ These wires look like they could hold a lot of voltage.  They might be usefull i
 
 FORTUNE COOKIE:
 This stale fortune cookie has an unusual fortune... It says:
-
 "RYP YWP YRPWRY PBW".
 
 I probably shouldn't use this medical kit until I have some injuries.
@@ -4910,7 +4688,7 @@ You got any spare change, mister?
 BUM:
 Man, you must have steelies!  I wouldn't go down there for nuthin'!  There are rats as big as dogs down there!
 
-Jonny Qwong's residence is a virtual fortress, complete with armed security guards and electric fences.  
+Jonny Qwong's residence is a virtual fortress, complete with armed security guards and electric fences.
 
 Highly energized and extremely deadly electric fence.
 
@@ -4969,7 +4747,7 @@ NaPent isn't going to do me any good here!
 
 ******************** S27.SDS ********************
 
-The decaying pipes carry various unprocessed hazardous waste materials to a disposal site conveniently located in a nearby wetlands area. 
+The decaying pipes carry various unprocessed hazardous waste materials to a disposal site conveniently located in a nearby wetlands area.
 
 Hmm... looks like I might be able to squeeze through there.
 
@@ -5131,7 +4909,6 @@ It is good to see you again, William Hunter!
 
 Rats the size of alley cats scurry across the floor of the dingy warehouse.
 
-
 The gigantic rats leave the warehouse through a crack in the wall behind the heat pump.
 
 A small oriental man sits meditatively on an empty shipping crate.  He has an air of great wisdom about him and seems curiously at home in this warehouse.
@@ -5144,7 +4921,6 @@ Is there some assistance that I may offer you?
 
 BLADE:
 1.  Yes. Can you tell me what is written on this parchment?
-
 2.  No, thanks.
 
 ******************** S29.SDS ********************
@@ -5287,7 +5063,6 @@ Voltage regulator.
 Locked.
 
 SuperLock model #711 bullet-proof, un-pickable lock.
-
 
 Schematic wiring diagram.
 
@@ -5440,7 +5215,6 @@ And I can sure use the money the mayor's payin' me.
 
 On the other hand...
 
-
 If I skip out on Karyn this time, she'll probably never speak to me again!
 
 I don't want to get her pissed at me, and I've been, maybe, just a LITTLE inconsiderate lately...
@@ -5448,9 +5222,7 @@ I don't want to get her pissed at me, and I've been, maybe, just a LITTLE incons
 Dammit!  It's 7:30 and I was supposed to meet Karyn at her apartment!
 
 I guess I'll:
-
 1.  Go pick her up.  It'll only take me a minute to get there.
-
 2.  Skip it.  This case is too important.  She'll understand.
 
 What should I do?
@@ -5508,7 +5280,7 @@ Guess again!
 ******************** S81.SDS ********************
 
 HENCHMAN 1:
-Wait'll the city gets a taste of this!  
+Wait'll the city gets a taste of this!
 
 HENCHMAN 2:
 In a matter of hours, the City of Los Angeles will be completely under our domination!  The rise of the Dragon is upon us!
@@ -5577,7 +5349,7 @@ Time to die, Blade!
 ******************** S95.SDS ********************
 
 I can't believe Blade stood me up AGAIN!!
-He's history now! 
+He's history now!
 
 ******************** S89.SDS ********************
 
@@ -5591,7 +5363,6 @@ This once fashionable garment is nearing the end of its useful life, having endu
 
 BLADE'S PISTOL:
 With & Smesson Police Special pulse particle beam handgun.
-
 A meticulousy maintained relic from Blade's past career as a peace officer.  This gun is extremely reliable but it lacks the firepower of many modern sidearms.
 
 BLADE'S ID CARD:
@@ -5659,8 +5430,7 @@ CHANDRA'S PHOTO:
 
 APPD:
 NaPent Aerosol Personal Protection Device.
-
-This product was developed with the idea of providing "A safe and humane way of disabling an assailant."  Theoretically, it is supposed to induce a state of extreme euphoria which renders the target incapable of any hostile actions.  
+This product was developed with the idea of providing "A safe and humane way of disabling an assailant."  Theoretically, it is supposed to induce a state of extreme euphoria which renders the target incapable of any hostile actions.
 
 SCREW DRIVER:
 Sears CraftsPerson phillips-head screwdriver.
@@ -5670,7 +5440,6 @@ These wires look like they could hold a lot of voltage.  They might be usefull i
 
 FORTUNE COOKIE:
 This stale fortune cookie has an unusual fortune... It says:
-
 "RYP YWP YRPWRY PBW".
 
 I probably shouldn't use this medical kit until I have some injuries.
@@ -5722,11 +5491,8 @@ Hello, sir. How may I help you?
 
 BLADE:
 1. My name is William Hunter.  I want to see The Man.
-
 2.  I can think of about a half-dozen ways, but right now I gotta re-thread the microspoolers in the security room.
-
 3.  You know something? You remind me of someone.
-
 
 RECEPTIONIST:
 Mr. Hwang never sees anyone without an appointment, and you are not on the list, sir.
@@ -5772,11 +5538,8 @@ I'll have to verify this, Louis.
 
 BLADE:
 1.  What for? It's only routine maintenance.
-
 2.  Go ahead.
-
 3.  I really wish you wouldn't do that.
-
 
 RECEPTIONIST:
 Nothing personal. It's standard operating procedure to call and verify these things.
@@ -5846,11 +5609,8 @@ Remember me? I'm Lorain Luttrell from Ridgemont.  We had several classes togethe
 
 BLADE:
 1.  Of course I remember you!  I could never forget a face as pretty as yours!
-
 2.  You've mistaken me for someone else.
-
 3.  You look great! What'd'ya do?  Get a face-lift?  You used to be a dog in high school!
-
 
 LORAIN:
 You always were a charmer!
@@ -5860,11 +5620,8 @@ How about getting together a little later for dinner and a drink or something?
 
 BLADE:
 1.  What do you mean, "or something"?
-
 2.  Thanks, but no thanks.
-
 3.  Sure!  We can talk about old times.
-
 
 LORAIN:
 It sounds like fun!
@@ -5916,11 +5673,8 @@ I'm sure you wouldn't, but I can't afford to risk my job!
 
 BLADE:
 1.  Oh, come on!
-
 2.  Pretty please?
-
 3.  How 'bout if I throw in a movie with dinner?
-
 
 LORAIN:
 Sorry, William, I just can't!
@@ -5955,12 +5709,11 @@ Controls for this type of device are typically operated remotely from another ro
 
 Door to security room.
 
-The receptionist for DH Enterprises has the appearance of a woman who conducts herself in a businesslike and professonal manner. 
+The receptionist for DH Enterprises has the appearance of a woman who conducts herself in a businesslike and professonal manner.
 
 She's kinda cute!
 
 Security console.
-
 The electronic lock to the security room, as well as the intruder alarm, can be activated from here.
 
 Electronically locked.
@@ -6033,13 +5786,11 @@ I don't think I should try to use NaPent on anything here!
 NaPent isn't going to do me any good here!
 
 Security team break room.
-
 Much of the security force for DH Enterpises can often be found here, guarding the corporate supply of doughnuts and coffee, making this perhaps the safest room in the entire building.
 
 Several large viewscreens display the closed-circuit video input from security cameras placed throughout the complex.
 
 Security panel.
-
 The controls for the laser gate, electronic door locks, and the alarm system are operated from this console.
 
 Door is closed.
@@ -6048,7 +5799,6 @@ Door lock
 activated.
 
 Security console chair.
-
 The guard who should be on duty here is in the break room.
 
 To break room.
@@ -6100,9 +5850,7 @@ I don't think I should try to use NaPent on anything here!
 NaPent isn't going to do me any good here!
 
 Eliminator 1200X Interrogator.
-
 Note: Surgeon General has determined use of this product may be hazardous to your health.
-
 
 E.K.G. Monitor.
 
@@ -6150,7 +5898,7 @@ The hour of our destiny is nearly upon us!
 MINIONS:
 HAIL! BAHUMAT!!
 
-A huge dragon shaped altar dominates the far end of the subterranean chamber. 
+A huge dragon shaped altar dominates the far end of the subterranean chamber.
 
 To main hallway.
 
@@ -6178,7 +5926,7 @@ Air conditioning and purification machinery.
 
 Destination map.
 
-KWD Octiphonic Audio System. 
+KWD Octiphonic Audio System.
 
 Steering wheel.
 
@@ -6379,7 +6127,6 @@ I don't think I should try to use NaPent on anything here!
 NaPent isn't going to do me any good here!
 
 Security system lockout panel.
-
 This system is designed to prevent unauthorized personnel from deactivating the laser gate or shutting down the security alarm.
 
 Manual override button 1.
@@ -6435,7 +6182,6 @@ Injection collar control wire.
 Injector lines.
 
 Arterial injection collar.
-
 Capable of rapidly introducing large amounts of any drug into a subject's bloodstream.
 
 ******************** S88.SDS ********************
